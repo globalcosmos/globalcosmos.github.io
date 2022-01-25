@@ -1,0 +1,36 @@
+{% assign partnerlist = include.partners | split:"," %}
+{% assign authorlist = include.authors | split:"," %}
+
+<div class="publication"><p>
+
+{% for author in authorlist %}
+<span class="label-author">{{ author }}</span>,
+{% endfor %}
+
+({{ include.year }}),
+
+<b>{{ include.title }}</b>,
+
+<i>{{ include.journal }}</i>,
+{{ include.numbers }},
+
+{% if include.doi %}
+<a href="https://doi.org/{{ include.doi }}">doi:{{ include.doi }}</a>,
+{% endif %}
+<br>
+{% if include.bibtex %}
+<a href="{{ include.bibtex }}" class="label-bibtex">BibTeX</a>,
+{% endif %}
+
+{% if include.partners %}
+Partners:
+{% for partner in partnerlist %}
+  <span class="label-partner">{{ partner }}</span>
+{% endfor %}
+{% endif %}
+
+{% if include.comment %}
+<blockquote><p>{{ include.comment }}</p></blockquote>
+{% endif %}
+
+</p></div>

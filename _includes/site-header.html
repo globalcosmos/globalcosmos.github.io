@@ -1,0 +1,12 @@
+{% assign feature_image = page.feature_image %}
+
+<header class="header"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
+  <div class="container">
+    {% if site.logo %}{% include site-logo.html %}{% endif %}
+
+    {% include nav-header.html %}
+  </div>
+
+  {% include site-feature.html %}
+
+</header>

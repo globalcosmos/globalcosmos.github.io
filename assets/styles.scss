@@ -1,0 +1,99 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+header.header {
+  background-image: url("/assets/backgrounds/background-1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+header.header .container {
+  padding: 0;
+}
+div.feature {
+  background: none;
+  font-size: 3em;
+  color: white;
+  text-shadow: 0 0 3px black;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+div.feature .typeset p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  line-height: 1em;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+}
+
+header *, .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6  {
+  font-family: 'Architects Daughter', serif;
+}
+
+.typeset p {
+  line-height: 1.4em;
+}
+
+.item--current a, .item--nav a:hover  {
+  color: white;
+  text-decoration: underline;
+}
+
+.item--nav a {
+  color: white;
+  text-shadow: 0 0 3px black;
+  font-size: 1.5em
+}
+
+.nav--footer .item--nav a {
+  font-size: 1em;
+  font-family: 'Architects Daughter', serif;
+}
+
+.typeset p a {
+/*  background: none;
+  text-shadow: none;*/
+}
+
+.icon {
+  width: 2em;
+  height: 2em;
+}
+
+.button--nav, .button--nav:hover, .button--nav:focus {
+  color: white;
+}
+
+span.label-author {
+  display: inline-block;
+  background-color: #FAFAEE;
+  padding: 0 0.2em;
+  border-radius: 3px;
+
+}
+
+span.label-partner {
+  display: inline-block;
+  background-color: #EDF;
+  color: #657;
+  padding: 0 0.2em;
+  border-radius: 3px;
+}
+
+a.label-bibtex {
+  color: #BBB;
+  border-bottom: #BBB;
+}
+
+.typeset blockquote {
+  margin-left: 1em;
+}
