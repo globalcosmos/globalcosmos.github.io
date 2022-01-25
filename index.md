@@ -3,8 +3,6 @@ feature_image: "/assets/backgrounds/background-1.jpg"
 feature_text: Global COSMOS .net
 ---
 
-# The Global Network of the COsmic-ray Soil Moisture Observation System
-
 Welcome to the Global COSMOS initiative to bring to together users and researchers
 of the cosmic-ray neutron soil moisture observation system (COSMOS).
 
