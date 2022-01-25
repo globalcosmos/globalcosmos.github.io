@@ -1,0 +1,33 @@
+
+Power.2021.GMD:
+  authors: D. Power, M. A. Rico-Ramirez, S. Desilets, D. Desilets, R. Rosolem
+  title: "Cosmic-Ray neutron Sensor PYthon tool (crspy 1.2.1): an open-source tool for the processing of cosmic-ray neutron and soil moisture data"
+  journal: Geosci. Model Dev.
+  numbers: 14, 7287–7307
+  doi: 10.5194/gmd-14-7287-2021
+  year: 2021
+  bibtex: https://gmd.copernicus.org/articles/14/7287/2021/gmd-14-7287-2021.bib
+  partners: University of Bristol, Hydroinnova LLC, Cabot Institute Bristol
+  comment: Ready-to-use python tool that can help to process COSMOS station data from various databases.
+
+Schroen.2018.GI:
+  year: 2018
+  title: "Intercomparison of cosmic-ray neutron sensors and water balance monitoring in an urban environment"
+  authors: M. Schrön, S. Zacharias, G. Womack, M. Köhli, D. Desilets, S. E. Oswald, J. Bumberger, H. Mollenhauer, S. Kögler, P. Remmler, M. Kasner, A. Denk, P. Dietrich
+  journal: Geoscientific Instrumentation, Methods and Data Systems
+  doi: 10.5194/gi-7-83-2018
+  numbers: 7.1, 83-99
+  bibtex: https://gi.copernicus.org/articles/7/83/2018/gi-7-83-2018.bib
+  partners: UFZ Leipzig, Hydroinnova LLC, Heidelberg University, University of Bonn, University of Potsdam, University of Halle-Wittenberg, University of Tübingen
+  comment: Intercomparison study on 10 COSMOS stations, adjusting detector parameters and sensitivity, neutron modeling of an urban environment, and areal corrections approach to exclude the influence of concrete in the footprint
+
+Zreda.2012.HESS:
+  authors: M. Zreda, W. J. Shuttleworth, X. Zeng, C. Zweck, D. Desilets, T. Franz, R. Rosolem
+  title: "COSMOS: the COsmic-ray Soil Moisture Observing System"
+  journal: Hydrol. Earth Syst. Sci.
+  numbers: 16, 4079–4099
+  doi: 10.5194/hess-16-4079-2012
+  year: 2012
+  bibtex: https://hess.copernicus.org/articles/16/4079/2012/hess-16-4079-2012.bib
+  partners: University of Arizona, Hydroinnova LLC
+  comment: This is a key paper, presenting COSMOS and the US network for the first time.

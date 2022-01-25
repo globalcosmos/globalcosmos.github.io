@@ -1,0 +1,42 @@
+{% assign items = include.items | split: ", " %}
+{% assign datafile = {{include.file}} %}
+{% assign datalist = site.data[datafile] %}
+
+{% if include contains items %}
+  {% assign list = items %}
+{% else %}
+  {% assign list = datalist %}
+{% endif %}
+
+{% assign previousyear = 0 %}
+
+{% for entry in list %}
+
+  {% if include contains items %}
+    {% assign entrykey = entry %}
+  {% else %}
+    {% assign entrykey = entry[0] %}
+  {% endif %}
+  {% assign listentry = datalist[entrykey] %}
+
+  {% assign currentyear = listentry.year %}
+  {% if currentyear != previousyear %}
+## {{ currentyear }}
+    {% assign previousyear = currentyear %}
+  {% endif %}
+
+  {% include publication.html
+    authors=listentry.authors
+    title=listentry.title
+    journal=listentry.journal
+    numbers=listentry.numbers
+    doi=listentry.doi
+    year=listentry.year
+    bibtex=listentry.bibtex
+    partners=listentry.partners
+    comment=listentry.comment
+    nobibtex=include.nobibtex
+    nopartners=include.nopartners
+    nocomment=include.nocomment
+  %}
+{% endfor %}

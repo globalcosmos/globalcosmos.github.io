@@ -18,19 +18,21 @@
 <a href="https://doi.org/{{ include.doi }}">doi:{{ include.doi }}</a>,
 {% endif %}
 <br>
-{% if include.bibtex %}
+{% if include.bibtex  and include.nobibtex != true %}
 <a href="{{ include.bibtex }}" class="label-bibtex">BibTeX</a>,
 {% endif %}
 
-{% if include.partners %}
+{% if include.partners  and include.nopartners != true %}
 Partners:
 {% for partner in partnerlist %}
   <span class="label-partner">{{ partner }}</span>
 {% endfor %}
 {% endif %}
 
-{% if include.comment %}
+</p>
+
+{% if include.comment and include.nocomment != true %}
 <blockquote><p>{{ include.comment }}</p></blockquote>
 {% endif %}
 
-</p></div>
+</div>
