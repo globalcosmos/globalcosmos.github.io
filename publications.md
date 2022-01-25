@@ -32,3 +32,7 @@ excerpt: "COSMOS Publications"
   partners="University of Arizona, Hydroinnova LLC"
   comment="This is a key paper, presenting COSMOS and the US network for the first time."
 %}
+
+# Test
+
+{% include publication_list.html items="Power.2021.GMD, Zreda.2012.HESS" file="publications" caption="List of COSMOS Publications" %}
