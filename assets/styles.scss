@@ -4,13 +4,15 @@ styles: true
 ---
 
 @import "alembic";
+/*
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
-
+*/
 header.header {
   background-image: url("/assets/backgrounds/background-1.jpg");
   background-size: cover;
   background-position: center;
+  background-color: #AAA;
 }
 
 header.header .container {

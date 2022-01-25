@@ -1,16 +1,10 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
-
-Version 2.0
-
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
-
-or
-
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+# Repository for Global COSMOS .net
 
 # Contribute
+
+- Suggest new content under [Issues](https://github.com/globalcosmos/globalcosmos.github.io/issues) or drop us an email.
+
+# Details
 
 - Understand the folder structure: <https://jekyllrb.com/docs/structure/>
 
