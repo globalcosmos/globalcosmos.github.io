@@ -17,11 +17,11 @@ Cunnersdorf:
   data: https://essd.copernicus.org/preprints/essd-2021-325
   citation: Bogena.2022.ESSD
 
-Sheepdrove1:
+Sheepdrove_1:
   active: true
   period: 2015-today
-  affiliation: Uni Bristol
-  network:
+  affiliation: University of Bristol
+  network: other
   country: England
   lat: 51.5153
   lon: -1.4581
@@ -34,7 +34,7 @@ Sheepdrove1:
   has_gw: false
   contact: rafael.rosolem@bristol.ac.uk
   data: https://essd.copernicus.org/preprints/essd-2021-325/
-  citation: Iwema.2021.HP
+  citation: Iwema.2021.HP, Bogena.2022.ESSD
 
 Zugspitze:
   active: false

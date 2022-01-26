@@ -31,7 +31,9 @@ div.feature .typeset p {
   padding-bottom: 0;
   line-height: 1em;
 }
-
+div.feature .container {
+  min-height: 17vh;
+}
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
@@ -98,4 +100,27 @@ a.label-bibtex {
 
 .typeset blockquote {
   margin-left: 1em;
+}
+
+div.map_controls label, div.map_controls b {
+  padding: 0;
+  font-size: 0.8em;
+  margin: 0 0.5em 0 0;
+}
+div.map_controls b {
+  background-color: #DEF;
+  padding: 0.35em;
+  font-weight: bold;
+}
+
+div.map_controls {
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 1.5em;
+}
+div.map_controls div {
+  border: 3px solid #DEF;
+}
+div.map_controls * {
+  line-height: 1.5em;
 }

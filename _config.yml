@@ -175,6 +175,8 @@ fonts:
 navigation_header:
 - title: Home
   url: /
+- title: Map
+  url: /map/
 - title: News
   url: /blog/
 - title: Community

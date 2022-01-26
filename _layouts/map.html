@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <!-- General meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% if page.indexing == false %}
+      <meta name="robots" content="noindex">
+    {% endif %}
+
+    {% if page.collectionpage %}
+      {% seo title=false %}
+
+      {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+      <title>{{ collectiondata.title }} - {{ site.title }}</title>
+      <meta property="og:title" content="{{ collectiondata.title }}">
+      <meta name="description" content="{{ collectiondata.description }}">
+      <meta property="og:description" content="{{ collectiondata.description }}">
+    {% else %}
+      {% seo %}
+    {% endif %}
+    {% if site.fonts.preconnect_urls %}
+      {% for url in site.fonts.preconnect_urls %}
+        <link rel="preconnect" href="{{ url }}" crossorigin />
+      {% endfor %}
+    {% endif %}
+
+    <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
+    <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
+
+    {% if site.css_inline == true %}
+      {% include site-styles.html %}
+    {% else %}
+      <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+    {% endif %}
+    <link rel="stylesheet" href="/assets/ol.css" type="text/css">
+    <link rel="stylesheet" href="/assets/map.css" type="text/css">
+
+    {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
+
+    {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
+
+    {% include site-fonts.html %}
+
+    {% include site-before-start.html %}
+  </head>
+
+  <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
+    {% include site-header.html %}
+
+    <div class="map_controls">
+      <div id="ActiveDiv"></div>
+      <div id="NetworkDiv"></div>
+      <div id="LanduseDiv"></div>
+      <div id="MoredataDiv"></div>
+    </div>
+    <div id="map" style="width: 100%; height: 500px;"></div>
+    <div id="popup" class="ol-popup">
+        <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+        <div id="popup-content"></div>
+    </div>
+
+    <script src="/assets/scripts/ol-v5.3.0.js"></script>
+
+    {{ content }}
+
+    {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
+
+    <script>
+
+        var attribution = new ol.control.Attribution({
+            collapsible: false
+        });
+
+        key = 'IpUcIAGOQ4PSwyI0KkkV'
+        const aerial = new ol.layer.Tile({
+          source: new ol.source.XYZ({
+            attributions: [ol.source.OSM.ATTRIBUTION, 'maptiler.com>'],
+            url: 'https://api.maptiler.com/tiles/satellite/{z}/{x}/{y}.jpg?key=' + key,
+            maxZoom: 20,
+          }),
+        });
+
+        const map = new ol.Map({
+          layers: [aerial],
+          target: 'map',
+          view: new ol.View({
+            center: [0, 0],
+            zoom: 2,
+          }),
+        });
+        map.getView().setCenter(ol.proj.transform([0, 30], 'EPSG:4326', 'EPSG:3857'));
+/*
+        var marker_data = [
+            {name: 'Tower Bridge',        lat:50.84673, lon:4.35247, network: 'TERENO', landuse: 'agriculture', feature: null, active: true,
+              period: '2016-today',  affiliation: 'UFZ',  country: 'Germany',  alt: 140, climate: 'Dfb',  has_EC: true,  has_TDT: true, citation: 'Bogena.2022.ESSD',
+              has_precip: true,  has_gw: false,  contact: 'martin.schroen@ufz.de', data: 'https://essd.copernicus.org/preprints/essd-2021-325' },
+            {name: 'Dover Castle',        lat:52.029664,  lon:11.104622, network: 'TERENO', landuse: 'rock', feature: null, active: true,
+              period: '2016-today',  affiliation: 'UFZ',  country: 'Germany',  alt: 140, climate: 'Dfb',  has_EC: false,  has_TDT: true, citation: 'Bogena.2022.ESSD',
+              has_precip: true,  has_gw: false,  contact: 'martin.schroen@ufz.de', data: 'https://essd.copernicus.org/preprints/essd-2021-325' },
+            {name: 'Washington Monument', lat:38.8894541, lon:-77.0373655, network: 'TERENO', landuse: 'mixed', feature: null, active: false,
+              period: '2016-today',  affiliation: 'UFZ',  country: 'Germany',  alt: 140, climate: 'Dfb',  has_EC: false,  has_TDT: true, citation: 'Bogena.2022.ESSD',
+              has_precip: true,  has_gw: false,  contact: 'martin.schroen@ufz.de', data: 'https://essd.copernicus.org/preprints/essd-2021-325' },
+            {name: 'Eiffel Tower',        lat:48.8583701, lon:2.2922873, network: 'COSMOz', landuse: 'forest', feature: null, active: false,
+              period: '2016-today',  affiliation: 'UFZ',  country: 'Germany',  alt: 140, climate: 'Dfb',  has_EC: false,  has_TDT: true, citation: 'Bogena.2022.ESSD',
+              has_precip: true,  has_gw: true,  contact: 'martin.schroen@ufz.de', data: 'https://essd.copernicus.org/preprints/essd-2021-325' },
+            {name: 'Statue of Liberty',   lat:40.6892494, lon:-74.0466944, network: 'COSMOS-UK',
+            landuse: 'forest', feature: null, active: true,
+              period: '2016-today',  affiliation: 'UFZ',  country: 'Germany',  alt: 140,
+              climate: 'Dfb',  has_EC: false,  has_TDT: true, citation: 'Bogena.2022.ESSD',
+              has_precip: true,  has_gw: false,  contact: 'martin.schroen@ufz.de',
+              data: 'https://essd.copernicus.org/preprints/essd-2021-325' }
+        ];
+*/
+        {% assign datalist = site.data.stations %}
+        {% assign publist = site.data.publications %}
+
+          {% capture wuff %}
+          [
+          {% for entry in datalist %}
+          {% assign entrykey = entry[0] %}
+          {% assign le = datalist[entrykey] %}
+          {
+          "name" : "{{ entrykey }}",
+          "lat"    : {{ le.lat }},
+          "lon"    : {{ le.lon }},
+          "alt"    : {{ le.alt }},
+          "network": "{{ le.network | escape }}",
+          "landuse": "{{ le.landuse | escape }}",
+          "active": {{ le.active }},
+          "period": "{{ le.period }}",
+          "affiliation": "{{ le.affiliation | escape }}",
+          "country": "{{ le.country | escape }}",
+          "climate": "{{ le.climate | escape }}",
+          "citation": "{% assign items = le.citation | split: ', ' %}{% assign firstkey = true %}{% for pubentry in items %}{% assign puble = publist[pubentry] %}{% if firstkey != true %}, {% endif%}{% assign firstkey = false %}<a href='https://doi.org/{{ puble.doi }}' title='{{ pubentry | split: '.' | join: ' ' }}'>{{ puble.year }}</a>{% endfor %}",
+          "contact": "{{ le.contact | escape }}",
+          "data": "{{ le.data | escape }}",
+          "has_EC": {{ le.has_EC }},
+          "has_TDT": {{ le.has_TDT }},
+          "has_precip": {{ le.has_precip }},
+          "has_gw": {{ le.has_gw }},
+          "feature"  : null
+          } {% if forloop.last %}{% else %},{% endif %}
+          {% endfor %}
+          ]
+          {% endcapture %}
+          var marker_data = {{wuff | strip_newlines}}
+          //console.log(wuff)
+
+        // active
+        markerstyle1 = new ol.style.Style({
+          image: new ol.style.Icon({
+            src: 'https://openlayers.org/en/v3.20.1/examples/data/dot.png',
+            crossOrigin: 'anonymous',
+            scale: 1,
+            color: '#CCEE33'
+          })
+        })
+
+        // inactive
+        markerstyle2 = new ol.style.Style({
+          image: new ol.style.Icon({
+            src: 'https://openlayers.org/en/v3.20.1/examples/data/dot.png',
+            crossOrigin: 'anonymous',
+            scale: 1,
+            color: 'white',
+            opacity: 0.5
+          })
+        })
+
+        // hidden
+        markerstyle0 = new ol.style.Style({})
+
+        var source = new ol.source.Vector();
+        marker_data.forEach(function(data,index){
+            var marker = new ol.Feature({
+                type: 'click',
+                name: index,
+                visible: true,
+                geometry: new ol.geom.Point(ol.proj.fromLonLat([data.lon, data.lat]))
+            });
+            if (data.active) {
+              marker.setStyle( markerstyle1 ); }
+            else {
+              marker.setStyle( markerstyle2 ); }
+
+            source.addFeature(marker);
+            marker_data[index].feature = marker
+        });
+        var animating = false;
+        var layer = new ol.layer.Vector({
+            source: source
+        });
+        map.addLayer(layer);
+
+        var container = document.getElementById('popup');
+        var content = document.getElementById('popup-content');
+        var closer = document.getElementById('popup-closer');
+
+        var overlay = new ol.Overlay({
+            element: container,
+            autoPan: true,
+            autoPanAnimation: {
+                duration: 250
+            }
+        });
+        map.addOverlay(overlay);
+
+        closer.onclick = function () {
+            overlay.setPosition(undefined);
+            closer.blur();
+            return false;
+        };
+
+        map.on('singleclick', function (event) {
+            var f = map.forEachFeatureAtPixel(
+                event.pixel,
+                function(ft, layer){return ft;}
+            );
+            if (f && f.get('type') == 'click') {
+                var geometry = f.getGeometry();
+                var site = marker_data[f.get('name')]
+                var coord = geometry.getCoordinates();
+
+                content.innerHTML = '<div class="popup_block"><span class="popup_label">NAME</span>'
+                  +'<span class="popup_value">'+site.name+'</span></div>'
+                  +'<div class="popup_block'+(site.active?'':' inactive')+'"><span class="popup_label">ACTIVE</span>'
+                  +'<span class="popup_value">'+(site.active?'Yes':'No')+'</span></div>'
+                  +'<div class="popup_block"><span class="popup_label">AFFIL.</span>'
+                  +'<span class="popup_value">'+site.affiliation+'</span></div>'
+                  +'<div class="popup_block"><span class="popup_label">NETWORK</span>'
+                  +'<span class="popup_value">'+site.network+'</span></div>'
+                  +'<div class="popup_block"><span class="popup_label">PERIOD</span>'
+                  +'<span class="popup_value">'+site.period+'</span></div>'
+                  +'<div class="popup_block"><span class="popup_label">LAT</span>'
+                  +'<span class="popup_value">'+site.lat+'°</span></div>'
+                  +'<div class="popup_block"><span class="popup_label">LON</span>'
+                  +'<span class="popup_value">'+site.lon+'°</span></div>'
+                  +'<div class="popup_block"><span class="popup_label">ALT</span>'
+                  +'<span class="popup_value">'+site.alt+' m</span></div>'
+                  +'<div class="popup_block"><span class="popup_label">LANDUSE</span>'
+                  +'<span class="popup_value">'+site.landuse+'</span></div>'
+                  +'<div class="popup_block"><span class="popup_label">MORE&nbsp;DATA</span>'
+                  +'<span class="popup_value">'+(site.has_EC?'EC ':'')+(site.has_TDT?'TDT ':'')+(site.has_gw?'GW ':'')+(site.has_precip?'Pre':'')+'</span></div>'
+                  +'<div class="popup_block contact"><span class="popup_label">CONTACT</span><span class="popup_value"><a href="mailto:'+site.contact+'">'+(site.contact).substr(0,12)+'...</a></span></div>'
+                  +'<div class="popup_block data"><span class="popup_label">DATA</span><span class="popup_value"><a href="'+site.data+'">'+(site.data).replace('http://','').replace('https://','').substr(0,12)+'...</a></span></div>'
+                  +'<div class="popup_block cite"><span class="popup_label">REFERENCE</span><span class="popup_value">'+site.citation+'</span></div>'
+                  ;
+                overlay.setPosition(coord); //&nearr;
+
+            } else {
+                overlay.setPosition(undefined);
+                closer.blur();
+            }
+        });
+
+        map.on("pointermove", function (evt) {
+            var hit = this.forEachFeatureAtPixel(evt.pixel, function(feature, layer) {
+                return true;
+            });
+            if (hit) {
+                this.getTargetElement().style.cursor = 'pointer';
+            } else {
+                this.getTargetElement().style.cursor = '';
+            }
+        });
+        // show it right at the start
+        //content.innerHTML = '<b>Hello world!</b><br />I am a popup.';
+        //overlay.setPosition(ol.proj.fromLonLat([4.35247, 50.84673]));
+
+        function show_marker(feature, active) {
+          if (active) {
+            feature.setStyle(markerstyle1); }
+          else {
+            feature.setStyle(markerstyle2); }
+        }
+
+        function hide_marker(feature) {
+          //feature.style = { display: 'none' };
+          //feature.setVisibility(false)
+          //feature.setStyle.fillOpacity = 0
+          feature.setStyle(markerstyle0);
+        }
+
+        function showhide_markers() {
+            for (s in marker_data) {
+                var chk1 = document.getElementById('chk_network_'+marker_data[s].network).checked
+                var chk2 = document.getElementById('chk_landuse_'+marker_data[s].landuse).checked
+                var active = marker_data[s].active ? 'active' : 'inactive'
+                var chk3 = document.getElementById('chk_active_'+active).checked
+                var chk4 = (document.getElementById('chk_has_EC').checked  && !marker_data[s].has_EC)     ? false : true;
+                var chk5 = (document.getElementById('chk_has_TDT').checked && !marker_data[s].has_TDT)    ? false : true;
+                var chk6 = (document.getElementById('chk_has_Pre').checked && !marker_data[s].has_precip) ? false : true;
+                var chk7 = (document.getElementById('chk_has_gw').checked  && !marker_data[s].has_gw)     ? false : true;
+                //console.log(chk1,chk2,chk3,chk4,chk5,chk6,chk7)
+                if (chk1 && chk2 && chk3 && chk4 && chk5 && chk6 && chk7) {
+                    show_marker(marker_data[s].feature, marker_data[s].active ) }
+                else {
+                    hide_marker(marker_data[s].feature) }
+            }
+        }
+
+        var LanduseDiv = document.getElementById("LanduseDiv");
+        var NetworkDiv = document.getElementById("NetworkDiv");
+        var ActiveDiv = document.getElementById("ActiveDiv");
+        var MoredataDiv = document.getElementById("MoredataDiv");
+
+        networks = []
+        landuses = []
+        actives = []
+        i = 0
+        for (s in marker_data) {
+            if (! actives.includes(marker_data[s].active)) {
+                var active = marker_data[s].active
+                if (actives.length == 0) {
+                    ActiveDiv.innerHTML += '<b>Running:</b> '; }
+                actives.push(active)
+                i += 1
+                if (active) { active = 'active' } else { active = 'inactive' }
+                showhidefuncstr = "showhide_markers('active', '"+active+"')"
+                ActiveDiv.innerHTML += '<label><input checked type="checkbox" name="chk_active_'+i+'" value="'+active+'" id="chk_active_'+active+'" onclick="'+showhidefuncstr+'" /> '+active+'</label>';
+            }
+            if (marker_data[s].network != '' && ! networks.includes(marker_data[s].network)) {
+                var network = marker_data[s].network
+                if (networks.length == 0) {
+                    NetworkDiv.innerHTML += '<b>Network:</b> '; }
+                networks.push(network)
+                i += 1
+                showhidefuncstr = "showhide_markers('network', '"+network+"')"
+                NetworkDiv.innerHTML += '<label><input checked type="checkbox" name="chk_network_'+i+'" value="'+network+'" id="chk_network_'+network+'" onclick="'+showhidefuncstr+'" /> '+network+'</label>';
+            }
+            if (marker_data[s].landuse != '' && ! landuses.includes(marker_data[s].landuse)) {
+                var landuse = marker_data[s].landuse
+                if (landuses.length == 0) {
+                    LanduseDiv.innerHTML += '<b>Landuse:</b> '; }
+                landuses.push(landuse)
+                i += 1
+                showhidefuncstr = "showhide_markers('network', '"+landuse+"')"
+                LanduseDiv.innerHTML += '<label><input type="checkbox" checked name="chk_landuse_'+i+'" value="'+landuse+'" id="chk_landuse_'+landuse+'" onclick="'+showhidefuncstr+'" /> '+landuse+'</label>';
+            }
+        }
+        MoredataDiv.innerHTML += '<b>More data:</b> ';
+        MoredataDiv.innerHTML += '<label><input type="checkbox" name="chk_has_EC" value="has_EC" id="chk_has_EC" onclick="showhide_markers()" /> Eddy covariance</label>';
+        MoredataDiv.innerHTML += '<label><input type="checkbox" name="chk_has_TDT" value="has_TDT" id="chk_has_TDT" onclick="showhide_markers()" /> TDT/Soil moisture profiles</label>';
+        MoredataDiv.innerHTML += '<label><input type="checkbox" name="chk_has_Pre" value="has_Pre" id="chk_has_Pre" onclick="showhide_markers()" /> Precipitation</label>';
+        MoredataDiv.innerHTML += '<label><input type="checkbox" name="chk_has_gw" value="has_gw" id="chk_has_gw" onclick="showhide_markers()" /> ground water</label>';
+
+     </script>
+
+    {% include site-before-end.html %}
+    {% include site-footer.html %}
+
+  </body>
+
+</html>
