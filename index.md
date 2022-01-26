@@ -6,10 +6,6 @@ feature_text: Global COSMOS .net
 Welcome to the Global COSMOS initiative to bring to together users and researchers
 of the cosmic-ray neutron soil moisture observation system (COSMOS).
 
-# Map of COSMOS stations, networks, and partners
-
-{% include map.html id="17ZH6ds82VKW2UWd4ptq8rtQ731Am3C-j" title="Map of COSMOS stations" %}
-
 # About COSMOS
 
 COSMOS is a sensor system ...
