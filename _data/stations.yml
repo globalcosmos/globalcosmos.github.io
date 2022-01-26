@@ -1,0 +1,56 @@
+Cunnersdorf:
+  active: true
+  period: 2016-today
+  affiliation: UFZ
+  network: TERENO
+  country: Germany
+  lat: 51.3696
+  lon: 12.5571
+  alt: 140
+  landuse: agriculture
+  climate: Dfb
+  has_EC: false
+  has_TDT: true
+  has_precip: true
+  has_gw: false
+  contact: martin.schroen@ufz.de
+  data: https://essd.copernicus.org/preprints/essd-2021-325
+  citation: Bogena.2022.ESSD
+
+Sheepdrove1:
+  active: true
+  period: 2015-today
+  affiliation: Uni Bristol
+  network:
+  country: England
+  lat: 51.5153
+  lon: -1.4581
+  alt: 197
+  landuse: agriculture
+  climate: Cfb
+  has_EC: true
+  has_TDT: true
+  has_precip: true
+  has_gw: false
+  contact: rafael.rosolem@bristol.ac.uk
+  data: https://essd.copernicus.org/preprints/essd-2021-325/
+  citation: Iwema.2021.HP
+
+Zugspitze:
+  active: false
+  period: 2015-today
+  affiliation: UFZ
+  network: TERENO
+  country: Germany
+  lat: 47.4165
+  lon: 10.9793
+  alt: 2900
+  landuse: rock
+  climate: ET
+  has_EC: false
+  has_TDT: false
+  has_precip: true
+  has_gw: false
+  contact: martin.schroen@ufz.de
+  data: https://essd.copernicus.org/preprints/essd-2021-325/
+  citation:

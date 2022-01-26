@@ -1,4 +1,26 @@
 
+Bogena.2022.ESSD:
+  authors: H. Bogena, M. Schrön, J. Jakobi, P. Ney, S. Zacharias, M. Andreasen, R. Baatz, D. Boorman, B. M. Duygu, M. A. Eguibar-Galán, B. Fersch, T. Franke, J. Geris,  M. González-Sanchis, Y. Kerr, T. Korf, Z. Mengistu, A. Mialon, P. Nasta, J. Nitychoruk, V. Pisinaras, D. Rasche, R. Rosolem, H. Said, P. Schattan, M. Zreda, S. Achleitner, E. Albentosa-Hernández, Z. Akyürek, T. Blume, A. del Campo, K. Dimitrova-Petrova, J. G. Evans, F. Frances, A. Güntner, F. Herrmann, J. Iwema, K. H. Jensen, H. Kunstmann, A. Lidón, M. C. Looms, S. E. Oswald, A. Panagopoulos, A. Patil, D. Power, C. Rebmann, N. Romano, L. M. Scheiffele, S. Seneviratne, G. Weltin, H. Vereecken
+  title: "COSMOS-Europe: A European Network of Cosmic-Ray Neutron Soil Moisture Sensors"
+  journal: Earth System Science Data Discussions
+  numbers: 2021, 1--33
+  year: 2021
+  doi: 10.5194/essd-2021-325
+  bibtex: https://essd.copernicus.org/preprints/essd-2021-325/essd-2021-325.bib
+  partners: various
+  comment: Data collection of COSMOS stations in Europe using harmonized data processing and first insight to the drought development in the last years.
+
+Iwema.2021.HP:
+  year: 2021
+  title: "Accuracy and precision of the cosmic‐ray neutron sensor for soil moisture estimation at humid environments"
+  authors: J. Iwema, M. Schrön, J. K. Da Silva, R. S. De P. Lopes, R. Rosolem
+  journal: Hydrological Processes
+  doi: 10.1002/hyp.14419
+  numbers: 35, 11
+  bibtex: https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fhyp.14419
+  partners: University of Bristol, Aequator Groen & Ruimte, UFZ Leipzig, Cabot Institute Bristol
+  comment: Study on the influence of various environmental factors on the accuracy and precision of COSMOS stations under humid climate.
+
 Power.2021.GMD:
   authors: D. Power, M. A. Rico-Ramirez, S. Desilets, D. Desilets, R. Rosolem
   title: "Cosmic-Ray neutron Sensor PYthon tool (crspy 1.2.1): an open-source tool for the processing of cosmic-ray neutron and soil moisture data"
