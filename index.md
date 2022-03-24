@@ -14,6 +14,9 @@ of the cosmic-ray neutron soil moisture observation system (COSMOS).
 
 COSMOS is a sensor system ...
 
+{% include figure.html image="/assets/figures/sensor_scheme.png" alt="Cosmic Ray Neutron Sensor Schematic" %}
+
+
 {% include video.html id="odZd3aPG8f4" title="Cosmic Ray Neutron Sensor (CRNS): From cosmic rays to soil moisture!" %}
 
 # Contribute
