@@ -10,7 +10,7 @@ of the cosmic-ray neutron soil moisture observation system (COSMOS).
 
 COSMOS is a sensor system to measure water in soils, snow, and vegetation, and air. The main sensitivity is to soil water, though, such that the instrument is mainly used to monitor soil moisture changes to support agricultural management or weather forecasts.
 
-## Footprint: In what area and depth can soil water be measured?
+## In what area and depth can soil water be measured?
 
 The COSMOS instrument provides integral, i.e., average values of soil water content in an area of tens of hectares and of depths down to tens of centimeters. It takes advantage of the neutrons penetrating deep into the soil and, after they went out again, mixing freely in air over wide ranges.
 
