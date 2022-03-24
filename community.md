@@ -15,6 +15,12 @@ excerpt: "COSMOS Community"
 - TERENO
 - ...
 
+## Events
+
+Past events
+
+(move to events)
+
 ## Research Institutions
 
 - Uni Bristol: measurement stations, hydro modeling, global initiative
