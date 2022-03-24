@@ -16,3 +16,7 @@ excerpt: "COSMOS FAQ"
 
 4. Can you dump some random citations?
 > Sure, {% include cite.html items="Power.2021.GMD" %} did some great research, as well as others ({% include cite.html items="Zreda.2012.HESS, Schroen.2018.GI" %}).
+
+## More Questions?
+
+{% include site-form.html %}
