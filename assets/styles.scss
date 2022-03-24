@@ -6,8 +6,9 @@ styles: true
 @import "alembic";
 /*
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
 header.header {
   background-image: url("/assets/backgrounds/background-1.jpg");
   background-size: cover;
@@ -40,7 +41,7 @@ body {
 }
 
 header *, .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6  {
-
+  font-family: 'Segoe UI', 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 .typeset p {
