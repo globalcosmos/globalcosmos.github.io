@@ -123,30 +123,30 @@
           {% assign entrykey = entry[0] %}
           {% assign le = datalist[entrykey] %}
           {
-          "name" : "{{ entrykey }}",
-          "lat"    : {{ le.lat }},
-          "lon"    : {{ le.lon }},
-          "alt"    : {{ le.alt }},
-          "network": "{{ le.network | escape }}",
-          "landuse": "{{ le.landuse | escape }}",
-          "active": {{ le.active }},
-          "period": "{{ le.period }}",
-          "affiliation": "{{ le.affiliation | escape }}",
-          "country": "{{ le.country | escape }}",
-          "climate": "{{ le.climate | escape }}",
+          "name" : "{{ entrykey | default: '(Unknown)' }}",
+          "lat"    : {{ le.lat | default: 0 }},
+          "lon"    : {{ le.lon | default: 0 }},
+          "alt"    : {{ le.alt | default: '-' }},
+          "network": "{{ le.network | escape | default: '-' }}",
+          "landuse": "{{ le.landuse | escape | default: '-' }}",
+          "active": {{ le.active | default: false }},
+          "period": "{{ le.period | default: '-' }}",
+          "affiliation": "{{ le.affiliation | escape | default: '-' }}",
+          "country": "{{ le.country | escape | default: '-' }}",
+          "climate": "{{ le.climate | escape | default: '-' }}",
           "citation": "{% assign items = le.citation | split: ', ' %}{% assign firstkey = true %}{% for pubentry in items %}{% assign puble = publist[pubentry] %}{% if firstkey != true %}, {% endif%}{% assign firstkey = false %}<a href='https://doi.org/{{ puble.doi }}' title='{{ pubentry | split: '.' | join: ' ' }}'>{{ puble.year }}</a>{% endfor %}",
-          "contact": "{{ le.contact | escape }}",
-          "data": "{{ le.data | escape }}",
-          "has_EC": {{ le.has_EC }},
-          "has_TDT": {{ le.has_TDT }},
-          "has_precip": {{ le.has_precip }},
-          "has_gw": {{ le.has_gw }},
+          "contact": "{{ le.contact | escape | default: '-' }}",
+          "data": "{{ le.data | escape | default: '-' }}",
+          "has_EC": {{ le.has_EC | default: false }},
+          "has_TDT": {{ le.has_TDT | default: false }},
+          "has_precip": {{ le.has_precip | default: false }},
+          "has_gw": {{ le.has_gw | default: false }},
           "feature"  : null
           } {% if forloop.last %}{% else %},{% endif %}
           {% endfor %}
           ]
           {% endcapture %}
-          var marker_data = {{wuff | strip_newlines}}
+          var marker_data = {{wuff | strip_newlines }}
           //console.log(wuff)
 
         // active
@@ -244,9 +244,9 @@
                   +'<span class="popup_value">'+site.landuse+'</span></div>'
                   +'<div class="popup_block"><span class="popup_label">MORE&nbsp;DATA</span>'
                   +'<span class="popup_value">'+(site.has_EC?'EC ':'')+(site.has_TDT?'TDT ':'')+(site.has_gw?'GW ':'')+(site.has_precip?'Pre':'')+'</span></div>'
-                  +'<div class="popup_block contact"><span class="popup_label">CONTACT</span><span class="popup_value"><a href="mailto:'+site.contact+'">'+(site.contact).substr(0,12)+'...</a></span></div>'
-                  +'<div class="popup_block data"><span class="popup_label">DATA</span><span class="popup_value"><a href="'+site.data+'">'+(site.data).replace('http://','').replace('https://','').substr(0,12)+'...</a></span></div>'
-                  +'<div class="popup_block cite"><span class="popup_label">REFERENCE</span><span class="popup_value">'+site.citation+'</span></div>'
+                  +'<div class="popup_block contact"><span class="popup_label">CONTACT</span><span class="popup_value">'+(site.contact.includes('@')? '<a href="mailto:'+site.contact+'">'+(site.contact).substr(0,12)+'...</a>' :'-') +'</span></div>'
+                  +'<div class="popup_block data"><span class="popup_label">DATA</span><span class="popup_value">'+(site.contact.includes('http')? '<a href="'+site.data+'">'+(site.data).replace('http://','').replace('https://','').substr(0,12)+'...</a>' :'-') +'</span></div>'
+                  +'<div class="popup_block cite"><span class="popup_label">REFERENCE</span><span class="popup_value">'+(site.citation ? site.citation : '-')+'</span></div>'
                   ;
                 overlay.setPosition(coord); //&nearr;
 
