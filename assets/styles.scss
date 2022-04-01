@@ -78,10 +78,10 @@ header *, .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .type
 }
 
 span.label-author {
-  display: inline-block;
+  /*display: inline-block;
   background-color: #FAFAEE;
   padding: 0 0.2em;
-  border-radius: 3px;
+  border-radius: 3px;*/
 
 }
 
@@ -100,6 +100,16 @@ a.label-bibtex {
 
 .typeset blockquote {
   margin-left: 1em;
+}
+
+div#publication_list form #pubfilter-input {
+    padding: .3rem 0.6rem;
+    width: 75%;
+}
+
+div#publication_list form #pubfilter-btn {
+    padding: .3rem 0.6rem;
+    width: 20%;
 }
 
 div.map_controls label, div.map_controls b {

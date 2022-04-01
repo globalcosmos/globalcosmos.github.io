@@ -2,6 +2,12 @@
 {% assign datafile = {{include.file}} %}
 {% assign datalist = site.data[datafile] %}
 
+<div id="publication_list">
+  <form>
+    <input type="search" id="pubfilter-input" placeholder="filter content" />
+    <button id="pubfilter-btn" type="button">Filter</button>
+  </form>
+
 {% if include contains items %}
   {% assign list = items %}
 {% else %}
@@ -21,7 +27,7 @@
 
   {% assign currentyear = listentry.year %}
   {% if currentyear != previousyear %}
-## {{ currentyear }}
+    <h2>{{ currentyear }}</h2>
     {% assign previousyear = currentyear %}
   {% endif %}
 
@@ -40,3 +46,55 @@
     nocomment=include.nocomment
   %}
 {% endfor %}
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+    // Adapted from: https://stackoverflow.com/a/41006139/2575273
+    var $searchContainer = $("#publication_list");
+    var $contentBoxes = $searchContainer.find(".publication");
+    var $searchInput = $searchContainer.find("#pubfilter-input");
+    var $searchBtn = $searchContainer.find("#pubfilter-btn");
+
+    $searchBtn.on("click", searchContent);
+    $searchInput.on("input", searchContent);
+
+    function searchContent() {
+        var userInput;
+
+        //Check if call comes from button or input change
+        if ($(this).is(":button")) {
+            userInput = $(this).siblings("input").val();
+        } else {
+            userInput = $(this).val();
+        }
+
+        //make the input all lower case to make it compatible for searching
+        userInput = userInput.toLowerCase();
+
+        var hits = 0
+
+        if (userInput == '') {
+            $searchBtn.text('Filter')
+        } else {
+            //Loop through all the content to find matches to the user input
+            $contentBoxes.each(function() {
+
+                var searchableContent = $(this).text();
+                //var contentText = $(this).find(".description").text();
+                //var searchableContent = headerText + " " + contentText;
+                searchableContent = searchableContent.toLowerCase();
+
+                //hide content that doesn't match the user input
+                if (!searchableContent.includes(userInput)) {
+                    $(this).hide();
+                } else {
+                    hits++;
+                    $(this).show();
+                }
+            });
+            $searchBtn.text('Filter (' +hits+ ')')
+        }
+    };
+</script>
