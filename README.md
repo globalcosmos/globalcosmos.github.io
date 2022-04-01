@@ -13,4 +13,4 @@
 1. Clone git repository and change to its directory.
 2. Install Ruby <https://www.ruby-lang.org/en/documentation/installation/>
 3. Bundle the gems using `bundle install`, perhabs also add webrick: `bundle add webrick`.
-4. Show in local browser: `bundle exec jekyll serve`, usally served under <http://127.0.0.1:4000/>.
+4. Show in local browser: `bundle exec jekyll serve --watch`, usally served under <http://127.0.0.1:4000/>.
