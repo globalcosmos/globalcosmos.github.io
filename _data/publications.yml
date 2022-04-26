@@ -1,7 +1,6 @@
 Rink_2022_10.1016/j.cag.2022.02.009:
-  authors: "Rink. Karsten, \u015Een. \xD6zg\xFCr Ozan, Hannemann. Marco, K\xF6del.\
-    \ Uta, Nixdorf. Erik, Weber. Ute, Werban. Ulrike, Schr\xF6n. Martin, Kalbacher.\
-    \ Thomas, Kolditz. Olaf"
+  authors: "Rink, \u015Een, Hannemann, K\xF6del, Nixdorf, Weber, Werban, Schr\xF6\
+    n, Kalbacher, Kolditz"
   title: An environmental exploration system for visual scenario analysis of regional
     hydro-meteorological systems
   journal: Computers \& Graphics
@@ -9,27 +8,20 @@ Rink_2022_10.1016/j.cag.2022.02.009:
   year: '2022'
   doi: 10.1016/j.cag.2022.02.009
 Bogena_2022_10.5194/essd-14-1125-2022:
-  authors: "Bogena. Heye Reemt, Schr\xF6n. Martin, Jakobi. Jannis, Ney. Patrizia,\
-    \ Zacharias. Steffen, Andreasen. Mie, Baatz. Roland, Boorman. David, Duygu. Mustafa\
-    \ Berk, Eguibar-Gal\xE1n. Miguel Angel, Fersch. Benjamin, Franke. Till, Geris.\
-    \ Josie, Sanchis. Mar\xEDa Gonz\xE1lez, Kerr. Yann, Korf. Tobias, Mengistu. Zalalem,\
-    \ Mialon. Arnaud, Nasta. Paolo, Nitychoruk. Jerzy, Pisinaras. Vassilios, Rasche.\
-    \ Daniel, Rosolem. Rafael, Said. Hami, Schattan. Paul, Zreda. Marek, Achleitner.\
-    \ Stefan, Albentosa-Hern\xE1ndez. Eduardo, Aky\xFCrek. Zuhal, Blume. Theresa,\
-    \ Campo. Antonio del, Canone. Davide, Dimitrova-Petrova. Katya, Evans. John G.,\
-    \ Ferraris. Stefano, Frances. F\xE9lix, Gisolo. Davide, G\xFCntner. Andreas, Herrmann.\
-    \ Frank, Iwema. Joost, Jensen. Karsten H., Kunstmann. Harald, Lid\xF3n. Antonio,\
-    \ Looms. Majken Caroline, Oswald. Sascha, Panagopoulos. Andreas, Patil. Amol,\
-    \ Power. Daniel, Rebmann. Corinna, Romano. Nunzio, Scheiffele. Lena, Seneviratne.\
-    \ Sonia, Weltin. Georg, Vereecken. Harry"
+  authors: "Bogena, Schr\xF6n, Jakobi, Ney, Zacharias, Andreasen, Baatz, , Boorman,\
+    \ Duygu, Eguibar-Gal\xE1n, Fersch, Franke, Geris, Sanchis, Kerr, Korf, Mengistu,\
+    \ Mialon, Nasta, Nitychoruk, Pisinaras, Rasche, Rosolem, Said, Schattan, Zreda,\
+    \ Achleitner, Albentosa-Hern\xE1ndez, Aky\xFCrek, Blume, Campo, Canone, Dimitrova-Petrova,\
+    \ Evans, Ferraris, Frances, Gisolo, G\xFCntner, Herrmann, Iwema, Jensen, Kunstmann,\
+    \ Lid\xF3n, Looms, Oswald, Panagopoulos, Patil, Power, Rebmann, Romano, Scheiffele,\
+    \ Seneviratne, Weltin, Vereecken"
   title: 'COSMOS-Europe: a European network of cosmic-ray neutron soil moisture sensors'
   journal: Earth System Science Data
   numbers: 14, 1125--1151
   year: '2022'
   doi: 10.5194/essd-14-1125-2022
 Francke_2022_10.5194/gi-11-75-2022:
-  authors: "Francke. Till, Heistermann. Maik, K\xF6hli. Markus, Budach. Christian,\
-    \ Schr\xF6n. Martin, Oswald. Sascha E."
+  authors: "Francke, Heistermann, K\xF6hli, Budach, Schr\xF6n, Oswald"
   title: Assessing the feasibility of a directional cosmic-ray neutron sensing sensor
     for estimating soil moisture
   journal: Geoscientific Instrumentation, Methods and Data Systems
@@ -37,8 +29,7 @@ Francke_2022_10.5194/gi-11-75-2022:
   year: '2022'
   doi: 10.5194/gi-11-75-2022
 Bogena_2021_10.3389/frwa.2021.641458:
-  authors: "Bogena. Heye R., Strati. Virginia, G\xFCntner. Andreas, Chew. Clara C.,\
-    \ Schr\xF6n. Martin"
+  authors: "Bogena, Strati, G\xFCntner, Chew, Schr\xF6n"
   title: 'Editorial: Innovative Methods for Non-invasive Monitoring of Hydrological
     Processes From Field to Catchment Scale'
   journal: Frontiers in Water
@@ -46,8 +37,7 @@ Bogena_2021_10.3389/frwa.2021.641458:
   year: '2021'
   doi: 10.3389/frwa.2021.641458
 Cooper_2021_10.5194/hess-25-2445-2021:
-  authors: Cooper. Elizabeth, Blyth. Eleanor, Cooper. Hollie, Ellis. Rich, Pinnington.
-    Ewan, Dadson. Simon J.
+  authors: Cooper, Blyth, Cooper, Ellis, Pinnington, Dadson
   title: Using data assimilation to optimize pedotransfer functions using field-scale
     in situ soil moisture observations
   journal: Hydrology and Earth System Sciences
@@ -55,8 +45,7 @@ Cooper_2021_10.5194/hess-25-2445-2021:
   year: '2021'
   doi: 10.5194/hess-25-2445-2021
 Rasche_2021_10.5194/hess-25-6547-2021:
-  authors: "Rasche. Daniel, K\xF6hli. Markus, Schr\xF6n. Martin, Blume. Theresa, G\xFC\
-    ntner. Andreas"
+  authors: "Rasche, K\xF6hli, Schr\xF6n, Blume, G\xFCntner"
   title: Towards disentangling heterogeneous soil moisture patterns in cosmic-ray
     neutron sensor footprints
   journal: Hydrology and Earth System Sciences
@@ -64,7 +53,7 @@ Rasche_2021_10.5194/hess-25-6547-2021:
   year: '2021'
   doi: 10.5194/hess-25-6547-2021
 Heistermann_2021_10.5194/hess-25-4807-2021:
-  authors: "Heistermann. Maik, Francke. Till, Schr\xF6n. Martin, Oswald. Sascha E."
+  authors: "Heistermann, Francke, Schr\xF6n, Oswald"
   title: Spatio-temporal soil moisture retrieval at the catchment scale using a dense
     network of cosmic-ray neutron sensors
   journal: Hydrology and Earth System Sciences
@@ -72,10 +61,8 @@ Heistermann_2021_10.5194/hess-25-4807-2021:
   year: '2021'
   doi: 10.5194/hess-25-4807-2021
 Heistermann_2021_10.5194/essd-2021-445:
-  authors: "Heistermann. Maik, Bogena. Heye, Francke. Till, G\xFCntner. Andreas, Jakobi.\
-    \ Jannis, Rasche. Daniel, Schr\xF6n. Martin, D\xF6pper. Veronika, Fersch. Benjamin,\
-    \ Groh. Jannis, Patil. Amol, P\xFCtz. Thomas, Reich. Marvin, Zacharias. Steffen,\
-    \ Zengerle. Carmen, Oswald. Sascha"
+  authors: "Heistermann, Bogena, Francke, G\xFCntner, Jakobi, Rasche, Schr\xF6n, D\xF6\
+    pper, Fersch, Groh, Patil, P\xFCtz, Reich, Zacharias, Zengerle, Oswald"
   title: "Soil moisture observation in a forested headwater catchment: combining a\
     \ dense cosmic-ray neutron sensor network with roving and hydrogravimetry at the\
     \ TERENO site W\xFCstebach"
@@ -84,8 +71,7 @@ Heistermann_2021_10.5194/essd-2021-445:
   year: '2021'
   doi: 10.5194/essd-2021-445
 "K\xF6hli_2021_10.3389/frwa.2020.544847":
-  authors: "K\xF6hli. Markus, Weimar. Jannis, Schr\xF6n. Martin, Baatz. Roland, Schmidt.\
-    \ Ulrich"
+  authors: "K\xF6hli, Weimar, Schr\xF6n, Baatz, , Schmidt"
   title: Soil Moisture and Air Humidity Dependence of the Above-Ground Cosmic-Ray
     Neutron Intensity
   journal: Frontiers in Water
@@ -93,8 +79,8 @@ Heistermann_2021_10.5194/essd-2021-445:
   year: '2021'
   doi: 10.3389/frwa.2020.544847
 Pinnington_2021_10.5194/hess-25-1617-2021:
-  authors: Pinnington. Ewan, Amezcua. Javier, Cooper. Elizabeth, Dadson. Simon, Ellis.
-    Rich, Peng. Jian, Robinson. Emma, Morrison. Ross, Osborne. Simon, Quaife. Tristan
+  authors: Pinnington, Amezcua, Cooper, Dadson, Ellis, Peng, Robinson, Morrison, Osborne,
+    Quaife
   title: Improving soil moisture prediction of a high-resolution land surface model
     by parameterising pedotransfer functions through assimilation of SMAP satellite
     data
@@ -103,10 +89,8 @@ Pinnington_2021_10.5194/hess-25-1617-2021:
   year: '2021'
   doi: 10.5194/hess-25-1617-2021
 Boeing_2021_10.5194/hess-2021-402:
-  authors: "Boeing. Friedrich, Rakovech. Oldrich, Kumar. Rohini, Samaniego. Luis,\
-    \ Schr\xF6n. Martin, Hildebrandt. Anke, Rebmann. Corinna, Thober. Stephan, M\xFC\
-    ller. Sebastian, Zacharias. Steffen, Bogena. Heye, Schneider. Katrin, Kiese. Ralf,\
-    \ Marx. Andreas"
+  authors: "Boeing, Rakovech, Kumar, Samaniego, Schr\xF6n, Hildebr,t, Rebmann, Thober,\
+    \ M\xFCller, Zacharias, Bogena, Schneider, Kiese, Marx"
   title: High-resolution drought simulations and comparison to soil moisture observations
     in Germany
   journal: Hydrology and Earth System Sciences Discussions
@@ -114,8 +98,7 @@ Boeing_2021_10.5194/hess-2021-402:
   year: '2021'
   doi: 10.5194/hess-2021-402
 Montzka_2021_10.1109/lgrs.2020.3005730:
-  authors: Montzka. Carsten, Bogena. Heye R., Herbst. Michael, Cosh. Michael H., Jagdhuber.
-    Thomas, Vereecken. Harry
+  authors: Montzka, Bogena, Herbst, Cosh, Jagdhuber, Vereecken
   title: Estimating the Number of Reference Sites Necessary for the Validation of
     Global Soil Moisture Products
   journal: IEEE Geoscience and Remote Sensing Letters
@@ -123,8 +106,7 @@ Montzka_2021_10.1109/lgrs.2020.3005730:
   year: '2021'
   doi: 10.1109/lgrs.2020.3005730
 "Schr\xF6n_2021_10.1029/2021gl093924":
-  authors: "Schr\xF6n. M., Oswald. S. E., Zacharias. S., Kasner. M., Dietrich. P.,\
-    \ Attinger. S."
+  authors: "Schr\xF6n, Oswald, Zacharias, Kasner, Dietrich, Attinger"
   title: 'Neutrons on Rails: Transregional Monitoring of Soil Moisture and Snow Water
     Equivalent'
   journal: Geophysical Research Letters
@@ -132,12 +114,9 @@ Montzka_2021_10.1109/lgrs.2020.3005730:
   year: '2021'
   doi: 10.1029/2021gl093924
 Cooper_2021_10.5194/essd-13-1737-2021:
-  authors: Cooper. Hollie M., Bennett. Emma, Blake. James, Blyth. Eleanor, Boorman.
-    David, Cooper. Elizabeth, Evans. Jonathan, Fry. Matthew, Jenkins. Alan, Morrison.
-    Ross, Rylett. Daniel, Stanley. Simon, Szczykulska. Magdalena, Trill. Emily, Antoniou.
-    Vasileios, Askquith-Ellis. Anne, Ball. Lucy, Brooks. Milo, Clarke. Michael A.,
-    Cowan. Nicholas, Cumming. Alexander, Farrand. Philip, Hitt. Olivia, Lord. William,
-    Scarlett. Peter, Swain. Oliver, Thornton. Jenna, Warwick. Alan, Winterbourn. Ben
+  authors: Cooper, Bennett, Blake, Blyth, Boorman, Cooper, Evans, Fry, Jenkins, Morrison,
+    Rylett, Stanley, Szczykulska, Trill, Antoniou, Askquith-Ellis, Ball, Brooks, Clarke,
+    Cowan, Cumming,er , Farr,, Hitt, Lord, Scarlett, Swain, Thornton, Warwick, Winterbourn
   title: 'COSMOS-UK: national soil moisture and hydrometeorology data for environmental
     science research'
   journal: Earth System Science Data
@@ -145,8 +124,7 @@ Cooper_2021_10.5194/essd-13-1737-2021:
   year: '2021'
   doi: 10.5194/essd-13-1737-2021
 Power_2021_10.5194/gmd-2021-77:
-  authors: Power. Daniel, Rico-Ramirez. Miguel Angel, Desilets. Sharon, Desilets.
-    Darin, Rosolem. Rafael
+  authors: Power, Rico-Ramirez, Desilets, Desilets, Rosolem
   title: 'Cosmic-Ray neutron Sensor PYthon tool (crspy): An open-source tool for the
     processing of cosmic-ray neutron and soil moisture data'
   journal: Geoscientific Model Development Discussions
@@ -154,8 +132,7 @@ Power_2021_10.5194/gmd-2021-77:
   year: '2021'
   doi: 10.5194/gmd-2021-77
 Dimitrova-Petrova_2021_10.1016/j.jhydrol.2021.126659:
-  authors: Dimitrova-Petrova. Katya, Rosolem. Rafael, Soulsby. Chris, Wilkinson. Mark
-    E., Lilly. Allan, Geris. Josie
+  authors: Dimitrova-Petrova, Rosolem, Soulsby, Wilkinson, Lilly, Geris
   title: Combining static and portable Cosmic ray neutron sensor data to assess catchment
     scale heterogeneity in soil water storage and their integrated role in catchment
     runoff response
@@ -164,8 +141,7 @@ Dimitrova-Petrova_2021_10.1016/j.jhydrol.2021.126659:
   year: '2021'
   doi: 10.1016/j.jhydrol.2021.126659
 Patil_2021_10.3389/frwa.2021.729592:
-  authors: Patil. Amol, Fersch. Benjamin, Franssen. Harrie-Jan Hendricks, Kunstmann.
-    Harald
+  authors: Patil, Fersch, Franssen, Kunstmann
   title: Assimilation of Cosmogenic Neutron Counts for Improved Soil Moisture Prediction
     in a Distributed Land Surface Model
   journal: Frontiers in Water
@@ -173,7 +149,7 @@ Patil_2021_10.3389/frwa.2021.729592:
   year: '2021'
   doi: 10.3389/frwa.2021.729592
 Brall_2021_10.5194/tc-15-4769-2021:
-  authors: "Brall. Thomas, Mares. Vladimir, B\xFCtikofer. Rolf, R\xFChm. Werner"
+  authors: "Brall, Mares, B\xFCtikofer, R\xFChm"
   title: "Assessment of neutrons from secondary cosmic rays at mountain altitudes\
     \ \u2013 Geant4 simulations of environmental parameters including soil moisture\
     \ and snow cover"
@@ -182,7 +158,7 @@ Brall_2021_10.5194/tc-15-4769-2021:
   year: '2021'
   doi: 10.5194/tc-15-4769-2021
 Pang_2021_10.1016/j.jhydrol.2021.126068:
-  authors: Pang. Zhe, Jia. Yuhua, Peng. Xinhua, Ju. Xinni, Gao. Lei
+  authors: Pang, Jia, Peng, Ju, Gao
   title: Applicability of cosmic-ray neutron sensing for measuring soil water content
     to heterogeneous landscapes under subtropical hydroclimatic conditions
   journal: Journal of Hydrology
@@ -190,8 +166,7 @@ Pang_2021_10.1016/j.jhydrol.2021.126068:
   year: '2021'
   doi: 10.1016/j.jhydrol.2021.126068
 Iwema_2021_10.1002/hyp.14419:
-  authors: "Iwema. Joost, Schr\xF6n. Martin, Silva. Juliana Koltermann Da, Lopes.\
-    \ Rodolfo Schweiser De Paiva, Rosolem. Rafael"
+  authors: "Iwema, Schr\xF6n, Silva, Lopes, Rosolem"
   title: "Accuracy and precision of the cosmic\u2010ray neutron sensor for soil moisture\
     \ estimation at humid environments"
   journal: Hydrological Processes
@@ -199,7 +174,7 @@ Iwema_2021_10.1002/hyp.14419:
   year: '2021'
   doi: 10.1002/hyp.14419
 Patrignani_2021_10.3389/frwa.2021.673185:
-  authors: Patrignani. Andres, Ochsner. Tyson E., Montag. Benjamin, Bellinger. Steven
+  authors: Patrignani, Ochsner, Montag, Bellinger
   title: A Novel Lithium Foil Cosmic-Ray Neutron Detector for Measuring Field-Scale
     Soil Moisture
   journal: Frontiers in Water
@@ -207,27 +182,21 @@ Patrignani_2021_10.3389/frwa.2021.673185:
   year: '2021'
   doi: 10.3389/frwa.2021.673185
 Bogena_2021_10.5194/essd-2021-325:
-  authors: "Bogena. Heye, Schr\xF6n. Martin, Jakobi. Jannis, Ney. Patrizia, Zacharias.\
-    \ Steffen, Andreasen. Mie, Baatz. Roland, Boorman. David, Duygu. Berk M., Eguibar-Gal\xE1\
-    n. Miguel A., Fersch. Benjamin, Franke. Till, Geris. Josie, Sanchis. Mar\xEDa\
-    \ Gonz\xE1lez, Kerr. Yann, Korf. Tobias, Mengistu. Zalalem, Mialon. Arnaud, Nasta.\
-    \ Paolo, Nitychoruk. Jerzy, Pisinaras. Vassilios, Rasche. Daniel, Rosolem. Rafael,\
-    \ Said. Hami, Schattan. Paul, Zreda. Marek, Achleitner. Stefan, Albentosa-Hern\xE1\
-    ndez. Eduardo, Aky\xFCrek. Zuhal, Blume. Theresa, Campo. Antonio del, Dimitrova-Petrova.\
-    \ Katya, Evans. John G., Frances. Felix, G\xFCntner. Andreas, Herrmann. Frank,\
-    \ Iwema. Joost, Jensen. Karsten H\xF8gh, Kunstmann. Harald, Lid\xF3n. Antonio,\
-    \ Looms. Majken Caroline, Oswald. Sascha, Panagopoulos. Andreas, Patil. Amol,\
-    \ Power. Daniel, Rebmann. Corinna, Romano. Nunzio, Scheiffele. Lena M., Seneviratne.\
-    \ Sonia, Weltin. Georg, Vereecken. Harry"
+  authors: "Bogena, Schr\xF6n, Jakobi, Ney, Zacharias, Andreasen, Baatz, , Boorman,\
+    \ Duygu, Eguibar-Gal\xE1n, Fersch, Franke, Geris, Sanchis, Kerr, Korf, Mengistu,\
+    \ Mialon, Nasta, Nitychoruk, Pisinaras, Rasche, Rosolem, Said, Schattan, Zreda,\
+    \ Achleitner, Albentosa-Hern\xE1ndez, Aky\xFCrek, Blume, Campo, Dimitrova-Petrova,\
+    \ Evans, Frances, G\xFCntner, Herrmann, Iwema, Jensen, Kunstmann, Lid\xF3n, Looms,\
+    \ Oswald, Panagopoulos, Patil, Power, Rebmann, Romano, Scheiffele, Seneviratne,\
+    \ Weltin, Vereecken"
   title: 'COSMOS-Europe: A European Network of Cosmic-Ray Neutron Soil Moisture Sensors'
   journal: Earth System Science Data Discussions
   numbers: 2021, 1--33
   year: '2021'
   doi: 10.5194/essd-2021-325
 Filippucci_2020_10.1016/j.advwatres.2019.103502:
-  authors: Filippucci. Paolo, Tarpanelli. Angelica, Massari. Christian, Serafini.
-    Andrea, Strati. Virginia, Alberi. Matteo, Raptis. Kassandra Giulia Cristina, Mantovani.
-    Fabio, Brocca. Luca
+  authors: Filippucci, Tarpanelli, Massari, Serafini, Strati, Alberi, Raptis,ra Giulia
+    Cristina , Mantovani, Brocca
   title: 'Soil moisture as a potential variable for tracking and quantifying irrigation:
     A case study with proximal gamma-ray spectroscopy data'
   journal: Advances in Water Resources
@@ -235,8 +204,7 @@ Filippucci_2020_10.1016/j.advwatres.2019.103502:
   year: '2020'
   doi: 10.1016/j.advwatres.2019.103502
 Dimitrova-Petrova_2020_10.1016/j.jhydrol.2020.124878:
-  authors: Dimitrova-Petrova. Katya, Geris. Josie, Wilkinson. Mark E., Rosolem. Rafael,
-    Verrot. Lucile, Lilly. Allan, Soulsby. Chris
+  authors: Dimitrova-Petrova, Geris, Wilkinson, Rosolem, Verrot, Lilly, Soulsby
   title: Opportunities and challenges in using catchment-scale storage estimates from
     cosmic ray neutron sensors for rainfall-runoff modelling
   journal: Journal of Hydrology
@@ -244,8 +212,7 @@ Dimitrova-Petrova_2020_10.1016/j.jhydrol.2020.124878:
   year: '2020'
   doi: 10.1016/j.jhydrol.2020.124878
 Franz_2020_10.3389/frwa.2020.00009:
-  authors: Franz. Trenton E., Wahbi. Ammar, Zhang. Jie, Vreugdenhil. Mariette, Heng.
-    Lee, Dercon. Gerd, Strauss. Peter, Brocca. Luca, Wagner. Wolfgang
+  authors: Franz, Wahbi, Zhang, Vreugdenhil, Heng, Dercon, Strauss, Brocca, Wagner
   title: Practical Data Products From Cosmic-Ray Neutron Sensing for Hydrological
     Applications
   journal: Frontiers in Water
@@ -253,7 +220,7 @@ Franz_2020_10.3389/frwa.2020.00009:
   year: '2020'
   doi: 10.3389/frwa.2020.00009
 Liang_2020_10.3390/rs12030551:
-  authors: Liang. Mengyu, Pause. Marion, Prechtel. Nikolas, Schramm. Matthias
+  authors: Liang, Pause, Prechtel, Schramm
   title: "Regionalization of Coarse Scale Soil Moisture Products Using Fine-Scale\
     \ Vegetation Indices\u2014Prospects and Case Study"
   journal: Remote Sensing
@@ -261,7 +228,7 @@ Liang_2020_10.3390/rs12030551:
   year: '2020'
   doi: 10.3390/rs12030551
 Ma_2020_10.3390/rs12142303:
-  authors: Ma. Chunfeng, Li. Xin, McCabe. Matthew F.
+  authors: Ma, Li, McCabe
   title: Retrieval of High-Resolution Soil Moisture through Combination of Sentinel-1
     and Sentinel-2 Data
   journal: Remote Sensing
@@ -269,8 +236,7 @@ Ma_2020_10.3390/rs12142303:
   year: '2020'
   doi: 10.3390/rs12142303
 Pang_2020_10.5194/isprs-annals-v-3-2020-395-2020:
-  authors: Pang. Z., Qin. X., Jiang. W., Fu. J., Yang. K., Lu. J., Qu. W., Li. L.,
-    Li. X.
+  authors: Pang, Qin, Jiang, Fu, Yang, Lu, Qu, Li, Li
   title: THE REVIEW OF SOIL MOISTURE MULTI-SCALE VERIFICATION METHODS
   journal: ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information
     Sciences
@@ -278,14 +244,14 @@ Pang_2020_10.5194/isprs-annals-v-3-2020-395-2020:
   year: '2020'
   doi: 10.5194/isprs-annals-v-3-2020-395-2020
 Zhuo_2020_10.5194/hess-24-2577-2020:
-  authors: Zhuo. Lu, Dai. Qiang, Zhao. Binru, Han. Dawei
+  authors: Zhuo, Dai, Zhao, Han
   title: Soil moisture sensor network design for hydrological applications
   journal: Hydrology and Earth System Sciences
   numbers: 24, 2577--2591
   year: '2020'
   doi: 10.5194/hess-24-2577-2020
 Vather_2020_10.3390/hydrology7030048:
-  authors: Vather. Thigesh, Everson. Colin S., Franz. Trenton E.
+  authors: Vather, Everson, Franz
   title: The applicability of the cosmic ray neutron sensor to simultaneously monitor
     soil water content and biomass in an acacia mearnsii forest
   journal: Hydrology
@@ -293,8 +259,7 @@ Vather_2020_10.3390/hydrology7030048:
   year: '2020'
   doi: 10.3390/hydrology7030048
 Schattan_2020_10.1016/j.rse.2019.111603:
-  authors: "Schattan. Paul, Schwaizer. Gabriele, Sch\xF6ber. Johannes, Achleitner.\
-    \ Stefan"
+  authors: "Schattan, Schwaizer, Sch\xF6ber, Achleitner"
   title: The complementary value of cosmic-ray neutron sensing and snow covered area
     products for snow hydrological modelling
   journal: Remote Sensing of Environment
@@ -302,7 +267,7 @@ Schattan_2020_10.1016/j.rse.2019.111603:
   year: '2020'
   doi: 10.1016/j.rse.2019.111603
 Gao_2020_10.1016/j.rse.2020.111662:
-  authors: Gao. Lun, Sadeghi. Morteza, Ebtehaj. Ardeshir
+  authors: Gao, Sadeghi, Ebtehaj
   title: 'Microwave retrievals of soil moisture and vegetation optical depth with
     improved resolution using a combined constrained inversion algorithm: Application
     for SMAP satellite'
@@ -311,8 +276,7 @@ Gao_2020_10.1016/j.rse.2020.111662:
   year: '2020'
   doi: 10.1016/j.rse.2020.111662
 Bogena_2020_10.3389/frwa.2020.00019:
-  authors: Bogena. Heye R., Herrmann. Frank, Jakobi. Jannis, Brogi. Cosimo, Ilias.
-    Andreas, Huisman. Johan Alexander, Panagopoulos. Andreas, Pisinaras. Vassilios
+  authors: Bogena, Herrmann, Jakobi, Brogi, Ilias, Huisman,er , Panagopoulos, Pisinaras
   title: 'Monitoring of Snowpack Dynamics With Cosmic-Ray Neutron Probes: A Comparison
     of Four Conversion Methods'
   journal: Frontiers in Water
@@ -320,8 +284,7 @@ Bogena_2020_10.3389/frwa.2020.00019:
   year: '2020'
   doi: 10.3389/frwa.2020.00019
 Jakobi_2020_10.3389/frwa.2020.00010:
-  authors: "Jakobi. Jannis, Huisman. Johan A., Schr\xF6n. Martin, Fiedler. Justus,\
-    \ Brogi. Cosimo, Vereecken. Harry, Bogena. Heye R."
+  authors: "Jakobi, Huisman, Schr\xF6n, Fiedler, Brogi, Vereecken, Bogena"
   title: Error Estimation for Soil Moisture Measurements With Cosmic Ray Neutron Sensing
     and Implications for Rover Surveys
   journal: Frontiers in Water
@@ -329,8 +292,7 @@ Jakobi_2020_10.3389/frwa.2020.00010:
   year: '2020'
   doi: 10.3389/frwa.2020.00010
 Senyurek_2020_10.3390/rs12071168:
-  authors: Senyurek. Volkan, Lei. Fangni, Boyd. Dylan, Kurum. Mehmet, Gurbuz. Ali
-    Cafer, Moorhead. Robert
+  authors: Senyurek, Lei, Boyd, Kurum, Gurbuz, Moorhead
   title: Machine Learning-Based CYGNSS Soil Moisture Estimates over ISMN sites in
     CONUS
   journal: Remote Sensing
@@ -338,8 +300,8 @@ Senyurek_2020_10.3390/rs12071168:
   year: '2020'
   doi: 10.3390/rs12071168
 Saduyev_2020_10.5506/aphyspolb.51.887:
-  authors: Saduyev. N O, Kalikulov. O A, Sedov. A N, Mukhamejanov. Y S, Oskomov. V
-    V, Shinbulatov. S K, Yerezhep. N O, Zhumabayev. A I, Utey. Sh B, Baktoraz. A Y
+  authors: Saduyev, Kalikulov, Sedov, Mukhamejanov, Oskomov, Shinbulatov, Yerezhep,
+    Zhumabayev, Utey, Baktoraz
   title: Development of an Automated System for the Determination of the Snow Water
     Equivalent and Soil Moisture by the Neutron Component of Cosmic Rays
   journal: Acta Physica Polonica B
@@ -347,14 +309,10 @@ Saduyev_2020_10.5506/aphyspolb.51.887:
   year: '2020'
   doi: 10.5506/aphyspolb.51.887
 Fersch_2020_10.5194/essd-12-2289-2020:
-  authors: "Fersch. Benjamin, Francke. Till, Heistermann. Maik, Schr\xF6n. Martin,\
-    \ D\xF6pper. Veronika, Jakobi. Jannis, Baroni. Gabriele, Blume. Theresa, Bogena.\
-    \ Heye, Budach. Christian, Gr\xE4nzig. Tobias, F\xF6rster. Michael, G\xFCntner.\
-    \ Andreas, Franssen. Harrie Jan Hendricks, Kasner. Mandy, K\xF6hli. Markus, Kleinschmit.\
-    \ Birgit, Kunstmann. Harald, Patil. Amol, Rasche. Daniel, Scheiffele. Lena, Schmidt.\
-    \ Ulrich, Szulc-Seyfried. Sandra, Weimar. Jannis, Zacharias. Steffen, Zreda. Marek,\
-    \ Heber. Bernd, Kiese. Ralf, Mares. Vladimir, Mollenhauer. Hannes, V\xF6lksch.\
-    \ Ingo, Oswald. Sascha"
+  authors: "Fersch, Francke, Heistermann, Schr\xF6n, D\xF6pper, Jakobi, Baroni, Blume,\
+    \ Bogena, Budach, Gr\xE4nzig, F\xF6rster, G\xFCntner, Franssen, Kasner,y , K\xF6\
+    hli, Kleinschmit, Kunstmann, Patil, Rasche, Scheiffele, Schmidt, Szulc-Seyfried,ra\
+    \ , Weimar, Zacharias, Zreda, Heber, Kiese, Mares, Mollenhauer, V\xF6lksch, Oswald"
   title: A dense network of cosmic-ray neutron sensors for soil moisture observation
     in a highly instrumented pre-Alpine headwater catchment in Germany
   journal: Earth System Science Data
@@ -362,8 +320,7 @@ Fersch_2020_10.5194/essd-12-2289-2020:
   year: '2020'
   doi: 10.5194/essd-12-2289-2020
 Fentanes_2020_10.1002/rob.21914:
-  authors: Fentanes. Jaime Pulido, Badiee. Amir, Duckett. Tom, Evans. Jonathan, Pearson.
-    Simon, Cielniak. Grzegorz
+  authors: Fentanes, Badiee, Duckett, Evans, Pearson, Cielniak
   title: "Kriging\u2010based robotic exploration for soil moisture mapping using a\
     \ cosmic\u2010ray sensor"
   journal: Journal of Field Robotics
@@ -371,7 +328,7 @@ Fentanes_2020_10.1002/rob.21914:
   year: '2020'
   doi: 10.1002/rob.21914
 Mwangi_2020_10.1029/2019jd031529:
-  authors: Mwangi. Samuel, Zeng. Yijian, Montzka. Carsten, Yu. Lianyu, Su. Zhongbo
+  authors: Mwangi, Zeng, Montzka, Yu, Su
   title: "Assimilation of Cosmic\u2010Ray Neutron Counts for the Estimation of Soil\
     \ Ice Content on the Eastern Tibetan Plateau"
   journal: 'Journal of Geophysical Research: Atmospheres'
@@ -379,8 +336,7 @@ Mwangi_2020_10.1029/2019jd031529:
   year: '2020'
   doi: 10.1029/2019jd031529
 Jakobi_2020_10.3389/frwa.2020.604482:
-  authors: "Jakobi. Jannis, Huisman. Johan A., Schr\xF6n. Martin, Fiedler. Justus,\
-    \ Brogi. Cosimo, Vereecken. Harry, Bogena. Heye R."
+  authors: "Jakobi, Huisman, Schr\xF6n, Fiedler, Brogi, Vereecken, Bogena"
   title: 'Corrigendum: Error Estimation for Soil Moisture Measurements With Cosmic
     Ray Neutron Sensing and Implications for Rover Surveys'
   journal: Frontiers in Water
@@ -388,8 +344,7 @@ Jakobi_2020_10.3389/frwa.2020.604482:
   year: '2020'
   doi: 10.3389/frwa.2020.604482
 Tan_2020_10.1007/s11430-020-9650-2:
-  authors: Tan. Xingyan, Zhang. Lanhui, He. Chansheng, Zhu. Yuzuo, Han. Zhibo, Li.
-    Xuliang
+  authors: Tan, Zhang, He, Zhu, Han, Li
   title: Applicability of cosmic-ray neutron sensor for measuring soil moisture at
     the agricultural-pastoral ecotone in northwest China
   journal: Science China Earth Sciences
@@ -397,7 +352,7 @@ Tan_2020_10.1007/s11430-020-9650-2:
   year: '2020'
   doi: 10.1007/s11430-020-9650-2
 Yuan_2020_10.1016/j.jhydrol.2019.124351:
-  authors: Yuan. Qiangqiang, Xu. Hongzhang, Li. Tongwen, Shen. Huanfeng, Zhang. Liangpei
+  authors: Yuan, Xu, Li, Shen, Zhang
   title: Estimating surface soil moisture from satellite observations using a generalized
     regression neural network trained on sparse ground-based measurements in the continental
     U.S
@@ -406,8 +361,7 @@ Yuan_2020_10.1016/j.jhydrol.2019.124351:
   year: '2020'
   doi: 10.1016/j.jhydrol.2019.124351
 Tian_2020_10.5194/hess-24-4659-2020:
-  authors: Tian. Jie, Han. Zhibo, Bogena. Heye Reemt, Huisman. Johan Alexander, Montzka.
-    Carsten, Zhang. Baoqing, He. Chansheng
+  authors: Tian, Han, Bogena, Huisman,er , Montzka, Zhang, He
   title: Estimation of subsurface soil moisture from surface soil moisture in cold
     mountainous areas
   journal: Hydrology and Earth System Sciences
@@ -415,8 +369,7 @@ Tian_2020_10.5194/hess-24-4659-2020:
   year: '2020'
   doi: 10.5194/hess-24-4659-2020
 Fang_2020_10.1016/j.jhydrol.2020.125043:
-  authors: Fang. Bin, Lakshmi. Venkataraman, Bindlish. Rajat, Jackson. Thomas J.,
-    Liu. Pang-Wei
+  authors: Fang, Lakshmi, Bindlish, Jackson, Liu
   title: Evaluation and validation of a high spatial resolution satellite soil moisture
     product over the Continental United States
   journal: Journal of Hydrology
@@ -424,8 +377,7 @@ Fang_2020_10.1016/j.jhydrol.2020.125043:
   year: '2020'
   doi: 10.1016/j.jhydrol.2020.125043
 Nasta_2020_10.3389/frwa.2020.00026:
-  authors: Nasta. Paolo, Bogena. Heye R., Sica. Benedetto, Weuthen. Ansgar, Vereecken.
-    Harry, Romano. Nunzio
+  authors: Nasta, Bogena, Sica, Weuthen, Vereecken, Romano
   title: Integrating Invasive and Non-invasive Monitoring Sensors to Detect Field-Scale
     Soil Hydrological Behavior
   journal: Frontiers in Water
@@ -433,15 +385,14 @@ Nasta_2020_10.3389/frwa.2020.00026:
   year: '2020'
   doi: 10.3389/frwa.2020.00026
 Woolf_2019_10.1016/j.jenvrad.2019.01.001:
-  authors: Woolf. Richard S., Sinclair. Laurel E., Brabant. Reid A. Van, Harvey. Bradley
-    J.A., Phlips. Bernard F., Hutcheson. Anthony L., Jackson. Emily G.
+  authors: Woolf, Sinclair, Brabant, Harvey, Phlips, Hutcheson, Jackson
   title: Measurement of secondary cosmic-ray neutrons near the geomagnetic North Pole
   journal: Journal of Environmental Radioactivity
   numbers: 198, 189--199
   year: '2019'
   doi: 10.1016/j.jenvrad.2019.01.001
 Duygu_2019_10.3390/w11071362:
-  authors: "Duygu. Mustafa Berk, Aky\xFCrek. Zuhal"
+  authors: "Duygu, Aky\xFCrek"
   title: Using Cosmic-Ray Neutron Probes in Validating Satellite Soil Moisture Products
     and Land Surface Models
   journal: Water
@@ -449,9 +400,8 @@ Duygu_2019_10.3390/w11071362:
   year: '2019'
   doi: 10.3390/w11071362
 Bauer-Marschallinger_2019_10.1109/tgrs.2018.2858004:
-  authors: Bauer-Marschallinger. Bernhard, Freeman. Vahid, Cao. Senmao, Paulik. Christoph,
-    Schaufler. Stefan, Stachl. Tobias, Modanesi. Sara, Massari. Christian, Ciabatta.
-    Luca, Brocca. Luca, Wagner. Wolfgang
+  authors: Bauer-Marschallinger, Freeman, Cao, Paulik, Schaufler, Stachl, Modanesi,
+    Massari, Ciabatta, Brocca, Wagner
   title: 'Toward Global Soil Moisture Monitoring With Sentinel-1: Harnessing Assets
     and Overcoming Obstacles'
   journal: IEEE Transactions on Geoscience and Remote Sensing
@@ -459,8 +409,7 @@ Bauer-Marschallinger_2019_10.1109/tgrs.2018.2858004:
   year: '2019'
   doi: 10.1109/tgrs.2018.2858004
 Emmerson_2019_10.1016/j.atmosenv.2019.04.038:
-  authors: Emmerson. Kathryn M., Palmer. Paul I., Thatcher. Marcus, Haverd. Vanessa,
-    Guenther. Alex B.
+  authors: Emmerson, Palmer, Thatcher, Haverd, Guenther
   title: 'Sensitivity of isoprene emissions to drought over south-eastern Australia:
     Integrating models and satellite observations of soil moisture'
   journal: Atmospheric Environment
@@ -468,7 +417,7 @@ Emmerson_2019_10.1016/j.atmosenv.2019.04.038:
   year: '2019'
   doi: 10.1016/j.atmosenv.2019.04.038
 Schattan_2019_10.1029/2019wr025647:
-  authors: "Schattan. P., K\xF6hli. M., Schr\xF6n. M., Baroni. G., Oswald. S. E."
+  authors: "Schattan, K\xF6hli, Schr\xF6n, Baroni, Oswald"
   title: "Sensing Area\u2010Average Snow Water Equivalent with Cosmic\u2010Ray Neutrons:\
     \ The Influence of Fractional Snow Cover"
   journal: Water Resources Research
@@ -476,7 +425,7 @@ Schattan_2019_10.1029/2019wr025647:
   year: '2019'
   doi: 10.1029/2019wr025647
 Liao_2019_10.1007/s13351-019-8121-2:
-  authors: Liao. Weilin, Wang. Dagang, Wang. Guiling, Xia. Youlong, Liu. Xiaoping
+  authors: Liao, Wang, Wang, Xia, Liu
   title: Quality Control and Evaluation of the Observed Daily Data in the North American
     Soil Moisture Database
   journal: Journal of Meteorological Research
@@ -484,15 +433,14 @@ Liao_2019_10.1007/s13351-019-8121-2:
   year: '2019'
   doi: 10.1007/s13351-019-8121-2
 Myeni_2019_10.1016/j.ejrh.2018.11.004:
-  authors: Myeni. L., Moeletsi. M.E., Clulow. A.D.
+  authors: Myeni, Moeletsi, Clulow
   title: Present status of soil moisture estimation over the African continent
   journal: 'Journal of Hydrology: Regional Studies'
   numbers: 21, 14--24
   year: '2019'
   doi: 10.1016/j.ejrh.2018.11.004
 Brunetti_2019_10.2136/vzj2018.06.0123:
-  authors: "Brunetti. Giuseppe, \u0160im\u016Fnek. Ji\u0159\xED, Bogena. Heye, Baatz.\
-    \ Roland, Huisman. Johan Alexander, Dahlke. Helen, Vereecken. Harry"
+  authors: "Brunetti, \u0160im\u016Fnek, Bogena, Baatz, , Huisman,er , Dahlke, Vereecken"
   title: "On the Information Content of Cosmic\u2010Ray Neutron Data in the Inverse\
     \ Estimation of Soil Hydraulic Properties"
   journal: Vadose Zone Journal
@@ -500,7 +448,7 @@ Brunetti_2019_10.2136/vzj2018.06.0123:
   year: '2019'
   doi: 10.2136/vzj2018.06.0123
 Kathuria_2019_10.1029/2018wr024581:
-  authors: Kathuria. Dhruva, Mohanty. Binayak P., Katzfuss. Matthias
+  authors: Kathuria, Mohanty, Katzfuss
   title: 'Multiscale Data Fusion for Surface Soil Moisture Estimation: A Spatial Hierarchical
     Approach'
   journal: Water Resources Research
@@ -508,7 +456,7 @@ Kathuria_2019_10.1029/2018wr024581:
   year: '2019'
   doi: 10.1029/2018wr024581
 Ochsner_2019_10.1029/2018wr024535:
-  authors: Ochsner. Tyson E., Linde. Evan, Haffner. Matthew, Dong. Jingnuo
+  authors: Ochsner, Linde, Haffner, Dong
   title: Mesoscale Soil Moisture Patterns Revealed Using a Sparse In Situ Network
     and Regression Kriging
   journal: Water Resources Research
@@ -516,8 +464,8 @@ Ochsner_2019_10.1029/2018wr024535:
   year: '2019'
   doi: 10.1029/2018wr024535
 Nasta_2019_10.1109/metroagrifor.2019.8909226:
-  authors: "Nasta. Paolo, Sch\xF6nbrodt-Stitt. Sarah, Bogena. Heye, Kurtenbach. Markus,\
-    \ Ahmadian. Nima, Vereecken. Harry, Conrad. Christopher, Romano. Nunzio"
+  authors: "Nasta, Sch\xF6nbrodt-Stitt, Bogena, Kurtenbach, Ahmadian, Vereecken, Conrad,\
+    \ Romano"
   title: Integrating ground-based and remote sensing-based monitoring of near-surface
     soil moisture in a Mediterranean environment
   journal: 2019 IEEE International Workshop on Metrology for Agriculture and Forestry
@@ -526,7 +474,7 @@ Nasta_2019_10.1109/metroagrifor.2019.8909226:
   year: '2019'
   doi: 10.1109/metroagrifor.2019.8909226
 Peterson_2019_10.1029/2018wr023329:
-  authors: Peterson. A. M., Helgason. W. H., Ireson. A. M.
+  authors: Peterson, Helgason, Ireson
   title: "How Spatial Patterns of Soil Moisture Dynamics Can Explain Field\u2010Scale\
     \ Soil Moisture Variability: Observations From a Sodic Landscape"
   journal: Water Resources Research
@@ -534,16 +482,15 @@ Peterson_2019_10.1029/2018wr023329:
   year: '2019'
   doi: 10.1029/2018wr023329
 Li_2019_10.2136/vzj2019.05.0053:
-  authors: "Li. Dazhi, Schr\xF6n. Martin, K\xF6hli. Markus, Bogena. Heye, Weimar.\
-    \ Jannis, Bello. Miguel Angel Jim\xE9nez, Han. Xujun, Gimeno. Maria Amparo Mart\xED\
-    nez, Zacharias. Steffen, Vereecken. Harry, Franssen. Harrie\u2010Jan Hendricks"
+  authors: "Li, Schr\xF6n, K\xF6hli, Bogena, Weimar, Bello, Han, Gimeno, Zacharias,\
+    \ Vereecken, Franssen"
   title: "Can Drip Irrigation be Scheduled with Cosmic\u2010Ray Neutron Sensing?"
   journal: Vadose Zone Journal
   numbers: 18, 190053
   year: '2019'
   doi: 10.2136/vzj2019.05.0053
 Zhang_2019_10.1016/j.rse.2019.01.015:
-  authors: Zhang. Runze, Kim. Seokhyeon, Sharma. Ashish
+  authors: Zhang, Kim, Sharma
   title: A comprehensive validation of the SMAP Enhanced Level-3 Soil Moisture product
     using ground measurements over varied climates and landscapes
   journal: Remote Sensing of Environment
@@ -551,9 +498,8 @@ Zhang_2019_10.1016/j.rse.2019.01.015:
   year: '2019'
   doi: 10.1016/j.rse.2019.01.015
 Stevanato_2019_10.3390/agriculture9090202:
-  authors: Stevanato. Luca, Baroni. Gabriele, Cohen. Yafit, Lino. Fontana Cristiano,
-    Gatto. Simone, Lunardon. Marcello, Marinello. Francesco, Moretto. Sandra, Morselli.
-    Luca
+  authors: Stevanato, Baroni, Cohen, Lino, Gatto, Lunardon, Marinello, Moretto,ra
+    , Morselli
   title: A Novel Cosmic-Ray Neutron Sensor for Soil Moisture Estimation over Large
     Areas
   journal: Agriculture
@@ -561,7 +507,7 @@ Stevanato_2019_10.3390/agriculture9090202:
   year: '2019'
   doi: 10.3390/agriculture9090202
 Tian_2019_10.1109/igarss.2019.8900107:
-  authors: Tian. Jing, Song. Shangkun
+  authors: Tian, Song
   title: Application of Cosmic-Ray Neutron Sensing to Monitor Soil Water Content in
     Agroecosystem in North China Plain
   journal: IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium
@@ -569,7 +515,7 @@ Tian_2019_10.1109/igarss.2019.8900107:
   year: '2019'
   doi: 10.1109/igarss.2019.8900107
 Vather_2019_10.3390/hydrology6030065:
-  authors: Vather. Thigesh, Everson. Colin, Franz. Trenton E.
+  authors: Vather, Everson, Franz
   title: Calibration and Validation of the Cosmic Ray Neutron Rover for Soil Water
     Mapping within Two South African Land Classes
   journal: Hydrology
@@ -577,7 +523,7 @@ Vather_2019_10.3390/hydrology6030065:
   year: '2019'
   doi: 10.3390/hydrology6030065
 Wang_2019_10.1016/j.jhydrol.2018.11.073:
-  authors: Wang. Qiuming, Fan. Jun, Wang. Sheng, Yong. Chenxu, Ge. Jiamin, You. Wei
+  authors: Wang, Fan, Wang, Yong, Ge, You
   title: Application and accuracy of cosmic-ray neutron probes in three soil textures
     on the Loess Plateau, China
   journal: Journal of Hydrology
@@ -585,7 +531,7 @@ Wang_2019_10.1016/j.jhydrol.2018.11.073:
   year: '2019'
   doi: 10.1016/j.jhydrol.2018.11.073
 Gugerli_2019_10.5194/tc-13-3413-2019:
-  authors: Gugerli. Rebecca, Salzmann. Nadine, Huss. Matthias, Desilets. Darin
+  authors: Gugerli, Salzmann, Huss, Desilets
   title: Continuous and autonomous snow water equivalent measurements by a cosmic
     ray sensor on an alpine glacier
   journal: The Cryosphere
@@ -593,7 +539,7 @@ Gugerli_2019_10.5194/tc-13-3413-2019:
   year: '2019'
   doi: 10.5194/tc-13-3413-2019
 Vinodkumar_2019_10.1016/j.agrformet.2018.09.012:
-  authors: Vinodkumar, Dharssi. Imtiaz
+  authors: Vinodkumar , Dharssi
   title: Evaluation and calibration of a high-resolution soil moisture product for
     wildfire prediction and management
   journal: Agricultural and Forest Meteorology
@@ -601,7 +547,7 @@ Vinodkumar_2019_10.1016/j.agrformet.2018.09.012:
   year: '2019'
   doi: 10.1016/j.agrformet.2018.09.012
 Nguyen_2019_10.1016/j.jhydrol.2019.02.018:
-  authors: Nguyen. Hoang Hai, Jeong. Jaehwan, Choi. Minha
+  authors: Nguyen, Jeong, Choi
   title: Extension of cosmic-ray neutron probe measurement depth for improving field
     scale root-zone soil moisture estimation by coupling with representative in-situ
     sensors
@@ -610,15 +556,14 @@ Nguyen_2019_10.1016/j.jhydrol.2019.02.018:
   year: '2019'
   doi: 10.1016/j.jhydrol.2019.02.018
 Babaeian_2019_10.1029/2018rg000618:
-  authors: Babaeian. Ebrahim, Sadeghi. Morteza, Jones. Scott B., Montzka. Carsten,
-    Vereecken. Harry, Tuller. Markus
+  authors: Babaeian, Sadeghi, Jones, Montzka, Vereecken, Tuller
   title: Ground, Proximal, and Satellite Remote Sensing of Soil Moisture
   journal: Reviews of Geophysics
   numbers: 57, 530--616
   year: '2019'
   doi: 10.1029/2018rg000618
 Dong_2018_10.1002/2017wr021692:
-  authors: Dong. Jingnuo, Ochsner. Tyson E.
+  authors: Dong, Ochsner
   title: Soil Texture Often Exerts a Stronger Influence Than Precipitation on Mesoscale
     Soil Moisture Patterns
   journal: Water Resources Research
@@ -626,8 +571,7 @@ Dong_2018_10.1002/2017wr021692:
   year: '2018'
   doi: 10.1002/2017wr021692
 Babaeian_2018_10.1016/j.rse.2018.04.029:
-  authors: Babaeian. Ebrahim, Sadeghi. Morteza, Franz. Trenton E., Jones. Scott, Tuller.
-    Markus
+  authors: Babaeian, Sadeghi, Franz, Jones, Tuller
   title: Mapping soil moisture with the OPtical TRApezoid Model (OPTRAM) based on
     long-term MODIS observations
   journal: Remote Sensing of Environment
@@ -635,7 +579,7 @@ Babaeian_2018_10.1016/j.rse.2018.04.029:
   year: '2018'
   doi: 10.1016/j.rse.2018.04.029
 Wagner_2018_10.1117/12.2325319:
-  authors: Wagner. Kathrin, Oswald. Sascha E., Frick. Annett
+  authors: Wagner, Oswald, Frick
   title: Multitemporal soil moisture monitoring by use of optical remote sensing data
     in a dike relocation area
   journal: Remote Sensing for Agriculture, Ecosystems, and Hydrology XX
@@ -643,7 +587,7 @@ Wagner_2018_10.1117/12.2325319:
   year: '2018'
   doi: 10.1117/12.2325319
 "K\xF6hli_2018_10.1016/j.nima.2018.06.052":
-  authors: "K\xF6hli. M., Schr\xF6n. M., Schmidt. U."
+  authors: "K\xF6hli, Schr\xF6n, Schmidt"
   title: Response functions for detectors in cosmic ray neutron sensing
   journal: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
     Spectrometers, Detectors and Associated Equipment'
@@ -651,16 +595,14 @@ Wagner_2018_10.1117/12.2325319:
   year: '2018'
   doi: 10.1016/j.nima.2018.06.052
 Purdy_2018_10.1016/j.rse.2018.09.023:
-  authors: Purdy. Adam J., Fisher. Joshua B., Goulden. Michael L., Colliander. Andreas,
-    Halverson. Gregory, Tu. Kevin, Famiglietti. James S.
+  authors: Purdy, Fisher, Goulden, Colli,er, Halverson, Tu, Famiglietti
   title: SMAP soil moisture improves global evapotranspiration
   journal: Remote Sensing of Environment
   numbers: 219, 1--14
   year: '2018'
   doi: 10.1016/j.rse.2018.09.023
 Badewa_2018_10.3390/agronomy8100224:
-  authors: Badewa. Emmanuel, Unc. Adrian, Cheema. Mumtaz, Kavanagh. Vanessa, Galagedara.
-    Lakshman
+  authors: Badewa, Unc, Cheema, Kavanagh, Galagedara
   title: Soil Moisture Mapping Using Multi-Frequency and Multi-Coil Electromagnetic
     Induction Sensors on Managed Podzols
   journal: Agronomy
@@ -668,7 +610,7 @@ Badewa_2018_10.3390/agronomy8100224:
   year: '2018'
   doi: 10.3390/agronomy8100224
 Chew_2018_10.1029/2018gl077905:
-  authors: Chew. C. C., Small. E. E.
+  authors: Chew, Small
   title: 'Soil Moisture Sensing Using Spaceborne GNSS Reflections: Comparison of CYGNSS
     Reflectivity to SMAP Soil Moisture'
   journal: Geophysical Research Letters
@@ -676,8 +618,7 @@ Chew_2018_10.1029/2018gl077905:
   year: '2018'
   doi: 10.1029/2018gl077905
 Wang_2018_10.1016/j.agwat.2018.04.017:
-  authors: Wang. Enli, Smith. Chris J., Macdonald. Ben C.T., Hunt. James R., Xing.
-    Hongtao, Denmead. O.T., Zeglin. Steve, Zhao. Zhigan, Isaac. Peter
+  authors: Wang, Smith, Macdonald, Hunt, Xing, Denmead, Zeglin, Zhao, Isaac
   title: Making sense of cosmic-ray soil moisture measurements and eddy covariance
     data with regard to crop water use and field water balance
   journal: Agricultural Water Management
@@ -685,7 +626,7 @@ Wang_2018_10.1016/j.agwat.2018.04.017:
   year: '2018'
   doi: 10.1016/j.agwat.2018.04.017
 Cai_2018_10.1016/j.pce.2018.02.001:
-  authors: Cai. Jingya, Pang. Zhiguo, Fu. Jun'e
+  authors: Cai, Pang, Fu
   title: 'Spatial feature analysis of a cosmic-ray sensor for measuring the soil water
     content: Comparison of four weighting methods'
   journal: Physics and Chemistry of the Earth, Parts A/B/C
@@ -693,7 +634,7 @@ Cai_2018_10.1016/j.pce.2018.02.001:
   year: '2018'
   doi: 10.1016/j.pce.2018.02.001
 Gibson_2018_10.1016/j.jhydrol.2018.03.046:
-  authors: Gibson. Justin, Franz. Trenton E.
+  authors: Gibson, Franz
   title: Spatial prediction of near surface soil water retention functions using hydrogeophysics
     and empirical orthogonal functions
   journal: Journal of Hydrology
@@ -701,7 +642,7 @@ Gibson_2018_10.1016/j.jhydrol.2018.03.046:
   year: '2018'
   doi: 10.1016/j.jhydrol.2018.03.046
 Fersch_2018_10.1029/2018wr023337:
-  authors: "Fersch. B., Jagdhuber. T., Schr\xF6n. M., V\xF6lksch. I., J\xE4ger. M."
+  authors: "Fersch, Jagdhuber, Schr\xF6n, V\xF6lksch, J\xE4ger"
   title: Synergies for Soil Moisture Retrieval Across Scales From Airborne Polarimetric
     SAR, Cosmic Ray Neutron Roving, and an In Situ Sensor Network
   journal: Water Resources Research
@@ -709,7 +650,7 @@ Fersch_2018_10.1029/2018wr023337:
   year: '2018'
   doi: 10.1029/2018wr023337
 Baroni_2018_10.1016/j.jhydrol.2018.07.053:
-  authors: "Baroni. G., Scheiffele. L.M., Schr\xF6n. M., Ingwersen. J., Oswald. S.E."
+  authors: "Baroni, Scheiffele, Schr\xF6n, Ingwersen, Oswald"
   title: Uncertainty, sensitivity and improvements in soil moisture estimation with
     cosmic-ray neutron sensing
   journal: Journal of Hydrology
@@ -717,9 +658,8 @@ Baroni_2018_10.1016/j.jhydrol.2018.07.053:
   year: '2018'
   doi: 10.1016/j.jhydrol.2018.07.053
 "Schr\xF6n_2018_10.5194/gi-7-83-2018":
-  authors: "Schr\xF6n. Martin, Zacharias. Steffen, Womack. Gary, K\xF6hli. Markus,\
-    \ Desilets. Darin, Oswald. Sascha E., Bumberger. Jan, Mollenhauer. Hannes, K\xF6\
-    gler. Simon, Remmler. Paul, Kasner. Mandy, Denk. Astrid, Dietrich. Peter"
+  authors: "Schr\xF6n, Zacharias, Womack, K\xF6hli, Desilets, Oswald, Bumberger, Mollenhauer,\
+    \ K\xF6gler, Remmler, Kasner,y , Denk, Dietrich"
   title: Intercomparison of cosmic-ray neutron sensors and water balance monitoring
     in an urban environment
   journal: Geoscientific Instrumentation, Methods and Data Systems
@@ -727,7 +667,7 @@ Baroni_2018_10.1016/j.jhydrol.2018.07.053:
   year: '2018'
   doi: 10.5194/gi-7-83-2018
 Dick_2018_10.1016/j.jhydrol.2018.02.062:
-  authors: Dick. Jonathan, Tetzlaff. Doerthe, Bradford. John, Soulsby. Chris
+  authors: Dick, Tetzlaff, Bradford, Soulsby
   title: Using repeat electrical resistivity surveys to assess heterogeneity in soil
     moisture dynamics under contrasting vegetation types
   journal: Journal of Hydrology
@@ -735,14 +675,14 @@ Dick_2018_10.1016/j.jhydrol.2018.02.062:
   year: '2018'
   doi: 10.1016/j.jhydrol.2018.02.062
 Togliatti_2018_10.1109/igarss.2018.8518001:
-  authors: Togliatti. Kaitlin, Hornbuckle. Brian K.
+  authors: Togliatti, Hornbuckle
   title: Using a Cosmic-Ray Neutron Sensor (CRNS) to Monitor Vegetation
   journal: IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium
   numbers: 00, 7365--7368
   year: '2018'
   doi: 10.1109/igarss.2018.8518001
 Zhu_2018_10.1016/j.jhydrol.2018.01.022:
-  authors: Zhu. Xuchao, Cao. Ruixue, Shao. Mingan, Liang. Yin
+  authors: Zhu, Cao, Shao, Liang
   title: Footprint radius of a cosmic-ray neutron probe for measuring soil-water content
     and its spatiotemporal variability in an alpine meadow ecosystem
   journal: Journal of Hydrology
@@ -750,8 +690,7 @@ Zhu_2018_10.1016/j.jhydrol.2018.01.022:
   year: '2018'
   doi: 10.1016/j.jhydrol.2018.01.022
 Chen_2018_10.1016/j.rse.2018.05.008:
-  authors: Chen. Fan, Crow. Wade T., Bindlish. Rajat, Colliander. Andreas, Burgin.
-    Mariko S., Asanuma. Jun, Aida. Kentaro
+  authors: Chen, Crow, Bindlish, Colli,er, Burgin, Asanuma, Aida
   title: Global-scale evaluation of SMAP, SMOS and ASCAT soil moisture products using
     triple collocation
   journal: Remote Sensing of Environment
@@ -759,8 +698,7 @@ Chen_2018_10.1016/j.rse.2018.05.008:
   year: '2018'
   doi: 10.1016/j.rse.2018.05.008
 Jakobi_2018_10.1029/2018wr022692:
-  authors: "Jakobi. J., Huisman. J. A., Vereecken. H., Diekkr\xFCger. B., Bogena.\
-    \ H. R."
+  authors: "Jakobi, Huisman, Vereecken, Diekkr\xFCger, Bogena"
   title: Cosmic Ray Neutron Sensing for Simultaneous Soil Water Content and Biomass
     Quantification in Drought Conditions
   journal: Water Resources Research
@@ -768,8 +706,7 @@ Jakobi_2018_10.1029/2018wr022692:
   year: '2018'
   doi: 10.1029/2018wr022692
 Montzka_2018_10.3390/rs10030427:
-  authors: "Montzka. Carsten, R\xF6tzer. Kathrina, Bogena. Heye R., Sanchez. Nilda,\
-    \ Vereecken. Harry"
+  authors: "Montzka, R\xF6tzer, Bogena, Sanchez, Vereecken"
   title: A New Soil Moisture Downscaling Approach for SMAP, SMOS, and ASCAT by Predicting
     Sub-Grid Variability
   journal: Remote Sensing
@@ -777,8 +714,7 @@ Montzka_2018_10.3390/rs10030427:
   year: '2018'
   doi: 10.3390/rs10030427
 Pablos_2018_10.3390/rs10070981:
-  authors: "Pablos. Miriam, Gonz\xE1lez-Zamora. \xC1ngel, S\xE1nchez. Nilda, Mart\xED\
-    nez-Fern\xE1ndez. Jos\xE9"
+  authors: "Pablos, Gonz\xE1lez-Zamora, S\xE1nchez, Mart\xEDnez-Fern\xE1ndez"
   title: Assessment of Root Zone Soil Moisture Estimations from SMAP, SMOS and MODIS
     Observations
   journal: Remote Sensing
@@ -786,15 +722,15 @@ Pablos_2018_10.3390/rs10070981:
   year: '2018'
   doi: 10.3390/rs10070981
 Howat_2018_10.5194/tc-12-2099-2018:
-  authors: "Howat. Ian M., Pe\xF1a. Santiago de la, Desilets. Darin, Womack. Gary"
+  authors: "Howat, Pe\xF1a, Desilets, Womack"
   title: Autonomous ice sheet surface mass balance measurements from cosmic rays
   journal: The Cryosphere
   numbers: 12, 2099--2108
   year: '2018'
   doi: 10.5194/tc-12-2099-2018
 Nuntiyakul_2018_10.1029/2017ja025135:
-  authors: "Nuntiyakul. W., S\xE1iz. A., Ruffolo. D., Mangeard. P.\u2010S., Evenson.\
-    \ P., Bieber. J. W., Clem. J., Pyle. R., Duldig. M. L., Humble. J. E."
+  authors: "Nuntiyakul, S\xE1iz, Ruffolo, Mangeard, Evenson, Bieber, Clem, Pyle, Duldig,\
+    \ Humble"
   title: Bare Neutron Counter and Neutron Monitor Response to Cosmic Rays During a
     1995 Latitude Survey
   journal: 'Journal of Geophysical Research: Space Physics'
@@ -802,7 +738,7 @@ Nuntiyakul_2018_10.1029/2017ja025135:
   year: '2018'
   doi: 10.1029/2017ja025135
 Kearney_2018_10.1016/j.jhydrol.2018.04.040:
-  authors: Kearney. Michael R., Maino. James L.
+  authors: Kearney, Maino
   title: Can next-generation soil data products improve soil moisture modelling at
     the continental scale? An assessment using a new microclimate package for the
     R programming environment
@@ -811,8 +747,7 @@ Kearney_2018_10.1016/j.jhydrol.2018.04.040:
   year: '2018'
   doi: 10.1016/j.jhydrol.2018.04.040
 Kim_2018_10.1016/j.rse.2017.10.026:
-  authors: Kim. Hyunglok, Parinussa. Robert, Konings. Alexandra G., Wagner. Wolfgang,
-    Cosh. Michael H., Lakshmi. Venkat, Zohaib. Muhammad, Choi. Minha
+  authors: Kim, Parinussa, Konings,ra G. , Wagner, Cosh, Lakshmi, Zohaib, Choi
   title: Global-scale assessment and combination of SMAP with ASCAT (active) and AMSR2
     (passive) soil moisture products
   journal: Remote Sensing of Environment
@@ -820,8 +755,7 @@ Kim_2018_10.1016/j.rse.2017.10.026:
   year: '2018'
   doi: 10.1016/j.rse.2017.10.026
 "R\xFCdiger_2018_10.1109/igarss.2018.8518208":
-  authors: "R\xFCdiger. Christoph, Monerris. Alessandra, McJannet. David, Renzullo.\
-    \ Luigi, Vreugdenhil. Mariette, Wagner. Wolfgang"
+  authors: "R\xFCdiger, Monerris,ra , McJannet, Renzullo, Vreugdenhil, Wagner"
   title: Comparison of Different High-Resolution Soil Moisture Products Across an
     Agricultural Landscape in South-Eastern Australia
   journal: IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium
@@ -829,9 +763,8 @@ Kim_2018_10.1016/j.rse.2017.10.026:
   year: '2018'
   doi: 10.1109/igarss.2018.8518208
 "Schr\xF6n_2018_10.1029/2017wr021719":
-  authors: "Schr\xF6n. M., Rosolem. R., K\xF6hli. M., Piussi. L., Schr\xF6ter. I.,\
-    \ Iwema. J., K\xF6gler. S., Oswald. S. E., Wollschl\xE4ger. U., Samaniego. L.,\
-    \ Dietrich. P., Zacharias. S."
+  authors: "Schr\xF6n, Rosolem, K\xF6hli, Piussi, Schr\xF6ter, Iwema, K\xF6gler, Oswald,\
+    \ Wollschl\xE4ger, Samaniego, Dietrich, Zacharias"
   title: "Cosmic\u2010ray Neutron Rover Surveys of Field Soil Moisture and the Influence\
     \ of Roads"
   journal: Water Resources Research
@@ -839,8 +772,7 @@ Kim_2018_10.1016/j.rse.2017.10.026:
   year: '2018'
   doi: 10.1029/2017wr021719
 Jin_2018_10.1109/tgrs.2017.2778420:
-  authors: Jin. Yan, Ge. Yong, Wang. Jianghao, Chen. Yuehong, Heuvelink. Gerard B.
-    M., Atkinson. Peter M.
+  authors: Jin, Ge, Wang, Chen, Heuvelink, Atkinson
   title: Downscaling AMSR-2 Soil Moisture Data With Geographically Weighted Area-to-Area
     Regression Kriging
   journal: IEEE Transactions on Geoscience and Remote Sensing
@@ -848,7 +780,7 @@ Jin_2018_10.1109/tgrs.2017.2778420:
   year: '2018'
   doi: 10.1109/tgrs.2017.2778420
 Nasta_2018_10.1016/j.jhydrol.2017.12.017:
-  authors: Nasta. Paolo, Penna. Daniele, Brocca. Luca, Zuecco. Giulia, Romano. Nunzio
+  authors: Nasta, Penna, Brocca, Zuecco, Romano
   title: 'Downscaling near-surface soil moisture from field to plot scale: A comparative
     analysis under different environmental conditions'
   journal: Journal of Hydrology
@@ -856,7 +788,7 @@ Nasta_2018_10.1016/j.jhydrol.2017.12.017:
   year: '2018'
   doi: 10.1016/j.jhydrol.2017.12.017
 Adeyemi_2018_10.3390/s18103408:
-  authors: Adeyemi. Olutobi, Grove. Ivan, Peets. Sven, Domun. Yuvraj, Norton. Tomas
+  authors: Adeyemi, Grove, Peets, Domun, Norton
   title: Dynamic Neural Network Modelling of Soil Moisture Content for Predictive
     Irrigation Scheduling
   journal: Sensors
@@ -864,8 +796,7 @@ Adeyemi_2018_10.3390/s18103408:
   year: '2018'
   doi: 10.3390/s18103408
 Petropoulos_2018_10.3390/su10010181:
-  authors: Petropoulos. George P., Srivastava. Prashant K., Piles. Maria, Pearson.
-    Simon
+  authors: Petropoulos, Srivastava, Piles, Pearson
   title: Earth Observation-Based Operational Estimation of Soil Moisture and Evapotranspiration
     for Agricultural Crops in Support of Sustainable Water Management
   journal: Sustainability
@@ -873,16 +804,14 @@ Petropoulos_2018_10.3390/su10010181:
   year: '2018'
   doi: 10.3390/su10010181
 Jagdhuber_2018_10.1109/igarss.2018.8517560:
-  authors: "Jagdhuber. T., Fersch. B., Schr\xF6n. M., J\xE4ger. M., Voormansik. K.,\
-    \ Lopez-Martinez. C."
+  authors: "Jagdhuber, Fersch, Schr\xF6n, J\xE4ger, Voormansik, Lopez-Martinez"
   title: Field-Scale Assessment of Multi-Sensor Soil Moisture Retrieval Under Grassland
   journal: IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium
   numbers: 00, 6111--6114
   year: '2018'
   doi: 10.1109/igarss.2018.8517560
 Brocca_2017_10.3390/w9020140:
-  authors: Brocca. Luca, Ciabatta. Luca, Massari. Christian, Camici. Stefania, Tarpanelli.
-    Angelica
+  authors: Brocca, Ciabatta, Massari, Camici, Tarpanelli
   title: "Soil\_Moisture\_for\_Hydrological\_Applications:\_Open\_ Questions\_and\_\
     New\_Opportunities"
   journal: Water
@@ -890,9 +819,8 @@ Brocca_2017_10.3390/w9020140:
   year: '2017'
   doi: 10.3390/w9020140
 Raffelli_2017_10.3390/w9090706:
-  authors: Raffelli. Giulia, Previati. Maurizio, Canone. Davide, Gisolo. Davide, Bevilacqua.
-    Ivan, Capello. Giorgio, Biddoccu. Marcella, Cavallo. Eugenio, Deiana. Rita, Cassiani.
-    Giorgio, Ferraris. Stefano
+  authors: Raffelli, Previati, Canone, Gisolo, Bevilacqua, Capello, Biddoccu, Cavallo,
+    Deiana, Cassiani, Ferraris
   title: 'Local- and Plot-Scale Measurements of Soil Moisture: Time and Spatially
     Resolved Field Techniques in Plain, Hill and Mountain Sites'
   journal: Water
@@ -900,8 +828,7 @@ Raffelli_2017_10.3390/w9090706:
   year: '2017'
   doi: 10.3390/w9090706
 McJannet_2017_10.5194/hess-21-6049-2017:
-  authors: McJannet. David, Hawdon. Aaron, Baker. Brett, Renzullo. Luigi, Searle.
-    Ross
+  authors: McJannet, Hawdon, Baker, Renzullo, Searle
   title: Multiscale soil moisture estimates using static and roving cosmic-ray soil
     moisture sensors
   journal: Hydrology and Earth System Sciences
@@ -909,8 +836,7 @@ McJannet_2017_10.5194/hess-21-6049-2017:
   year: '2017'
   doi: 10.5194/hess-21-6049-2017
 Cui_2017_10.3390/rs10010033:
-  authors: Cui. Chenyang, Xu. Jia, Zeng. Jiangyuan, Chen. Kun-Shan, Bai. Xiaojing,
-    Lu. Hui, Chen. Quan, Zhao. Tianjie
+  authors: Cui, Xu, Zeng, Chen, Bai, Lu, Chen, Zhao
   title: 'Soil Moisture Mapping from Satellites: An Intercomparison of SMAP, SMOS,
     FY3B, AMSR2, and ESA CCI over Two Dense Network Regions at Different Spatial Scales'
   journal: Remote Sensing
@@ -918,15 +844,14 @@ Cui_2017_10.3390/rs10010033:
   year: '2017'
   doi: 10.3390/rs10010033
 Mohanty_2017_10.2136/vzj2016.10.0105:
-  authors: Mohanty. Binayak P., Cosh. Michael H., Lakshmi. Venkat, Montzka. Carsten
+  authors: Mohanty, Cosh, Lakshmi, Montzka
   title: "Soil Moisture Remote Sensing: State\u2010of\u2010the\u2010Science"
   journal: Vadose Zone Journal
   numbers: 16, 1--9
   year: '2017'
   doi: 10.2136/vzj2016.10.0105
 Barker_2017_10.1016/j.agwat.2017.03.024:
-  authors: Barker. J. Burdette, Franz. Trenton E., Heeren. Derek M., Neale. Christopher
-    M.U., Luck. Joe D.
+  authors: Barker, Franz, Heeren, Neale, Luck
   title: 'Soil water content monitoring for irrigation management: A geostatistical
     analysis'
   journal: Agricultural Water Management
@@ -934,8 +859,7 @@ Barker_2017_10.1016/j.agwat.2017.03.024:
   year: '2017'
   doi: 10.1016/j.agwat.2017.03.024
 Tian_2017_10.1002/2016wr019641:
-  authors: "Tian. Siyuan, Tregoning. Paul, Renzullo. Luigi J., Dijk. Albert I. J.\
-    \ M. van, Walker. Jeffrey P., Pauwels. Valentijn R. N., Allgeyer. S\xE9bastien"
+  authors: Tian, Tregoning, Renzullo, Dijk, Walker, Pauwels, Allgeyer
   title: Improved water balance component estimates through joint assimilation of
     GRACE water storage and SMOS soil moisture retrievals
   journal: Water Resources Research
@@ -943,8 +867,7 @@ Tian_2017_10.1002/2016wr019641:
   year: '2017'
   doi: 10.1002/2016wr019641
 Wang_2017_10.1016/j.jhydrol.2017.07.035:
-  authors: Wang. Tiejun, Liu. Qin, Franz. Trenton E., Li. Ruopu, Lang. Yunchao, Fiebrich.
-    Christopher A.
+  authors: Wang, Liu, Franz, Li, Lang, Fiebrich
   title: Spatial patterns of soil moisture from two regional monitoring networks in
     the United States
   journal: Journal of Hydrology
@@ -952,8 +875,7 @@ Wang_2017_10.1016/j.jhydrol.2017.07.035:
   year: '2017'
   doi: 10.1016/j.jhydrol.2017.07.035
 Andreasen_2017_10.2136/vzj2017.04.0086:
-  authors: Andreasen. Mie, Jensen. Karsten H., Desilets. Darin, Franz. Trenton E.,
-    Zreda. Marek, Bogena. Heye R., Looms. Majken C.
+  authors: Andreasen, Jensen, Desilets, Franz, Zreda, Bogena, Looms
   title: "Status and Perspectives on the Cosmic\u2010Ray Neutron Method for Soil Moisture\
     \ Estimation and Other Environmental Science Applications"
   journal: Vadose Zone Journal
@@ -961,7 +883,7 @@ Andreasen_2017_10.2136/vzj2017.04.0086:
   year: '2017'
   doi: 10.2136/vzj2017.04.0086
 Ragab_2017_10.1002/ird.2152:
-  authors: Ragab. R., Evans. J.G., Battilani. A., Solimando. D.
+  authors: Ragab, Evans, Battilani, Solim,o
   title: "The Cosmic\u2010ray Soil Moisture Observation System (Cosmos) for Estimating\
     \ the Crop Water Requirement: New Approach"
   journal: Irrigation and Drainage
@@ -969,9 +891,8 @@ Ragab_2017_10.1002/ird.2152:
   year: '2017'
   doi: 10.1002/ird.2152
 Schalie_2017_10.1016/j.rse.2016.11.026:
-  authors: "Schalie. R. van der, Jeu. R.A.M. de, Kerr. Y.H., Wigneron. J.P., Rodr\xED\
-    guez-Fern\xE1ndez. N.J., Al-Yaari. A., Parinussa. R.M., Mecklenburg. S., Drusch.\
-    \ M."
+  authors: "Schalie, Jeu, Kerr, Wigneron, Rodr\xEDguez-Fern\xE1ndez, Al-Yaari, Parinussa,\
+    \ Mecklenburg, Drusch"
   title: The merging of radiative transfer based surface soil moisture data from SMOS
     and AMSR-E
   journal: Remote Sensing of Environment
@@ -979,7 +900,7 @@ Schalie_2017_10.1016/j.rse.2016.11.026:
   year: '2017'
   doi: 10.1016/j.rse.2016.11.026
 Jin_2017_10.1109/lgrs.2017.2754961:
-  authors: Jin. R., Li. X., Liu. S. M.
+  authors: Jin, Li, Liu
   title: Understanding the Heterogeneity of Soil Moisture and Evapotranspiration Using
     Multiscale Observations From Satellites, Airborne Sensors, and a Ground-Based
     Observation Matrix
@@ -988,8 +909,7 @@ Jin_2017_10.1109/lgrs.2017.2754961:
   year: '2017'
   doi: 10.1109/lgrs.2017.2754961
 Holgate_2017_10.1071/wf16217:
-  authors: Holgate. Chiara M., Dijk. Albert I. J. M. van, Cary. Geoffrey J., Yebra.
-    Marta
+  authors: Holgate, Dijk, Cary, Yebra
   title: Using alternative soil moisture estimates in the McArthur Forest Fire Danger
     Index
   journal: International Journal of Wildland Fire
@@ -997,8 +917,7 @@ Holgate_2017_10.1071/wf16217:
   year: '2017'
   doi: 10.1071/wf16217
 Montzka_2017_10.3390/rs9020103:
-  authors: Montzka. Carsten, Bogena. Heye R., Zreda. Marek, Monerris. Alessandra,
-    Morrison. Ross, Muddu. Sekhar, Vereecken. Harry
+  authors: Montzka, Bogena, Zreda, Monerris,ra , Morrison, Muddu, Vereecken
   title: Validation of Spaceborne and Modelled Surface Soil Moisture Products with
     Cosmic-Ray Neutron Probes
   journal: Remote Sensing
@@ -1006,10 +925,8 @@ Montzka_2017_10.3390/rs9020103:
   year: '2017'
   doi: 10.3390/rs9020103
 "Schr\xF6n_2017_10.5194/hess-21-5009-2017":
-  authors: "Schr\xF6n. Martin, K\xF6hli. Markus, Scheiffele. Lena, Iwema. Joost, Bogena.\
-    \ Heye R., Lv. Ling, Martini. Edoardo, Baroni. Gabriele, Rosolem. Rafael, Weimar.\
-    \ Jannis, Mai. Juliane, Cuntz. Matthias, Rebmann. Corinna, Oswald. Sascha E.,\
-    \ Dietrich. Peter, Schmidt. Ulrich, Zacharias. Steffen"
+  authors: "Schr\xF6n, K\xF6hli, Scheiffele, Iwema, Bogena, Lv, Martini, Baroni, Rosolem,\
+    \ Weimar, Mai, Cuntz, Rebmann, Oswald, Dietrich, Schmidt, Zacharias"
   title: Improving calibration and validation of cosmic-ray neutron sensors in the
     light of spatial sensitivity
   journal: Hydrology and Earth System Sciences
@@ -1017,8 +934,7 @@ Montzka_2017_10.3390/rs9020103:
   year: '2017'
   doi: 10.5194/hess-21-5009-2017
 Iwema_2017_10.5194/hess-21-2843-2017:
-  authors: Iwema. Joost, Rosolem. Rafael, Rahman. Mostaquimur, Blyth. Eleanor, Wagener.
-    Thorsten
+  authors: Iwema, Rosolem, Rahman, Blyth, Wagener
   title: Land surface model performance using cosmic-ray and point-scale soil moisture
     measurements for calibration
   journal: Hydrology and Earth System Sciences
@@ -1026,30 +942,28 @@ Iwema_2017_10.5194/hess-21-2843-2017:
   year: '2017'
   doi: 10.5194/hess-21-2843-2017
 Xie_2017_10.1109/icsens.2017.8234232:
-  authors: Xie. Zijun, Rosolem. Rafael
+  authors: Xie, Rosolem
   title: Impact of Multi-Day Field Calibration of Novel Cosmic-Ray Soil Moisture Sensors
   journal: 2017 IEEE SENSORS
   numbers: ' '
   year: '2017'
   doi: 10.1109/icsens.2017.8234232
 Montzka_2017_10.1109/igarss.2017.8127866:
-  authors: Montzka. Carsten, Bogena. Heye R., Zreda. Marek, Monerris. Alessandra,
-    Morrison. Ross, Muddu. Sekhar, Vereecken. Harry
+  authors: Montzka, Bogena, Zreda, Monerris,ra , Morrison, Muddu, Vereecken
   title: Cosmic-Ray Neutron Probes for Satellite Soil Moisture Validation
   journal: 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
   numbers: ' '
   year: '2017'
   doi: 10.1109/igarss.2017.8127866
 Peng_2017_10.1002/2016rg000543:
-  authors: Peng. Jian, Loew. Alexander, Merlin. Olivier, Verhoest. Niko E. C.
+  authors: Peng, Loew,er , Merlin, Verhoest
   title: A review of spatial downscaling of satellite remotely sensed soil moisture
   journal: Reviews of Geophysics
   numbers: 55, 341--366
   year: '2017'
   doi: 10.1002/2016rg000543
 Zhu_2017_10.1016/j.jhydrol.2017.01.019:
-  authors: Zhu. Xuchao, Shao. Ming'an, Jia. Xiaoxu, Huang. Laiming, Zhu. Juntao, Zhang.
-    Yangjian
+  authors: Zhu, Shao, Jia, Huang, Zhu, Zhang
   title: Application of temporal stability analysis in depth-scaling estimated soil
     water content by cosmic-ray neutron probe on the northern Tibetan Plateau
   journal: Journal of Hydrology
@@ -1057,8 +971,7 @@ Zhu_2017_10.1016/j.jhydrol.2017.01.019:
   year: '2017'
   doi: 10.1016/j.jhydrol.2017.01.019
 Lawston_2017_10.5194/hess-21-2953-2017:
-  authors: Lawston. Patricia M., Jr.. Joseph A. Santanello, Franz. Trenton E., Rodell.
-    Matthew
+  authors: Lawston, Jr., Franz, Rodell
   title: Assessment of irrigation physics in a land surface modeling framework using
     non-traditional and human-practice datasets
   journal: Hydrology and Earth System Sciences
@@ -1066,7 +979,7 @@ Lawston_2017_10.5194/hess-21-2953-2017:
   year: '2017'
   doi: 10.5194/hess-21-2953-2017
 Liu_2017_10.3390/rs10010031:
-  authors: Liu. Yangxiaoyue, Yang. Yaping, Jing. Wenlong, Yue. Xiafang
+  authors: Liu, Yang, Jing, Yue
   title: Comparison of Different Machine Learning Approaches for Monthly Satellite-Based
     Soil Moisture Downscaling over Northeast China
   journal: Remote Sensing
@@ -1074,15 +987,14 @@ Liu_2017_10.3390/rs10010031:
   year: '2017'
   doi: 10.3390/rs10010031
 Vinodkumar_2017_10.1002/2015wr017738:
-  authors: Vinodkumar, Dharssi. I, Bally. J, Steinle. P, McJannet. D, Walker. J
+  authors: Vinodkumar , Dharssi, Bally, Steinle, McJannet, Walker
   title: Comparison of soil wetness from multiple models over Australia with observations
   journal: Water Resources Research
   numbers: 53, 633--646
   year: '2017'
   doi: 10.1002/2015wr017738
 Schattan_2017_10.1002/2016wr020234:
-  authors: "Schattan. Paul, Baroni. Gabriele, Oswald. Sascha E., Sch\xF6ber. Johannes,\
-    \ Fey. Christine, Kormann. Christoph, Huttenlau. Matthias, Achleitner. Stefan"
+  authors: "Schattan, Baroni, Oswald, Sch\xF6ber, Fey, Kormann, Huttenlau, Achleitner"
   title: Continuous monitoring of snowpack dynamics in alpine terrain by aboveground
     neutron sensing
   journal: Water Resources Research
@@ -1090,8 +1002,7 @@ Schattan_2017_10.1002/2016wr020234:
   year: '2017'
   doi: 10.1002/2016wr020234
 Foolad_2017_10.5194/hess-21-1263-2017:
-  authors: Foolad. Foad, Franz. Trenton E., Wang. Tiejun, Gibson. Justin, Kilic. Ayse,
-    Allen. Richard G., Suyker. Andrew
+  authors: Foolad, Franz, Wang, Gibson, Kilic, Allen, Suyker
   title: Feasibility analysis of using inverse modeling for estimating field-scale
     evapotranspiration in maize and soybean fields from soil water content monitoring
     networks
@@ -1100,8 +1011,7 @@ Foolad_2017_10.5194/hess-21-1263-2017:
   year: '2017'
   doi: 10.5194/hess-21-1263-2017
 Andreasen_2017_10.5194/hess-21-1875-2017:
-  authors: Andreasen. Mie, Jensen. Karsten H., Desilets. Darin, Zreda. Marek, Bogena.
-    Heye R., Looms. Majken C.
+  authors: Andreasen, Jensen, Desilets, Zreda, Bogena, Looms
   title: 'Cosmic-ray neutron transport at a forest field site: the sensitivity to
     various environmental conditions with focus on biomass and canopy interception'
   journal: Hydrology and Earth System Sciences
@@ -1109,8 +1019,7 @@ Andreasen_2017_10.5194/hess-21-1875-2017:
   year: '2017'
   doi: 10.5194/hess-21-1875-2017
 Hutcheson_2017_10.1016/j.radmeas.2017.03.029:
-  authors: Hutcheson. Anthony L., Grove. J. Eric, Mitchell. Lee J., Phlips. Bernard
-    F., Woolf. Richard S., Wulf. Eric A.
+  authors: Hutcheson, Grove, Mitchell, Phlips, Woolf, Wulf
   title: Effects of rain and soil moisture on background neutron measurements with
     the SuperMISTI neutron array
   journal: Radiation Measurements
@@ -1118,8 +1027,7 @@ Hutcheson_2017_10.1016/j.radmeas.2017.03.029:
   year: '2017'
   doi: 10.1016/j.radmeas.2017.03.029
 Wang_2017_10.1016/j.jhydrol.2017.03.055:
-  authors: Wang. Tiejun, Franz. Trenton E., You. Jinsheng, Shulski. Martha D., Ray.
-    Chittaranjan
+  authors: Wang, Franz, You, Shulski, Ray
   title: Evaluating controls of soil properties and climatic conditions on the use
     of an exponential filter for converting near surface to root zone soil moisture
     contents
@@ -1128,8 +1036,7 @@ Wang_2017_10.1016/j.jhydrol.2017.03.055:
   year: '2017'
   doi: 10.1016/j.jhydrol.2017.03.055
 Baatz_2017_10.5194/hess-21-2509-2017:
-  authors: Baatz. Roland, Franssen. Harrie-Jan Hendricks, Han. Xujun, Hoar. Tim, Bogena.
-    Heye Reemt, Vereecken. Harry
+  authors: Baatz, , Franssen, Han, Hoar, Bogena, Vereecken
   title: Evaluation of a cosmic-ray neutron sensor network for improved land surface
     model prediction
   journal: Hydrology and Earth System Sciences
@@ -1137,7 +1044,7 @@ Baatz_2017_10.5194/hess-21-2509-2017:
   year: '2017'
   doi: 10.5194/hess-21-2509-2017
 Nguyen_2017_10.1016/j.advwatres.2017.07.020:
-  authors: Nguyen. Hoang Hai, Kim. Hyunglok, Choi. Minha
+  authors: Nguyen, Kim, Choi
   title: Evaluation of the soil water content using cosmic-ray neutron probe in a
     heterogeneous monsoon climate-dominated region
   journal: Advances in Water Resources
@@ -1145,8 +1052,7 @@ Nguyen_2017_10.1016/j.advwatres.2017.07.020:
   year: '2017'
   doi: 10.1016/j.advwatres.2017.07.020
 Zhu_2017_10.1016/j.jhydrol.2017.10.078:
-  authors: Zhu. Penghui, Shi. Liangsheng, Zhu. Yan, Zhang. Qiuru, Huang. Kai, Williams.
-    Mathew
+  authors: Zhu, Shi, Zhu, Zhang, Huang, Williams
   title: 'Data assimilation of soil water flow via ensemble Kalman filter: Infusing
     soil moisture data at different scales'
   journal: Journal of Hydrology
@@ -1154,7 +1060,7 @@ Zhu_2017_10.1016/j.jhydrol.2017.10.078:
   year: '2017'
   doi: 10.1016/j.jhydrol.2017.10.078
 Tian_2016_10.1016/j.jhydrol.2016.07.004:
-  authors: Tian. Zhengchao, Li. Zizhong, Liu. Gang, Li. Baoguo, Ren. Tusheng
+  authors: Tian, Li, Liu, Li, Ren
   title: 'Soil water content determination with cosmic-ray neutron sensor : Correcting
     aboveground hydrogen effects with thermal / fast neutron ratio'
   journal: Journal of Hydrology
@@ -1162,18 +1068,16 @@ Tian_2016_10.1016/j.jhydrol.2016.07.004:
   year: '2016'
   doi: 10.1016/j.jhydrol.2016.07.004
 Andreasen_2016_10.1002/2015wr018236:
-  authors: Andreasen. Mie, Jensen. Karsten H., Zreda. Marek, Desilets. Darin, Bogena.
-    Heye, Looms. Majken C.
+  authors: Andreasen, Jensen, Zreda, Desilets, Bogena, Looms
   title: Modeling cosmic ray neutron field measurements
   journal: Water Resources Research
   numbers: 52, 6451--6471
   year: '2016'
   doi: 10.1002/2015wr018236
 Ruffolo_2016_10.3847/0004-637x/817/1/38:
-  authors: "Ruffolo. D, S\xE1iz. A, Mangeard. P -S, Kamyan. N, Muangha. P, Nutaro.\
-    \ T, Sumran. S, Chaiwattana. C, Gasiprong. N, Channok. C, Wuttiya. C, Rujiwarodom.\
-    \ M, Tooprakai. P, Asavapibhop. B, Bieber. J W, Clem. J, Evenson. P, Munakata.\
-    \ K"
+  authors: "Ruffolo, S\xE1iz, Mangeard, Kamyan, Muangha, Nutaro, Sumran, Chaiwattana,\
+    \ Gasiprong, Channok, Wuttiya, Rujiwarodom, Tooprakai, Asavapibhop, Bieber, Clem,\
+    \ Evenson, Munakata"
   title: MONITORING SHORT-TERM COSMIC-RAY SPECTRAL VARIATIONS USING NEUTRON MONITOR
     TIME-DELAY MEASUREMENTS
   journal: The Astrophysical Journal
@@ -1181,7 +1085,7 @@ Ruffolo_2016_10.3847/0004-637x/817/1/38:
   year: '2016'
   doi: 10.3847/0004-637x/817/1/38
 Sigouin_2016_10.1016/j.jhydrol.2016.10.026:
-  authors: Sigouin. Mark J.P., Dyck. Miles, Si. Bing Cheng, Hu. Wei
+  authors: Sigouin, Dyck, Si, Hu
   title: Monitoring soil water content at a heterogeneous oil sand reclamation site
     using a cosmic-ray soil moisture probe
   journal: Journal of Hydrology
@@ -1189,9 +1093,8 @@ Sigouin_2016_10.1016/j.jhydrol.2016.10.026:
   year: '2016'
   doi: 10.1016/j.jhydrol.2016.10.026
 Rakovec_2016_10.1175/jhm-d-15-0054.1:
-  authors: "Rakovec. Oldrich, Kumar. Rohini, Mai. Juliane, Cuntz. Matthias, Thober.\
-    \ Stephan, Zink. Matthias, Attinger. Sabine, Sch\xE4fer. David, Schr\xF6n. Martin,\
-    \ Samaniego. Luis"
+  authors: "Rakovec, Kumar, Mai, Cuntz, Thober, Zink, Attinger, Sch\xE4fer, Schr\xF6\
+    n, Samaniego"
   title: Multiscale and Multivariate Evaluation of Water Fluxes and States over European
     River Basins
   journal: Journal of Hydrometeorology
@@ -1199,9 +1102,8 @@ Rakovec_2016_10.1175/jhm-d-15-0054.1:
   year: '2016'
   doi: 10.1175/jhm-d-15-0054.1
 Han_2016_10.1016/j.jhydrol.2016.05.050:
-  authors: "Han. Xujun, Franssen. Harrie-Jan Hendricks, Bello. Miguel \xC1ngel Jim\xE9\
-    nez, Rosolem. Rafael, Bogena. Heye, Alzamora. Fernando Mart\xEDnez, Chanzy. Andr\xE9\
-    , Vereecken. Harry"
+  authors: "Han, Franssen, Bello, Rosolem, Bogena, Alzamora,o Mart\xEDnez , Chanzy,\
+    \ Vereecken"
   title: Simultaneous soil moisture and properties estimation for a drip irrigated
     field by assimilating cosmic-ray neutron intensity
   journal: Journal of Hydrology
@@ -1209,23 +1111,19 @@ Han_2016_10.1016/j.jhydrol.2016.05.050:
   year: '2016'
   doi: 10.1016/j.jhydrol.2016.05.050
 Bircher_2016_10.5194/gi-5-109-2016:
-  authors: "Bircher. Simone, Andreasen. Mie, Vuollet. Johanna, Vehvil\xE4inen. Juho,\
-    \ Rautiainen. Kimmo, Jonard. Fran\xE7ois, Weiherm\xFCller. Lutz, Zakharova. Elena,\
-    \ Wigneron. Jean-Pierre, Kerr. Yann H."
+  authors: "Bircher, Andreasen, Vuollet, Vehvil\xE4inen, Rautiainen, Jonard, Weiherm\xFC\
+    ller, Zakharova, Wigneron, Kerr"
   title: Soil moisture sensor calibration for organic soil surface layers
   journal: Geoscientific Instrumentation, Methods and Data Systems
   numbers: 5, 109--125
   year: '2016'
   doi: 10.5194/gi-5-109-2016
 Wolf_2016_10.1175/bams-d-15-00277.1:
-  authors: "Wolf. B., Chwala. C., Fersch. B., Garvelmann. J., Junkermann. W., Zeeman.\
-    \ M. J., Angerer. A., Adler. B., Beck. C., Brosy. C., Brugger. P., Emeis. S.,\
-    \ Dannenmann. M., Roo. F. De, Diaz-Pines. E., Haas. E., Hagen. M., Hajnsek. I.,\
-    \ Jacobeit. J., Jagdhuber. T., Kalthoff. N., Kiese. R., Kunstmann. H., Kosak.\
-    \ O., Krieg. R., Malchow. C., Mauder. M., Merz. R., Notarnicola. C., Philipp.\
-    \ A., Reif. W., Reineke. S., R\xF6diger. T., Ruehr. N., Sch\xE4fer. K., Schr\xF6\
-    n. M., Senatore. A., Shupe. H., V\xF6lksch. I., Wanninger. C., Zacharias. S.,\
-    \ Schmid. H. P."
+  authors: "Wolf, Chwala, Fersch, Garvelmann, Junkermann, Zeeman, Angerer, Adler,\
+    \ Beck, Brosy, Brugger, Emeis, Dannenmann, Roo, Diaz-Pines, Haas, Hagen, Hajnsek,\
+    \ Jacobeit, Jagdhuber, Kalthoff, Kiese, Kunstmann, Kosak, Krieg, Malchow, Mauder,\
+    \ Merz, Notarnicola, Philipp, Reif, Reineke, R\xF6diger, Ruehr, Sch\xE4fer, Schr\xF6\
+    n, Senatore, Shupe, V\xF6lksch, Wanninger, Zacharias, Schmid"
   title: 'The ScaleX campaign: scale-crossing land-surface and boundary layer processes
     in the TERENO-preAlpine observatory'
   journal: Bulletin of the American Meteorological Society
@@ -1233,13 +1131,10 @@ Wolf_2016_10.1175/bams-d-15-00277.1:
   year: '2016'
   doi: 10.1175/bams-d-15-00277.1
 Evans_2016_10.1002/hyp.10929:
-  authors: Evans. J. G., Ward. H. C., Blake. J. R., Hewitt. E. J., Morrison. R., Fry.
-    M., Ball. L. A., Doughty. L. C., Libre. J. W., Hitt. O. E., Rylett. D., Ellis.
-    R. J., Warwick. A. C., Brooks. M., Parkes. M. A., Wright. G. M. H., Singer. A.
-    C., Boorman. D. B., Jenkins. A., Evans. J. G., Libre. J. W., Jenkins. A., Rylett.
-    D., Singer. A. C., Warwick. A. C., Morrison. R., Ward. H. C., Ellis. R. J., Ball.
-    L. A., Hewitt. E. J., Fry. M., Parkes. M. A., Boorman. D. B., Hitt. O. E., Brooks.
-    M., Wright. G. M. H., Doughty. L. C.
+  authors: Evans, Ward, Blake, Hewitt, Morrison, Fry, Ball, Doughty, Libre, Hitt,
+    Rylett, Ellis, Warwick, Brooks, Parkes, Wright, Singer, Boorman, Jenkins, Evans,
+    Libre, Jenkins, Rylett, Singer, Warwick, Morrison, Ward, Ellis, Ball, Hewitt,
+    Fry, Parkes, Boorman, Hitt, Brooks, Wright, Doughty
   title: Soil water content in southern England derived from a cosmic-ray soil moisture
     observing system - COSMOS-UK
   journal: Hydrological Processes
@@ -1247,7 +1142,7 @@ Evans_2016_10.1002/hyp.10929:
   year: '2016'
   doi: 10.1002/hyp.10929
 Kim_2016_10.1007/s00477-016-1300-0:
-  authors: Kim. Dongkyun, Lee. Jaehyeon, Kim. Hyunglok, Choi. Minha
+  authors: Kim, Lee, Kim, Choi
   title: Spatial composition of AMSR2 soil moisture products by conditional merging
     technique with ground soil moisture data
   journal: Stochastic Environmental Research and Risk Assessment
@@ -1255,9 +1150,8 @@ Kim_2016_10.1007/s00477-016-1300-0:
   year: '2016'
   doi: 10.1007/s00477-016-1300-0
 Cosh_2016_10.2136/vzj2015.09.0122:
-  authors: Cosh. Michael H., Ochsner. Tyson E., McKee. Lynn, Dong. Jingnuo, Basara.
-    Jeffrey B., Evett. Steven R., Hatch. Christine E., Small. Eric E., Steele-Dunne.
-    Susan C., Zreda. Marek, Sayde. Chadi
+  authors: Cosh, Ochsner, McKee, Dong, Basara, Evett, Hatch, Small, Steele-Dunne,
+    Zreda, Sayde
   title: "The Soil Moisture Active Passive Marena, Oklahoma, In Situ Sensor Testbed\
     \ (SMAP\u2010MOISST): Testbed Design and Evaluation of In Situ Sensors"
   journal: Vadose Zone Journal
@@ -1265,15 +1159,14 @@ Cosh_2016_10.2136/vzj2015.09.0122:
   year: '2016'
   doi: 10.2136/vzj2015.09.0122
 Heidbuchel_2016_10.5194/hess-20-1269-2016:
-  authors: Heidbuchel. Ingo, Guntner. Andreas, Blume. Theresa
+  authors: Heidbuchel, Guntner, Blume
   title: Use of cosmic-ray neutron sensors for soil moisture monitoring in forests
   journal: Hydrology and Earth System Sciences
   numbers: 20, 1269--1288
   year: '2016'
   doi: 10.5194/hess-20-1269-2016
 Franz_2016_10.1155/2016/4323742:
-  authors: Franz. Trenton E., Wahbi. Ammar, Vreugdenhil. Mariette, Weltin. Georg,
-    Heng. Lee, Oismueller. Markus, Strauss. Peter, Dercon. Gerd, Desilets. Darin
+  authors: Franz, Wahbi, Vreugdenhil, Weltin, Heng, Oismueller, Strauss, Dercon, Desilets
   title: Using Cosmic-Ray Neutron Probes to Monitor Landscape Scale Soil Water Content
     in Mixed Land Use Agricultural Systems
   journal: Applied and Environmental Soil Science
@@ -1281,8 +1174,7 @@ Franz_2016_10.1155/2016/4323742:
   year: '2016'
   doi: 10.1155/2016/4323742
 Koch_2016_10.1016/j.jhydrol.2015.12.002:
-  authors: "Koch. Julian, Cornelissen. Thomas, Fang. Zhufeng, Bogena. Heye, Diekkr\xFC\
-    ger. Bernd, Kollet. Stefan, Stisen. Simon"
+  authors: "Koch, Cornelissen, Fang, Bogena, Diekkr\xFCger, Kollet, Stisen"
   title: Inter-comparison of three distributed hydrological models with respect to
     seasonal variability of soil moisture patterns at a small forested catchment
   journal: Journal of Hydrology
@@ -1290,7 +1182,7 @@ Koch_2016_10.1016/j.jhydrol.2015.12.002:
   year: '2016'
   doi: 10.1016/j.jhydrol.2015.12.002
 Pang_2016_10.1109/igarss.2016.7729771:
-  authors: Pang. Zhiguo, Cai. Jingya, Fu. Jun'e, Song. Wenlong, Lu. Yizhu
+  authors: Pang, Cai, Fu, Song, Lu
   title: Measuring and Verifying of Soil Moisture in Desert Steppe from Different
     Spatial Scaling
   journal: 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
@@ -1298,7 +1190,7 @@ Pang_2016_10.1109/igarss.2016.7729771:
   year: '2016'
   doi: 10.1109/igarss.2016.7729771
 Jana_2016_10.5194/hess-20-3987-2016:
-  authors: Jana. Raghavendra B., Ershadi. Ali, McCabe. Matthew F.
+  authors: Jana, Ershadi, McCabe
   title: Examining the relationship between intermediate-scale soil moisture and terrestrial
     evaporation within a semi-arid grassland
   journal: Hydrology and Earth System Sciences
@@ -1306,9 +1198,8 @@ Jana_2016_10.5194/hess-20-3987-2016:
   year: '2016'
   doi: 10.5194/hess-20-3987-2016
 Avery_2016_10.5194/hess-20-3859-2016:
-  authors: "Avery. William Alexander, Finkenbiner. Catherine, Franz. Trenton E., Wang.\
-    \ Tiejun, Nguy-Robertson. Anthony L., Suyker. Andrew, Arkebauer. Timothy, Mu\xF1\
-    oz-Arriola. Francisco"
+  authors: "Avery,er , Finkenbiner, Franz, Wang, Nguy-Robertson, Suyker, Arkebauer,\
+    \ Mu\xF1oz-Arriola"
   title: Incorporation of globally available datasets into the roving cosmic-ray neutron
     probe method for estimating field-scale soil water content
   journal: Hydrology and Earth System Sciences
@@ -1316,9 +1207,8 @@ Avery_2016_10.5194/hess-20-3859-2016:
   year: '2016'
   doi: 10.5194/hess-20-3859-2016
 Holgate_2016_10.1016/j.rse.2016.09.015:
-  authors: Holgate. C.M, Jeu. R.A.M. De, Dijk. A.I.J.M van, Liu. Y.Y, Renzullo. L.J.,
-    Vinodkumar, Dharssi. I., Parinussa. R.M., Schalie. R. Van Der, Gevaert. A., Walker.
-    J., McJannet. D., Cleverly. J., Haverd. V., Trudinger. C.M., Briggs. P.R.
+  authors: Holgate, Jeu, Dijk, Liu, Renzullo, Vinodkumar , Dharssi, Parinussa, Schalie,
+    Gevaert, Walker, McJannet, Cleverly, Haverd, Trudinger, Briggs
   title: "Comparison of remotely sensed and modelled soil moisture data sets across\_\
     Australia"
   journal: Remote Sensing of Environment
@@ -1326,7 +1216,7 @@ Holgate_2016_10.1016/j.rse.2016.09.015:
   year: '2016'
   doi: 10.1016/j.rse.2016.09.015
 Sato_2016_10.1371/journal.pone.0160390:
-  authors: Sato. Tatsuhiko
+  authors: Sato
   title: Analytical Model for Estimating the Zenith Angle Dependence of Terrestrial
     Cosmic Ray Fluxes
   journal: PLoS ONE
@@ -1334,8 +1224,7 @@ Sato_2016_10.1371/journal.pone.0160390:
   year: '2016'
   doi: 10.1371/journal.pone.0160390
 Zhu_2016_10.1016/j.jhydrol.2016.02.038:
-  authors: "Zhu. Xuchao, Shao. Ming\u2019an, Zeng. Chen, Jia. Xiaoxu, Huang. Laiming,\
-    \ Zhang. Yangjian, Zhu. Juntao"
+  authors: Zhu, Shao, Zeng, Jia, Huang, Zhang, Zhu
   title: Application of cosmic-ray neutron sensing to monitor soil water content in
     an alpine meadow ecosystem on the northern Tibetan Plateau
   journal: Journal of Hydrology
@@ -1343,7 +1232,7 @@ Zhu_2016_10.1016/j.jhydrol.2016.02.038:
   year: '2016'
   doi: 10.1016/j.jhydrol.2016.02.038
 Sigouin_2016_10.5194/tc-10-1181-2016:
-  authors: Sigouin. Mark J. P., Si. Bing C.
+  authors: Sigouin, Si
   title: Calibration of a non-invasive cosmic-ray probe for wide area snow water equivalent
     measurement
   journal: The Cryosphere
@@ -1351,8 +1240,7 @@ Sigouin_2016_10.5194/tc-10-1181-2016:
   year: '2016'
   doi: 10.5194/tc-10-1181-2016
 Andreasen_2016_10.5194/hess-2016-226:
-  authors: Andreasen. Mie, Jensen. Karsten H., Desilets. Darin, Zreda. Marek, Bogena.
-    Heye, Looms. Majken C.
+  authors: Andreasen, Jensen, Desilets, Zreda, Bogena, Looms
   title: Can canopy interception and biomass be inferred from cosmic-ray neutron intensity?
     Results from neutron transport modeling
   journal: Hydrology and Earth System Sciences Discussions
@@ -1360,8 +1248,7 @@ Andreasen_2016_10.5194/hess-2016-226:
   year: '2016'
   doi: 10.5194/hess-2016-226
 Martens_2016_10.1016/j.jag.2015.09.012:
-  authors: "Martens. B., Miralles. D., Lievens. H., Fern\xE1ndez-Prieto. D., Verhoest.\
-    \ N.E.C."
+  authors: "Martens, Miralles, Lievens, Fern\xE1ndez-Prieto, Verhoest"
   title: Improving terrestrial evaporation estimates over continental Australia through
     assimilation of SMOS soil moisture
   journal: International Journal of Applied Earth Observation and Geoinformation
@@ -1369,7 +1256,7 @@ Martens_2016_10.1016/j.jag.2015.09.012:
   year: '2016'
   doi: 10.1016/j.jag.2015.09.012
 "K\u0119dzior_2016_10.1016/j.geoderma.2016.07.023":
-  authors: "K\u0119dzior. Mateusz, Zawadzki. Jaros\u0142aw"
+  authors: "K\u0119dzior, Zawadzki"
   title: Comparative study of soil moisture estimations from SMOS satellite mission,
     GLDAS database, and cosmic-ray neutrons measurements at COSMOS station in Eastern
     Poland
@@ -1378,7 +1265,7 @@ Martens_2016_10.1016/j.jag.2015.09.012:
   year: '2016'
   doi: 10.1016/j.geoderma.2016.07.023
 Yan_2016_10.1016/j.advwatres.2016.06.002:
-  authors: Yan. Hongxiang, Moradkhani. Hamid
+  authors: Yan, Moradkhani
   title: Combined assimilation of streamflow and satellite soil moisture with the
     particle filter and geostatistical modeling
   journal: Advances in Water Resources
@@ -1386,9 +1273,8 @@ Yan_2016_10.1016/j.advwatres.2016.06.002:
   year: '2016'
   doi: 10.1016/j.advwatres.2016.06.002
 Dirmeyer_2016_10.1175/jhm-d-15-0196.1:
-  authors: Dirmeyer. Paul A., Wu. Jiexia, Norton. Holly E., Dorigo. Wouter A., Quiring.
-    Steven M., Ford. Trenton W., Santanello. Joseph A., Bosilovich. Michael G., Ek.
-    Michael B., Koster. Randal D., Balsamo. Gianpaolo, Lawrence. David M.
+  authors: Dirmeyer, Wu, Norton, Dorigo, Quiring, Ford, Santanello, Bosilovich, Ek,
+    Koster,al D. , Balsamo, Lawrence
   title: Confronting weather and climate models with observational data from soil
     moisture networks over the United States
   journal: Journal of Hydrometeorology
@@ -1396,7 +1282,7 @@ Dirmeyer_2016_10.1175/jhm-d-15-0196.1:
   year: '2016'
   doi: 10.1175/jhm-d-15-0196.1
 Kim_2016_10.3741/jkwra.2016.49.2.133:
-  authors: Kim. Hyunglok, Sunwoo. Wooyeon, Kim. Seongkyun, Choi. Minha
+  authors: Kim, Sunwoo, Kim, Choi
   title: Construction and estimation of soil moisture site with FDR and COSMIC-ray
     (SM-FC) sensors for calibration/validation of satellite-based and COSMIC-ray soil
     moisture products in Sungkyunkwan university, South Korea
@@ -1405,7 +1291,7 @@ Kim_2016_10.3741/jkwra.2016.49.2.133:
   year: '2016'
   doi: 10.3741/jkwra.2016.49.2.133
 Im_2016_10.1007/s12665-016-5917-6:
-  authors: Im. Jungho, Park. Seonyoung, Rhee. Jinyoung, Baik. Jongjin, Choi. Minha
+  authors: Im, Park, Rhee, Baik, Choi
   title: Downscaling of AMSR-E soil moisture with MODIS products using machine learning
     approaches
   journal: Environmental Earth Sciences
@@ -1413,7 +1299,7 @@ Im_2016_10.1007/s12665-016-5917-6:
   year: '2016'
   doi: 10.1007/s12665-016-5917-6
 Peterson_2016_10.5194/hess-20-1373-2016:
-  authors: Peterson. Amber M., Helgason. Warren D., Ireson. Andrew M.
+  authors: Peterson, Helgason, Ireson
   title: Estimating field-scale root zone soil moisture using the cosmic-ray neutron
     probe
   journal: Hydrology and Earth System Sciences
@@ -1421,7 +1307,7 @@ Peterson_2016_10.5194/hess-20-1373-2016:
   year: '2016'
   doi: 10.5194/hess-20-1373-2016
 Wu_2016_10.1016/j.jag.2015.10.011:
-  authors: Wu. Qiusheng, Liu. Hongxing, Wang. Lei, Deng. Chengbin
+  authors: Wu, Liu, Wang, Deng
   title: Evaluation of AMSR2 soil moisture products over the contiguous United States
     using in situ data from the International Soil Moisture Network
   journal: International Journal of Applied Earth Observation and Geoinformation
@@ -1429,7 +1315,7 @@ Wu_2016_10.1016/j.jag.2015.10.011:
   year: '2016'
   doi: 10.1016/j.jag.2015.10.011
 Pang_2016_10.1007/978-3-662-49155-3\_84:
-  authors: "Pang. Zhiguo, Cai. Jingya, Fu. Jun\u2019e, Song. Wenlong, Lu. Yizhu"
+  authors: Pang, Cai, Fu, Song, Lu
   title: Geo-Informatics in Resource Management and Sustainable Ecosystem, Third International
     Conference, GRMSE 2015, Wuhan, China, October 16-18, 2015, Revised Selected Papers
   journal: Communications in Computer and Information Science
@@ -1437,7 +1323,7 @@ Pang_2016_10.1007/978-3-662-49155-3\_84:
   year: '2016'
   doi: 10.1007/978-3-662-49155-3\_84
 Han_2015_10.5194/hess-19-615-2015:
-  authors: Han. X., Franssen. H.-J. H., Rosolem. R., Jin. R., Li. X., Vereecken. H.
+  authors: Han, Franssen, Rosolem, Jin, Li, Vereecken
   title: 'Correction of systematic model forcing bias of CLM using assimilation of
     cosmic-ray Neutrons and land surface temperature: a study in the Heihe Catchment,
     China'
@@ -1446,8 +1332,8 @@ Han_2015_10.5194/hess-19-615-2015:
   year: '2015'
   doi: 10.5194/hess-19-615-2015
 Korres_2015_10.1016/j.jhydrol.2014.11.042:
-  authors: "Korres. W., Reichenau. T.G., Fiener. P., Koyama. C.N., Bogena. H.R., Cornelissen.\
-    \ T., Baatz. R., Herbst. M., Diekkr\xFCger. B., Vereecken. H., Schneider. K."
+  authors: "Korres, Reichenau, Fiener, Koyama, Bogena, Cornelissen, Baatz, Herbst,\
+    \ Diekkr\xFCger, Vereecken, Schneider"
   title: "Spatio-temporal soil moisture patterns \u2013 A meta-analysis using plot\
     \ to catchment scale data"
   journal: Journal of Hydrology
@@ -1455,14 +1341,14 @@ Korres_2015_10.1016/j.jhydrol.2014.11.042:
   year: '2015'
   doi: 10.1016/j.jhydrol.2014.11.042
 Zhu_2015_10.1109/lgrs.2014.2346784:
-  authors: Zhu. Zhongli, Tan. Lei, Gao. Shengguo, Jiao. Qishun
+  authors: Zhu, Tan, Gao, Jiao
   title: Observation on Soil Moisture of Irrigation Cropland by Cosmic-Ray Probe
   journal: IEEE Geoscience and Remote Sensing Letters
   numbers: 12, 472--476
   year: '2015'
   doi: 10.1109/lgrs.2014.2346784
 Iwema_2015_10.5194/hess-19-3203-2015:
-  authors: Iwema. J., Rosolem. R., Baatz. R., Wagener. T., Bogena. H. R.
+  authors: Iwema, Rosolem, Baatz, Wagener, Bogena
   title: "Investigating temporal field sampling strategies for site-specific calibration\
     \ of three soil moisture \u2013 neutron intensity parameterisation methods"
   journal: Hydrology and Earth System Sciences
@@ -1470,8 +1356,7 @@ Iwema_2015_10.5194/hess-19-3203-2015:
   year: '2015'
   doi: 10.5194/hess-19-3203-2015
 "K\xF6hli_2015_10.1002/2015wr017169":
-  authors: "K\xF6hli. M., Schr\xF6n. M., Zreda. M., Schmidt. U., Dietrich. P., Zacharias.\
-    \ S."
+  authors: "K\xF6hli, Schr\xF6n, Zreda, Schmidt, Dietrich, Zacharias"
   title: "Footprint characteristics revised for field\u2010scale soil moisture monitoring\
     \ with cosmic\u2010ray neutrons"
   journal: Water Resources Research
@@ -1479,16 +1364,15 @@ Iwema_2015_10.5194/hess-19-3203-2015:
   year: '2015'
   doi: 10.1002/2015wr017169
 Dorigo_2015_10.1016/j.rse.2014.07.023:
-  authors: Dorigo. W.A., Gruber. A., Jeu. R.A.M. De, Wagner. W., Stacke. T., Loew.
-    A., Albergel. C., Brocca. L., Chung. D., Parinussa. R.M., Kidd. R.
+  authors: Dorigo, Gruber, Jeu, Wagner, Stacke, Loew, Albergel, Brocca, Chung, Parinussa,
+    Kidd
   title: Evaluation of the ESA CCI soil moisture product using ground-based observations
   journal: Remote Sensing of Environment
   numbers: 162, 380--395
   year: '2015'
   doi: 10.1016/j.rse.2014.07.023
 Bogena_2015_10.1002/wat2.1097:
-  authors: "Bogena. Heye R., Huisman. Johan A., G\xFCntner. Andreas, H\xFCbner. Christof,\
-    \ Kusche. J\xFCrgen, Jonard. Fran\xE7ois, Vey. Sibylle, Vereecken. Harry"
+  authors: "Bogena, Huisman, G\xFCntner, H\xFCbner, Kusche, Jonard, Vey, Vereecken"
   title: 'Emerging methods for noninvasive sensing of soil moisture dynamics from
     field to catchment scale: a review'
   journal: 'Wiley Interdisciplinary Reviews: Water'
@@ -1496,8 +1380,7 @@ Bogena_2015_10.1002/wat2.1097:
   year: '2015'
   doi: 10.1002/wat2.1097
 Rondinelli_2015_10.1175/jhm-d-14-0137.1:
-  authors: Rondinelli. Wesley J., Hornbuckle. Brian K., Patton. Jason C., Cosh. Michael
-    H., Walker. Victoria A., Carr. Benjamin D., Logsdon. Sally D.
+  authors: Rondinelli, Hornbuckle, Patton, Cosh, Walker, Carr, Logsdon
   title: Different Rates of Soil Drying after Rainfall Are Observed by the SMOS Satellite
     and the South Fork in situ Soil Moisture Network
   journal: Journal of Hydrometeorology
@@ -1505,7 +1388,7 @@ Rondinelli_2015_10.1175/jhm-d-14-0137.1:
   year: '2015'
   doi: 10.1175/jhm-d-14-0137.1
 Calamita_2015_10.1016/j.jhydrol.2015.07.023:
-  authors: Calamita. G., Perrone. A., Brocca. L., Onorati. B., Manfreda. S.
+  authors: Calamita, Perrone, Brocca, Onorati, Manfreda
   title: Field test of a multi-frequency electromagnetic induction sensor for soil
     moisture monitoring in southern Italy test sites
   journal: Journal of Hydrology
@@ -1513,7 +1396,7 @@ Calamita_2015_10.1016/j.jhydrol.2015.07.023:
   year: '2015'
   doi: 10.1016/j.jhydrol.2015.07.023
 Coopersmith_2015_10.1016/j.advwatres.2015.09.003:
-  authors: Coopersmith. Evan J., Cosh. Michael H., Bindlish. Rajat, Bell. Jesse
+  authors: Coopersmith, Cosh, Bindlish, Bell
   title: Comparing AMSR-E soil moisture estimates to the extended record of the U.S.
     Climate Reference Network (USCRN)
   journal: Advances in Water Resources
@@ -1521,7 +1404,7 @@ Coopersmith_2015_10.1016/j.advwatres.2015.09.003:
   year: '2015'
   doi: 10.1016/j.advwatres.2015.09.003
 Schreiner-McGraw_2015_10.5194/hess-20-329-2016:
-  authors: Schreiner-McGraw. A. P., Vivoni. E. R., Mascaro. G., Franz. T. E.
+  authors: Schreiner-McGraw, Vivoni, Mascaro, Franz
   title: Closing the water balance with cosmic-ray soil moisture measurements and
     assessing their relation to evapotranspiration in two semiarid watersheds
   journal: Hydrology and Earth System Sciences
@@ -1529,8 +1412,7 @@ Schreiner-McGraw_2015_10.5194/hess-20-329-2016:
   year: '2015'
   doi: 10.5194/hess-20-329-2016
 Xia_2015_10.1175/jamc-d-14-0275.1:
-  authors: Xia. Youlong, Ford. Trent W., Wu. Yihua, Quiring. Steven M., Ek. Michael
-    B.
+  authors: Xia, Ford, Wu, Quiring, Ek
   title: Automated Quality Control of In Situ Soil Moisture from the North American
     Soil Moisture Database Using NLDAS-2 Products
   journal: Journal of Applied Meteorology and Climatology
@@ -1538,8 +1420,7 @@ Xia_2015_10.1175/jamc-d-14-0275.1:
   year: '2015'
   doi: 10.1175/jamc-d-14-0275.1
 Baatz_2015_10.1002/2014wr016443:
-  authors: "Baatz. R., Bogena. H. R., Franssen. H.\u2010J. Hendricks, Huisman. J.\
-    \ A., Montzka. C., Vereecken. H."
+  authors: Baatz, Bogena, Franssen, Huisman, Montzka, Vereecken
   title: An empirical vegetation correction for soil water content quantification
     using cosmic ray probes
   journal: Water Resources Research
@@ -1547,7 +1428,7 @@ Baatz_2015_10.1002/2014wr016443:
   year: '2015'
   doi: 10.1002/2014wr016443
 Baroni_2015_10.1016/j.jhydrol.2015.03.053:
-  authors: Baroni. G., Oswald. S.E.
+  authors: Baroni, Oswald
   title: A scaling approach for the assessment of biomass changes and rainfall interception
     using cosmic-ray neutron sensing
   journal: Journal of Hydrology
@@ -1555,8 +1436,7 @@ Baroni_2015_10.1016/j.jhydrol.2015.03.053:
   year: '2015'
   doi: 10.1016/j.jhydrol.2015.03.053
 Ranney_2015_10.1016/j.advwatres.2014.12.003:
-  authors: Ranney. Kayla J., Niemann. Jeffrey D., Lehman. Brandon M., Green. Timothy
-    R., Jones. Andrew S.
+  authors: Ranney, Niemann, Lehman,on M. , Green, Jones
   title: A method to downscale soil moisture to fine resolutions using topographic,
     vegetation, and soil data
   journal: Advances in Water Resources
@@ -1564,8 +1444,7 @@ Ranney_2015_10.1016/j.advwatres.2014.12.003:
   year: '2015'
   doi: 10.1016/j.advwatres.2014.12.003
 Kim_2015_10.1016/j.rse.2015.02.002:
-  authors: Kim. Seokhyeon, Liu. Yi.Y., Johnson. Fiona M., Parinussa. Robert M., Sharma.
-    Ashish
+  authors: Kim, Liu, Johnson, Parinussa, Sharma
   title: 'A global comparison of alternate AMSR2 soil moisture products: Why do they
     differ?'
   journal: Remote Sensing of Environment
@@ -1573,8 +1452,7 @@ Kim_2015_10.1016/j.rse.2015.02.002:
   year: '2015'
   doi: 10.1016/j.rse.2015.02.002
 Franz_2015_10.1002/2015gl063963:
-  authors: Franz. Trenton E., Wang. Tiejun, Avery. William, Finkenbiner. Catherine,
-    Brocca. Luca
+  authors: Franz, Wang, Avery, Finkenbiner, Brocca
   title: "Combined analysis of soil moisture measurements from roving and fixed cosmic\
     \ ray neutron probes for multiscale real\u2010time monitoring"
   journal: Geophysical Research Letters
@@ -1582,8 +1460,7 @@ Franz_2015_10.1002/2015gl063963:
   year: '2015'
   doi: 10.1002/2015gl063963
 Han_2014_10.1002/2013wr014586:
-  authors: "Han. Xujun, Franssen. Harrie\u2010Jan Hendricks, Montzka. Carsten, Vereecken.\
-    \ Harry"
+  authors: Han, Franssen, Montzka, Vereecken
   title: Soil moisture and soil properties estimation in the Community Land Model
     with synthetic brightness temperature observations
   journal: Water Resources Research
@@ -1591,8 +1468,8 @@ Han_2014_10.1002/2013wr014586:
   year: '2014'
   doi: 10.1002/2013wr014586
 Alonso-Arroyo_2014_10.1109/lgrs.2014.2320052:
-  authors: Alonso-Arroyo. A., Camps. A., Aguasca. A., Forte. G., Monerris. A., Rdiger.
-    C., Walker. J. P., Park. H., Pascual. D., Onrubia. R.
+  authors: Alonso-Arroyo, Camps, Aguasca, Forte, Monerris, Rdiger, Walker, Park, Pascual,
+    Onrubia
   title: Improving the Accuracy of Soil Moisture Retrievals Using the Phase Difference
     of the Dual-Polarization GNSS-R Interference Patterns
   journal: IEEE Geoscience and Remote Sensing Letters
@@ -1600,7 +1477,7 @@ Alonso-Arroyo_2014_10.1109/lgrs.2014.2320052:
   year: '2014'
   doi: 10.1109/lgrs.2014.2320052
 Villarreyes_2014_10.1111/ejss.12162:
-  authors: Villarreyes. C. A. Rivera, Baroni. G., Oswald. S. E.
+  authors: Villarreyes, Baroni, Oswald
   title: "Inverse modelling of cosmic\u2010ray soil moisture for field\u2010scale\
     \ soil hydraulic parameters"
   journal: European Journal of Soil Science
@@ -1608,7 +1485,7 @@ Villarreyes_2014_10.1111/ejss.12162:
   year: '2014'
   doi: 10.1111/ejss.12162
 Lv_2014_10.2136/vzj2014.06.0077:
-  authors: Lv. Ling, Franz. Trenton E., Robinson. David A., Jones. Scott B.
+  authors: Lv, Franz, Robinson, Jones
   title: "Measured and Modeled Soil Moisture Compared with Cosmic\u2010Ray Neutron\
     \ Probe Estimates in a Mixed Forest"
   journal: Vadose Zone Journal
@@ -1616,16 +1493,15 @@ Lv_2014_10.2136/vzj2014.06.0077:
   year: '2014'
   doi: 10.2136/vzj2014.06.0077
 Vereecken_2014_10.1016/j.jhydrol.2013.11.061:
-  authors: "Vereecken. H., Huisman. J.A., Pachepsky. Y., Montzka. C., Kruk. J. van\
-    \ der, Bogena. H., Weiherm\xFCller. L., Herbst. M., Martinez. G., Vanderborght.\
-    \ J."
+  authors: "Vereecken, Huisman, Pachepsky, Montzka, Kruk, Bogena, Weiherm\xFCller,\
+    \ Herbst, Martinez, V,erborght"
   title: On the spatio-temporal dynamics of soil moisture at the field scale
   journal: Journal of Hydrology
   numbers: 516, 76--96
   year: '2014'
   doi: 10.1016/j.jhydrol.2013.11.061
 Cornelissen_2014_10.1016/j.jhydrol.2014.01.060:
-  authors: "Cornelissen. Thomas, Diekkr\xFCger. Bernd, Bogena. Heye R."
+  authors: "Cornelissen, Diekkr\xFCger, Bogena"
   title: Significance of scale and lower boundary condition in the 3D simulation of
     hydrological processes and soil moisture variability in a forested headwater catchment
   journal: Journal of Hydrology
@@ -1633,7 +1509,7 @@ Cornelissen_2014_10.1016/j.jhydrol.2014.01.060:
   year: '2014'
   doi: 10.1016/j.jhydrol.2014.01.060
 Jiao_2014_10.1088/1755-1315/17/1/012147:
-  authors: Jiao. Q, Zhu. Z, Du. F
+  authors: Jiao, Zhu, Du
   title: Theory and application of measuring mesoscale soil moisture by cosmic-ray
     fast neutron probe
   journal: 'IOP Conference Series: Earth and Environmental Science'
@@ -1641,22 +1517,22 @@ Jiao_2014_10.1088/1755-1315/17/1/012147:
   year: '2014'
   doi: 10.1088/1755-1315/17/1/012147
 Romano_2014_10.1016/j.jhydrol.2014.01.026:
-  authors: Romano. Nunzio
+  authors: Romano
   title: 'Soil moisture at local scale: Measurements and simulations'
   journal: Journal of Hydrology
   numbers: 516, 6--20
   year: '2014'
   doi: 10.1016/j.jhydrol.2014.01.026
 Smith_2014_10.1109/icsens.2014.6985425:
-  authors: Smith. Daniel, Dutta. Ritaban, Li. Cecil
+  authors: Smith, Dutta, Li
   title: The Use of a Cosmic Ray Probe as a Proxy of Green Vegetation Biomass
   journal: IEEE SENSORS 2014 Proceedings
   numbers: ' '
   year: '2014'
   doi: 10.1109/icsens.2014.6985425
 McJannet_2014_10.1002/2014wr015513:
-  authors: McJannet. David, Franz. Trenton, Hawdon. Aaron, Boadle. Dave, Baker. Brett,
-    Almeida. Auro, Silberstein. Richard, Lambert. Trish, Desilets. Darin
+  authors: McJannet, Franz, Hawdon, Boadle, Baker, Almeida, Silberstein, Lambert,
+    Desilets
   title: "Field testing of the universal calibration function for determination of\
     \ soil moisture with cosmic\u2010ray neutrons"
   journal: Water Resources Research
@@ -1664,8 +1540,7 @@ McJannet_2014_10.1002/2014wr015513:
   year: '2014'
   doi: 10.1002/2014wr015513
 Rosolem_2014_10.5194/hess-18-4363-2014:
-  authors: Rosolem. R., Hoar. T., Arellano. A., Anderson. J. L., Shuttleworth. W.
-    J., Zeng. X., Franz. T. E.
+  authors: Rosolem, Hoar, Arellano, Anderson, Shuttleworth, Zeng, Franz
   title: Translating aboveground cosmic-ray neutron intensity to high-frequency soil
     moisture profiles at sub-kilometer scale
   journal: Hydrology and Earth System Sciences
@@ -1673,7 +1548,7 @@ Rosolem_2014_10.5194/hess-18-4363-2014:
   year: '2014'
   doi: 10.5194/hess-18-4363-2014
 Paulik_2014_10.1016/j.jag.2014.01.007:
-  authors: Paulik. Christoph, Dorigo. Wouter, Wagner. Wolgang, Kidd. Richard
+  authors: Paulik, Dorigo, Wagner, Kidd
   title: Validation of the ASCAT Soil Water Index using in situ data from the International
     Soil Moisture Network
   journal: International Journal of Applied Earth Observation and Geoinformation
@@ -1681,7 +1556,7 @@ Paulik_2014_10.1016/j.jag.2014.01.007:
   year: '2014'
   doi: 10.1016/j.jag.2014.01.007
 Coopersmith_2014_10.1016/j.jhydrol.2014.07.060:
-  authors: Coopersmith. Evan J., Cosh. Michael H., Daughtry. Craig S.T.
+  authors: Coopersmith, Cosh, Daughtry
   title: 'Field-scale moisture estimates using COSMOS sensors: A validation study
     with temporary networks and Leaf-Area-Indices'
   journal: Journal of Hydrology
@@ -1689,7 +1564,7 @@ Coopersmith_2014_10.1016/j.jhydrol.2014.07.060:
   year: '2014'
   doi: 10.1016/j.jhydrol.2014.07.060
 Han_2014_10.1109/lgrs.2014.2314535:
-  authors: Han. Xujun, Jin. Rui, Li. Xin, Wang. Shuguo
+  authors: Han, Jin, Li, Wang
   title: Soil Moisture Estimation Using Cosmic-Ray Soil Moisture Sensing at Heterogeneous
     Farmland
   journal: IEEE Geoscience and Remote Sensing Letters
@@ -1697,7 +1572,7 @@ Han_2014_10.1109/lgrs.2014.2314535:
   year: '2014'
   doi: 10.1109/lgrs.2014.2314535
 Werbylo_2014_10.1016/j.jhydrol.2014.01.030:
-  authors: Werbylo. Kevin L., Niemann. Jeffrey D.
+  authors: Werbylo, Niemann
   title: Evaluation of sampling techniques to characterize topographically-dependent
     variability for soil moisture downscaling
   journal: Journal of Hydrology
@@ -1705,8 +1580,7 @@ Werbylo_2014_10.1016/j.jhydrol.2014.01.030:
   year: '2014'
   doi: 10.1016/j.jhydrol.2014.01.030
 Baatz_2014_10.1016/j.jhydrol.2014.02.026:
-  authors: Baatz. R., Bogena. H.R., Franssen. H.-J. Hendricks, Huisman. J.A., Qu.
-    W., Montzka. C., Vereecken. H.
+  authors: Baatz, Bogena, Franssen, Huisman, Qu, Montzka, Vereecken
   title: 'Calibration of a catchment scale cosmic-ray probe network: A comparison
     of three parameterization methods'
   journal: Journal of Hydrology
@@ -1714,7 +1588,7 @@ Baatz_2014_10.1016/j.jhydrol.2014.02.026:
   year: '2014'
   doi: 10.1016/j.jhydrol.2014.02.026
 Tuttle_2014_10.1016/j.rse.2013.12.002:
-  authors: Tuttle. Samuel E., Salvucci. Guido D.
+  authors: Tuttle, Salvucci
   title: 'A new approach for validating satellite estimates of soil moisture using
     large-scale precipitation: Comparing AMSR-E products'
   journal: Remote Sensing of Environment
@@ -1722,8 +1596,8 @@ Tuttle_2014_10.1016/j.rse.2013.12.002:
   year: '2014'
   doi: 10.1016/j.rse.2013.12.002
 Montzka_2014_10.1109/igarss.2014.6946962:
-  authors: "Montzka. C., Bogena. H., Jagdhuber. T., Hajnsek. I., Horn. R., Reigber.\
-    \ A., Hasan. S., R\xFCdiger. C., Jaeger. M., Vereecken. H."
+  authors: "Montzka, Bogena, Jagdhuber, Hajnsek, Horn, Reigber, Hasan, R\xFCdiger,\
+    \ Jaeger, Vereecken"
   title: "Active and Passive L-Band Microwave Remote Sensing for Soil Moisture \u2014\
     \ A Test-Bed for SMAP Fusion Algorithms"
   journal: 2014 IEEE Geoscience and Remote Sensing Symposium
@@ -1731,7 +1605,7 @@ Montzka_2014_10.1109/igarss.2014.6946962:
   year: '2014'
   doi: 10.1109/igarss.2014.6946962
 Hawdon_2014_10.1002/2013wr015138:
-  authors: Hawdon. Aaron, McJannet. David, Wallace. Jim
+  authors: Hawdon, McJannet, Wallace
   title: "Calibration and correction procedures for cosmic\u2010ray neutron soil moisture\
     \ probes located across Australia"
   journal: Water Resources Research
@@ -1739,7 +1613,7 @@ Hawdon_2014_10.1002/2013wr015138:
   year: '2014'
   doi: 10.1002/2013wr015138
 Dong_2014_10.2136/vzj2013.08.0148:
-  authors: Dong. Jingnuo, Ochsner. Tyson E., Zreda. Marek, Cosh. H., Zou. Chris B.
+  authors: Dong, Ochsner, Zreda, Cosh, Zou
   title: Calibration and Validation of the COSMOS Rover for Surface Soil Moisture
     Measurement
   journal: Vadose Zone Journal
@@ -1747,8 +1621,7 @@ Dong_2014_10.2136/vzj2013.08.0148:
   year: '2014'
   doi: 10.2136/vzj2013.08.0148
 Kurnik_2014_10.1007/s10666-013-9377-z:
-  authors: "Kurnik. Bla\u017E, Louwagie. Geertrui, Erhard. Markus, Ceglar. Andrej,\
-    \ Kajfe\u017E. Lu\u010Dka Bogataj"
+  authors: "Kurnik, Louwagie, Erhard, Ceglar, Kajfe\u017E"
   title: Analysing Seasonal Differences between a Soil Water Balance Model and in
     Situ Soil Moisture Measurementsat Nine Locations Across Europe
   journal: Environmental Modeling \& Assessment
@@ -1756,8 +1629,7 @@ Kurnik_2014_10.1007/s10666-013-9377-z:
   year: '2014'
   doi: 10.1007/s10666-013-9377-z
 Almeida_2014_10.1109/jsen.2014.2345376:
-  authors: Almeida. Auro C., Dutta. Ritaban, Franz. Trenton E., Terhorst. Andrew,
-    Smethurst. Philip J., Baillie. Craig, Worledge. Dale
+  authors: Almeida, Dutta, Franz, Terhorst, Smethurst, Baillie, Worledge
   title: Combining Cosmic-Ray Neutron and Capacitance Sensors and Fuzzy Inference
     to Spatially Quantify Soil Moisture Distribution
   journal: IEEE Sensors Journal
@@ -1765,8 +1637,7 @@ Almeida_2014_10.1109/jsen.2014.2345376:
   year: '2014'
   doi: 10.1109/jsen.2014.2345376
 Renzullo_2014_10.1016/j.jhydrol.2014.08.008:
-  authors: Renzullo. L.J., Dijk. A.I.J.M. van, Perraud. J.-M., Collins. D., Henderson.
-    B., Jin. H., Smith. A.B., McJannet. D.L.
+  authors: Renzullo, Dijk, Perraud, Collins, Henderson, Jin, Smith, McJannet
   title: Continental satellite soil moisture data assimilation improves root-zone
     moisture analysis for water resources assessment
   journal: Journal of Hydrology
@@ -1774,8 +1645,7 @@ Renzullo_2014_10.1016/j.jhydrol.2014.08.008:
   year: '2014'
   doi: 10.1016/j.jhydrol.2014.08.008
 Birkelo_2014_10.1190/segam2014-1154.1:
-  authors: "Birkelo. Brad, Andreasen. Mie, Looms*. Majken Caroline, Jensen. Karsten\
-    \ H\xF8gh, Sonnenborg. Torben O, Bogena. Heye, Desilets. Darin, Zreda. Marek"
+  authors: Birkelo, Andreasen, Looms*, Jensen, Sonnenborg, Bogena, Desilets, Zreda
   title: "Cosmic-ray neutron intensity measurements of soil moisture \u2013 A case\
     \ study in the Skjern catchment, Denmark"
   journal: SEG Technical Program Expanded Abstracts 2014
@@ -1783,16 +1653,15 @@ Birkelo_2014_10.1190/segam2014-1154.1:
   year: '2014'
   doi: 10.1190/segam2014-1154.1
 Schneider_2014_10.5194/hess-18-2899-2014:
-  authors: Schneider. S., Jann. A., Schellander-Gorgas. T.
+  authors: Schneider, Jann, Schell,er-Gorgas
   title: Downscaling of seasonal soil moisture forecasts using satellite data
   journal: Hydrology and Earth System Sciences
   numbers: 18, 2899--2905
   year: '2014'
   doi: 10.5194/hess-18-2899-2014
 Arroyo_2014_10.1109/jstars.2014.2320792:
-  authors: Arroyo. Alberto Alonso, Camps. Adriano, Aguasca. Albert, Forte. Giuseppe
-    F., Monerris. Alessandra, Rudiger. Cristoph, Walker. Jeffrey P., Park. Hyuk, Pascual.
-    Daniel, Onrubia. Raul
+  authors: Arroyo, Camps, Aguasca, Forte, Monerris,ra , Rudiger, Walker, Park, Pascual,
+    Onrubia
   title: Dual-Polarization GNSS-R Interference Pattern Technique for Soil Moisture
     Mapping
   journal: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
@@ -1801,8 +1670,7 @@ Arroyo_2014_10.1109/jstars.2014.2320792:
   year: '2014'
   doi: 10.1109/jstars.2014.2320792
 Dutta_2014_10.1016/j.envsoft.2013.10.004:
-  authors: Dutta. Ritaban, Morshed. Ahsan, Aryal. Jagannath, Este. Claire D., Das.
-    Aruneema
+  authors: Dutta, Morshed, Aryal, Este, Das
   title: Environmental Modelling \& Software Development of an intelligent environmental
     knowledge system for sustainable agricultural decision support
   journal: Environmental Modelling and Software
@@ -1810,8 +1678,7 @@ Dutta_2014_10.1016/j.envsoft.2013.10.004:
   year: '2014'
   doi: 10.1016/j.envsoft.2013.10.004
 Almeida_2013_10.1109/icsens.2013.6688468:
-  authors: Almeida. Auro, Baillie. Craig, Worledge. Dale, Smethurst. Philip, Dutta.
-    Ritaban, Terhorst. Andrew, Franz. Trenton
+  authors: Almeida, Baillie, Worledge, Smethurst, Dutta, Terhorst, Franz
   title: Quantifying spatial distribution of soil moisture using a cosmic ray and
     capacitance sensor network
   journal: 2013 IEEE SENSORS
@@ -1819,7 +1686,7 @@ Almeida_2013_10.1109/icsens.2013.6688468:
   year: '2013'
   doi: 10.1109/icsens.2013.6688468
 Baroni_2013_10.1016/j.jhydrol.2013.03.007:
-  authors: Baroni. G., Ortuani. B., Facchi. A., Gandolfi. C.
+  authors: Baroni, Ortuani, Facchi, G,olfi
   title: The role of vegetation and soil properties on the spatio-temporal variability
     of the surface soil moisture in a maize-cropped field
   journal: Journal of Hydrology
@@ -1827,8 +1694,7 @@ Baroni_2013_10.1016/j.jhydrol.2013.03.007:
   year: '2013'
   doi: 10.1016/j.jhydrol.2013.03.007
 Rosolem_2013_10.1175/jhm-d-12-0120.1:
-  authors: Rosolem. R., Shuttleworth. W. J., Zreda. M., Franz. T. E., Zeng. X., Kurc.
-    S. A.
+  authors: Rosolem, Shuttleworth, Zreda, Franz, Zeng, Kurc
   title: The effect of atmospheric water vapor on neutron count in the cosmic-ray
     soil moisture observing system
   journal: Journal of Hydrometeorology
@@ -1836,14 +1702,14 @@ Rosolem_2013_10.1175/jhm-d-12-0120.1:
   year: '2013'
   doi: 10.1175/jhm-d-12-0120.1
 Shuttleworth_2013_10.5194/hess-17-3205-2013:
-  authors: Shuttleworth. J., Rosolem. R., Zreda. M., Franz. T.
+  authors: Shuttleworth, Rosolem, Zreda, Franz
   title: The COsmic-ray Soil Moisture Interaction Code (COSMIC) for use in data assimilation
   journal: Hydrology and Earth System Sciences
   numbers: 17, 3205--3217
   year: '2013'
   doi: 10.5194/hess-17-3205-2013
 Sur_2013_10.1016/j.geoderma.2013.05.007:
-  authors: Sur. Chanyang, Jung. Yong, Choi. Minha
+  authors: Sur, Jung, Choi
   title: Temporal stability and variability of field scale soil moisture on mountainous
     hillslopes in Northeast Asia
   journal: Geoderma
@@ -1851,16 +1717,15 @@ Sur_2013_10.1016/j.geoderma.2013.05.007:
   year: '2013'
   doi: 10.1016/j.geoderma.2013.05.007
 Ochsner_2013_10.2136/sssaj2013.03.0093:
-  authors: Ochsner. Tyson E., Cosh. Michael H., Cuenca. Richard H., Dorigo. Wouter
-    A., Draper. Clara S., Hagimoto. Yutaka, Kerr. Yann H., Larson. Kristine M., Njoku.
-    Eni G., Small. Eric E., Zreda. Marek
+  authors: Ochsner, Cosh, Cuenca, Dorigo, Draper, Hagimoto, Kerr, Larson, Njoku, Small,
+    Zreda
   title: "State of the Art in Large\u2010Scale Soil Moisture Monitoring"
   journal: Soil Science Society of America Journal
   numbers: 77, 1888--1919
   year: '2013'
   doi: 10.2136/sssaj2013.03.0093
 Zweck_2013_10.1016/j.epsl.2013.07.023:
-  authors: Zweck. Christopher, Zreda. Marek, Desilets. Darin
+  authors: Zweck, Zreda, Desilets
   title: Snow shielding factors for cosmogenic nuclide dating inferred from Monte
     Carlo neutron transport simulations
   journal: Earth and Planetary Science Letters
@@ -1868,7 +1733,7 @@ Zweck_2013_10.1016/j.epsl.2013.07.023:
   year: '2013'
   doi: 10.1016/j.epsl.2013.07.023
 Samaniego_2013_10.1175/jhm-d-12-075.1:
-  authors: Samaniego. Luis, Kumar. Rohini, Zink. Matthias
+  authors: Samaniego, Kumar, Zink
   title: Implications of Parameter Uncertainty on Soil Moisture Drought Analysis in
     Germany
   journal: Journal of Hydrometeorology
@@ -1876,23 +1741,21 @@ Samaniego_2013_10.1175/jhm-d-12-075.1:
   year: '2013'
   doi: 10.1175/jhm-d-12-075.1
 Chrisman_2013_10.5194/hess-17-5097-2013:
-  authors: Chrisman. B., Zreda. M.
+  authors: Chrisman, Zreda
   title: Quantifying mesoscale soil moisture with the cosmic-ray rover
   journal: Hydrology and Earth System Sciences
   numbers: 17, 5097--5108
   year: '2013'
   doi: 10.5194/hess-17-5097-2013
 Franz_2013_10.1002/grl.50791:
-  authors: Franz. Trenton E., Zreda. Marek, Rosolem. Rafael, Hornbuckle. Brian K.,
-    Irvin. Samantha L., Adams. Henry, Kolb. Thomas E., Zweck. Chris, Shuttleworth.
-    W. James
+  authors: Franz, Zreda, Rosolem, Hornbuckle, Irvin, Adams, Kolb, Zweck, Shuttleworth
   title: "Ecosystem\u2010scale measurements of biomass water using cosmic ray neutrons"
   journal: Geophysical Research Letters
   numbers: 40, 3929--3933
   year: '2013'
   doi: 10.1002/grl.50791
 Franz_2013_10.1002/wrcr.20530:
-  authors: Franz. Trenton E., Zreda. M., Ferre. T. P. A., Rosolem. R.
+  authors: Franz, Zreda, Ferre, Rosolem
   title: "An assessment of the effect of horizontal soil moisture heterogeneity on\
     \ the area\u2010average measurement of cosmic\u2010ray neutrons"
   journal: Water Resources Research
@@ -1900,7 +1763,7 @@ Franz_2013_10.1002/wrcr.20530:
   year: '2013'
   doi: 10.1002/wrcr.20530
 Dutta_2013_10.1109/jsen.2013.2254710:
-  authors: Dutta. R., Terhorst. A.
+  authors: Dutta, Terhorst
   title: 'Adaptive Neuro-Fuzzy Inference System-Based Remote Bulk Soil Moisture Estimation:
     Using CosmOz Cosmic Ray Sensor'
   journal: IEEE Sensors Journal
@@ -1908,8 +1771,7 @@ Dutta_2013_10.1109/jsen.2013.2254710:
   year: '2013'
   doi: 10.1109/jsen.2013.2254710
 Bogena_2013_10.1002/wrcr.20463:
-  authors: Bogena. H. R., Huisman. J. A., Baatz. R., Franssen. H. Hendricks, Vereecken.
-    H.
+  authors: Bogena, Huisman, Baatz, Franssen, Vereecken
   title: 'Accuracy of the cosmic-ray soil water content probe in humid forest ecosystems
     : The worst case scenario'
   journal: Water Resources Research
@@ -1917,7 +1779,7 @@ Bogena_2013_10.1002/wrcr.20463:
   year: '2013'
   doi: 10.1002/wrcr.20463
 Franz_2013_10.5194/hess-17-453-2013:
-  authors: Franz. T. E., Zreda. M., Rosolem. R., Ferre. T. P. A.
+  authors: Franz, Zreda, Rosolem, Ferre
   title: A universal calibration function for determination of soil moisture with
     cosmic-ray neutrons
   journal: Hydrology and Earth System Sciences
@@ -1925,7 +1787,7 @@ Franz_2013_10.5194/hess-17-453-2013:
   year: '2013'
   doi: 10.5194/hess-17-453-2013
 Desilets_2013_10.1002/wrcr.20187:
-  authors: Desilets. Darin, Zreda. Marek
+  authors: Desilets, Zreda
   title: "Footprint diameter for a cosmic\u2010ray soil moisture probe: Theory and\
     \ Monte Carlo simulations"
   journal: Water Resources Research
@@ -1933,8 +1795,7 @@ Desilets_2013_10.1002/wrcr.20187:
   year: '2013'
   doi: 10.1002/wrcr.20187
 Franz_2012_10.1029/2012wr011871:
-  authors: Franz. Trenton E., Zreda. M., Ferre. T. P. A., Rosolem. R., Zweck. C.,
-    Stillman. S., Zeng. X., Shuttleworth. W. J.
+  authors: Franz, Zreda, Ferre, Rosolem, Zweck, Stillman, Zeng, Shuttleworth
   title: Measurement depth of the cosmic ray soil moisture probe affected by hydrogen
     from various sources
   journal: Water Resources Research
@@ -1942,9 +1803,7 @@ Franz_2012_10.1029/2012wr011871:
   year: '2012'
   doi: 10.1029/2012wr011871
 Crow_2012_10.1029/2011rg000372:
-  authors: Crow. Wade T., Berg. Aaron A., Cosh. Michael H., Loew. Alexander, Mohanty.
-    Binayak P., Panciera. Rocco, Rosnay. Patricia, Ryu. Dongryeol, Walker. Jeffrey
-    P.
+  authors: Crow, Berg, Cosh, Loew,er , Mohanty, Panciera, Rosnay, Ryu, Walker
   title: "Upscaling sparse ground\u2010based soil moisture observations for the validation\
     \ of coarse\u2010resolution satellite soil moisture products"
   journal: Reviews of Geophysics
@@ -1952,8 +1811,7 @@ Crow_2012_10.1029/2011rg000372:
   year: '2012'
   doi: 10.1029/2011rg000372
 Hornbuckle_2012_10.1109/igarss.2012.6351317:
-  authors: Hornbuckle. Brian, Irvin. Samantha, Franz. Trenton, Rosolem. Rafael, Zweck.
-    Chris
+  authors: Hornbuckle, Irvin, Franz, Rosolem, Zweck
   title: THE POTENTIAL OF THE COSMOS NETWORK TO BE A SOURCE OF NEW SOIL MOISTURE INFORMATION
     FOR SMOS AND SMAP
   journal: 2012 IEEE International Geoscience and Remote Sensing Symposium
@@ -1961,7 +1819,7 @@ Hornbuckle_2012_10.1109/igarss.2012.6351317:
   year: '2012'
   doi: 10.1109/igarss.2012.6351317
 Collow_2012_10.1029/2011jd017095:
-  authors: Collow. Thomas W., Robock. Alan, Basara. Jeffrey B., Illston. Bradley G.
+  authors: Collow, Robock, Basara, Illston
   title: Evaluation of SMOS retrievals of soil moisture over the central United States
     with currently available in situ observations
   journal: "Journal of Geophysical Research: Atmospheres (1984\u20132012)"
@@ -1969,7 +1827,7 @@ Collow_2012_10.1029/2011jd017095:
   year: '2012'
   doi: 10.1029/2011jd017095
 Franz_2012_10.2136/vzj2012.0046:
-  authors: Franz. Trenton E., Zreda. M., Rosolem. R., Ferre. T. P. A.
+  authors: Franz, Zreda, Rosolem, Ferre
   title: Field Validation of a Cosmic-Ray Neutron Sensor Using a Distributed Sensor
     Network
   journal: Vadose Zone Journal
@@ -1977,22 +1835,21 @@ Franz_2012_10.2136/vzj2012.0046:
   year: '2012'
   doi: 10.2136/vzj2012.0046
 Zreda_2012_10.5194/hess-16-4079-2012:
-  authors: Zreda. M., Shuttleworth. W. J., Zeng. X., Zweck. C., Desilets. D., Franz.
-    T., Rosolem. R.
+  authors: Zreda, Shuttleworth, Zeng, Zweck, Desilets, Franz, Rosolem
   title: 'COSMOS: The cosmic-ray soil moisture observing system'
   journal: Hydrology and Earth System Sciences
   numbers: 16, 4079--4099
   year: '2012'
   doi: 10.5194/hess-16-4079-2012
 Dutta_2012_10.1109/icsens.2012.6411570:
-  authors: Dutta. Ritaban, Terhorst. Andrew, Hawdon. Aaron, Cotching. Bill
+  authors: Dutta, Terhorst, Hawdon, Cotching
   title: Bulk Soil Moisture Estimation Using CosmOz Cosmic Ray Sensor and ANFIS
   journal: 2012 IEEE Sensors
   numbers: ' '
   year: '2012'
   doi: 10.1109/icsens.2012.6411570
 Villarreyes_2011_10.5194/hess-15-3843-2011:
-  authors: Villarreyes. C. A. Rivera, Baroni. G., Oswald. S. E.
+  authors: Villarreyes, Baroni, Oswald
   title: Integral quantification of seasonal soil moisture changes in farmland by
     cosmic-ray neutrons
   journal: Hydrology and Earth System Sciences
@@ -2000,9 +1857,8 @@ Villarreyes_2011_10.5194/hess-15-3843-2011:
   year: '2011'
   doi: 10.5194/hess-15-3843-2011
 Dorigo_2011_10.5194/hess-15-1675-2011:
-  authors: Dorigo. W. A., Wagner. W., Hohensinn. R., Hahn. S., Paulik. C., Xaver.
-    A., Gruber. A., Drusch. M., Mecklenburg. S., Oevelen. P. van, Robock. A., Jackson.
-    T.
+  authors: Dorigo, Wagner, Hohensinn, Hahn, Paulik, Xaver, Gruber, Drusch, Mecklenburg,
+    Oevelen, Robock, Jackson
   title: 'The International Soil Moisture Network: a data hosting facility for global
     in situ soil moisture measurements'
   journal: Hydrology and Earth System Sciences
@@ -2010,7 +1866,7 @@ Dorigo_2011_10.5194/hess-15-1675-2011:
   year: '2011'
   doi: 10.5194/hess-15-1675-2011
 Desilets_2010_10.1029/2009wr008726:
-  authors: "Desilets. Darin, Zreda. Marek, Ferr\xE9. Ty P. A."
+  authors: "Desilets, Zreda, Ferr\xE9"
   title: 'Nature\&apos;s neutron probe: Land surface hydrology at an elusive scale
     with cosmic rays'
   journal: Water Resources Research
@@ -2018,7 +1874,7 @@ Desilets_2010_10.1029/2009wr008726:
   year: '2010'
   doi: 10.1029/2009wr008726
 Zreda_2008_10.1029/2008gl035655:
-  authors: "Zreda. Marek, Desilets. Darin, Ferr\xE9. T. P. A., Scott. Russell L."
+  authors: "Zreda, Desilets, Ferr\xE9, Scott"
   title: Measuring soil moisture content non-invasively at intermediate spatial scale
     using cosmic-ray neutrons
   journal: Geophysical Research Letters
