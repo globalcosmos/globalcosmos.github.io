@@ -5,7 +5,6 @@ feature_image: "/assets/backgrounds/background-polar.jpg"
 excerpt: "COSMOS Publications"
 ---
 
-
 {% include publication_list.html file="publications" %}
 
 <!--- this Publication list can be adapted with arguments:

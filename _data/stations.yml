@@ -1,4032 +1,4032 @@
 ARM-1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 322
-  citation: .nan
+  citation:  
   climate: Cwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 36.6054
   lon: -97.4878
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Aachen:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 232
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.799
   lon: 6.025
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Aas:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 72
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: NOR
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 59.664
   lon: 10.762
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Acheleschwaig:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 867
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 47.666
   lon: 10.994
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Agia:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1032
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: GRC
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 39.755
   lon: 22.717
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Alento1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 671
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: ITA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 40.311
   lon: 15.229
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Alento2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 453
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: ITA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 40.365
   lon: 15.184
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 AliceHolt:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 80
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.1536
   lon: -0.8582
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Austin Cary:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 44
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 29.7381
   lon: -82.2188
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Baldry:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 438
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: -32.871
   lon: 148.526
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Balruddery:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 130
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 56.4823
   lon: -3.1115
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Barrow-ARM:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 4
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 71.3298
   lon: -156.6287
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Baynesfield Probe 1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 0
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: SA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_irrigated
   lat: -29.7594
   lon: 30.3375
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Beltsville:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 42
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 39.0295
   lon: -76.8462
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Bennets:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 98
-  citation: .nan
+  citation:  
   climate: BWh
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: -35.826
   lon: 143.004
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 BickleyHall:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 78
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 53.0264
   lon: -2.7005
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Binley:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 644
-  citation: .nan
+  citation:  
   climate: Dwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrub_or_herbaceous_cover_flooded
   lat: 40.75913
   lon: -98.5382
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Biosphere 2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1180
-  citation: .nan
+  citation:  
   climate: BSh
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 32.5795
   lon: -110.851
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Bishes:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 94
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: -35.769
   lon: 142.973
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Boernchen:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 571
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.819
   lon: 13.8
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Bondville:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 219
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.0062
   lon: -88.2904
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Bornheim:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 67
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.785
   lon: 6.956
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Brigalow C3:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 165
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland_deciduous
   lat: -24.812
   lon: 149.801
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Brookings:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 510
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 44.3453
   lon: -96.8362
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Bullawarrie:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 166
-  citation: .nan
+  citation:  
   climate: BWh
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: -28.809
   lon: 148.765
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 BunnyPark:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 39
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.8607
   lon: -1.1268
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Bushland:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1172
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 35.1882
   lon: -102.0955
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 CC Pasture:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 505
-  citation: .nan
+  citation:  
   climate: Dwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 41.2688
   lon: -97.947
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 CPTEC INPE:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 563
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: BRZ
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_natural_vegetation
   lat: -22.6798
   lon: -44.99813
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Cakit Basin:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1459
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: TUR
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 37.515
   lon: 34.498
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Calderona1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 785
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: ESP
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 39.708
   lon: -0.457
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Calderona2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 789
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: ESP
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 39.708
   lon: -0.457
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Cardington:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 29
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.1056
   lon: -0.4246
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Caribou Bog:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 39
-  citation: .nan
+  citation:  
   climate: Dfb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_cover_flooded_fresh_or_brakish_water
   lat: 44.9167
   lon: -68.7359
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Cathedral Peak C6:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1900
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: SA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: -28.9932
   lon: 29.2517
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Chestnut Ridge NOAA:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 370
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 35.9311
   lon: -84.3324
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Chimney Meadows:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 65
-  citation: .nan
+  citation:  
   climate: Dfc
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 51.71
   lon: -1.48
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 ChimneyMeadows:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 65
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 51.708
   lon: -1.4788
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 ChobhamCommon:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 47
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 51.368
   lon: -0.5975
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Coastal Sage UCI:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 320
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 33.7342
   lon: -117.6961
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Cochno:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 168
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 55.9414
   lon: -4.4035
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 CocklePark:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 87
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 55.216
   lon: -1.6944
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Coweeta:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 797
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 35.0662
   lon: -83.437
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Crichton:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 42
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 55.0431
   lon: -3.5834
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Crolles:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 230
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: FRA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 45.281
   lon: 5.901
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Cunnersdorf:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 140
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.37
   lon: 12.557
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 CwmGarw:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 299
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 51.9514
   lon: -4.7466
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Daly:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 75
-  citation: .nan
+  citation:  
   climate: Dsa
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland_deciduous
   lat: -14.1592
   lon: 131.3881
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Daniel Forest:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2600
-  citation: .nan
+  citation:  
   climate: Dfb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 41.8651
   lon: -111.5087
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Derlo:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 129
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: POL
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 52.17
   lon: 23.369
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Desert Chaparral UCI:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1292
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 33.6094
   lon: -116.4506
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 EasterBush:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 208
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 55.8674
   lon: -3.2071
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Elmsett:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 76
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.0946
   lon: 0.9931
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Elsick:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 95
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 57.039
   lon: -2.186
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Esterberg:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1267
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 47.516
   lon: 11.158
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Euston:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 18
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.3364
   lon: 0.7959
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Fendt:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 595
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 47.832
   lon: 11.06
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Fincham:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 15
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.6178
   lon: 0.5107
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Fivemiletown:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 174
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 54.2985
   lon: -7.2919
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Flag Ponderosa Pine:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2381
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 35.4386
   lon: -111.8036
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Flag Wildfire:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2313
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 35.4455
   lon: -111.7719
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Fort Peck:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 634
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 48.3077
   lon: -105.1019
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Fox:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 642
-  citation: .nan
+  citation:  
   climate: Dwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.6703
   lon: -98.9823
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Freeman Ranch:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 265
-  citation: .nan
+  citation:  
   climate: Cwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 29.94915
   lon: -97.9966
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Fuerstensee:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 66
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 53.319
   lon: 13.122
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 GLEES:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 3190
-  citation: .nan
+  citation:  
   climate: Dfc
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 41.3644
   lon: -106.2394
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Gevenich:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 107
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.989
   lon: 6.324
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 GisburnForest:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 246
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_tree_and_shrub
   lat: 54.0238
   lon: -2.3846
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Glensaugh:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 399
-  citation: .nan
+  citation:  
   climate: Cfc
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_herbaceous
   lat: 56.9144
   lon: -2.5622
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Glenwherry:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 274
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 54.8381
   lon: -6.0046
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Gludsted:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 86
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DNK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 56.071
   lon: 9.334
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Gnangara:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 50
-  citation: .nan
+  citation:  
   climate: Csa
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_open
   lat: -31.3767
   lon: 115.7132
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Gobabeb:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 425
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: NAM
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: bare_areas
   lat: -23.5509
   lon: 15.05139
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Goodwin Creek:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 98
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_natural_vegetation
   lat: 34.255
   lon: -89.8735
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Graswang:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 863
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 47.571
   lon: 11.033
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Griffith:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 127
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_irrigated
   lat: -34.2527
   lon: 146.1202
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Grosses Bruch:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 80
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 52.03
   lon: 11.105
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Hadlow:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 33
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_cropland
   lat: 51.2286
   lon: 0.3202
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Hamilton:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 119
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: -37.829
   lon: 142.089
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Harrild:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 66
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DNK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 56.022
   lon: 9.155
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 HartwoodHome:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 225
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 55.8103
   lon: -3.829
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Harvard Forest:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 350
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_mixed
   lat: 42.5378
   lon: -72.1715
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 HarwoodForest:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 300
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 55.2159
   lon: -2.0235
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Harzgerode:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 405
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.652
   lon: 11.137
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Hauser Farm North:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 942
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 34.5798
   lon: -111.8627
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Hauser Farm South:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 942
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 34.5766
   lon: -111.8585
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Havikpak Main Met:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 125
-  citation: .nan
+  citation:  
   climate: Dfc
-  contact: .nan
+  contact:  
   country: CAN
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_tree_and_shrub
   lat: 68.3199
   lon: -133.5198
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Heinsberg:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 58
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.041
   lon: 6.104
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 HenfaesFarm:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 287
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_herbaceous
   lat: 53.2254
   lon: -4.0124
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Heytesbury:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 166
-  citation: .nan
+  citation:  
   climate: Cwb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 51.2029
   lon: -2.0796
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Hillsborough:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 146
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 54.447
   lon: -6.0684
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Hohes Holz:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 217
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 52.09
   lon: 11.226
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 HollinHill:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 82
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 54.1107
   lon: -0.9595
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 HolmeLacy:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 76
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.0209
   lon: -2.6621
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Hordorf:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 82
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.997
   lon: 11.179
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Howland:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 124
-  citation: .nan
+  citation:  
   climate: Dfb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_cover_flooded_fresh_or_brakish_water
   lat: 45.2041
   lon: -68.7402
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 IK:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 16
-  citation: .nan
+  citation:  
   climate: Csa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 38.6
   lon: -121.7
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Iowa Validation Site:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 316
-  citation: .nan
+  citation:  
   climate: Dwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 41.9832
   lon: -93.6837
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Island Dairy:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 381
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 19.998
   lon: -155.2859
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 JERC:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 40
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 31.2364
   lon: -84.4617
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Jena:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 140
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.951
   lon: 11.625
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Jonesboro:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 76
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 35.75969
   lon: -90.762023
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Jornada Mixed Shrubland:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 0
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 32.58
   lon: -106.6
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 KLEE:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1824
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: KEN
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 0.2825
   lon: 36.8669
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Kall:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 505
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.501
   lon: 6.526
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Kendall:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1548
-  citation: .nan
+  citation:  
   climate: BWk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 31.7368
   lon: -109.9418
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Kleinhau:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 374
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.722
   lon: 6.372
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Leutasch:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1111
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: AUT
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 47.376
   lon: 11.162
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Lichtenburg potato:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1460
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: SA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_irrigated
   lat: -26.02517
   lon: 26.5704
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Lindenberg:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 72
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 52.165
   lon: 14.121
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Loddington:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 186
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.6102
   lon: -0.8264
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Lower Salt Creek:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1535
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 38.129427
   lon: -109.734501
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Lucky Hills:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1367
-  citation: .nan
+  citation:  
   climate: BWh
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 31.7442
   lon: -110.0518
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Lullington:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 199
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.794
   lon: 0.189
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 LullingtonHeath:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 119
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 50.7937
   lon: 0.1889
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Manitou Forest Ground:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2391
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 39.1006
   lon: -105.1025
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Manitou Forest Tower:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2411
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 39.101
   lon: -105.102
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Mapungubwe:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 515
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: SA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: -22.1917
   lon: 29.3926
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Marshall Colorado:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1756
-  citation: .nan
+  citation:  
   climate: Dfb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_cropland
   lat: 39.9495
   lon: -105.1955
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Melvilles Woodland:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 182
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.523361
   lon: -1.486111
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Merzenhausen:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 91
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.93
   lon: 6.297
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Metolius:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1253
-  citation: .nan
+  citation:  
   climate: Dsb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 44.4523
   lon: -121.5574
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Mineral Banks:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 284
-  citation: .nan
+  citation:  
   climate: BSh
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_irrigated
   lat: -41.2597
   lon: 147.7894
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 MoorHouse:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 565
-  citation: .nan
+  citation:  
   climate: Cfc
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 54.6594
   lon: -2.4678
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 MoretonMorrell:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 53
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 52.1994
   lon: -1.5631
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Morgan Monroe:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 275
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 39.3232
   lon: -86.4131
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Morley:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 55
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.5481
   lon: 1.0342
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Mount Lemmon:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2747
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 32.4418
   lon: -110.7822
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Mozark:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 219
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 38.7441
   lon: -92.2
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Mpala North:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1619
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: KEN
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_herbaceous
   lat: 0.4856
   lon: 36.8701
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 NJ Meadowlands:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 3
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 40.7691
   lon: -74.0853
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Neb Field 3:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 363
-  citation: .nan
+  citation:  
   climate: Dwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 41.179859
   lon: -96.441235
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Noervenich:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 140
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.781
   lon: 6.537
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 NorthWyke:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 181
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 50.7735
   lon: -3.906
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Norwin:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 361
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_evergreen_closed_to_open
   lat: -27.5736
   lon: 151.3092
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Olocau:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 415
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: ESP
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 39.707
   lon: -0.517
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 P301:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2014
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 37.0678
   lon: -119.1944
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Park Falls:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 470
-  citation: .nan
+  citation:  
   climate: Dfb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 45.9459
   lon: -90.2723
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Pe-de-Gigante:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 673
-  citation: .nan
+  citation:  
   climate: Cwa
-  contact: .nan
+  contact:  
   country: BRZ
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_evergreen_closed_to_open
   lat: -21.6176
   lon: -47.6325
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Petzenkirchen:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 278
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: AUT
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 48.155
   lon: 15.148
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Plynlimon:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 542
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 52.4534
   lon: -3.7626
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 PortonDown:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 146
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 51.1199
   lon: -1.6812
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Pounds 2B:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 197
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.515333
   lon: -1.458083
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Rancho No Tengo:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1401
-  citation: .nan
+  citation:  
   climate: BWk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 31.7438
   lon: -110.0219
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Redhill:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 91
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 51.2629
   lon: 0.4291
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Redmere:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 3
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_herbaceous
   lat: 52.4458
   lon: 0.421
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Reynolds Creek:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1880
-  citation: .nan
+  citation:  
   climate: Dsa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 43.1208
   lon: -116.7226
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Rietholzbach:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 755
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: CHE
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 47.381
   lon: 8.993
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Rio San Miguel Buffel Grass:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 10
-  citation: .nan
+  citation:  
   climate: BSh
-  contact: .nan
+  contact:  
   country: MEX
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 29.7385
   lon: -110.5042
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Riseholme:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 53
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 53.2616
   lon: -0.5259
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Robson:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 715
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_evergreen_closed_to_open
   lat: -17.12
   lon: 145.63
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Rollesbroich1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 515
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.622
   lon: 6.304
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Rollesbroich2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 506
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.624
   lon: 6.305
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Rosemount:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 260
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 44.7143
   lon: -93.0898
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Rosemount-2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 283
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 44.6909
   lon: -93.0576
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Rothamsted:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 131
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.8139
   lon: -0.3783
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Ruraue:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 100
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.862
   lon: 6.427
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 SMAP-OK:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 326
-  citation: .nan
+  citation:  
   climate: Cwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 36.0635
   lon: -97.217
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Saerheim:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 91
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: NOR
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 58.761
   lon: 5.651
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 San Pedro 2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1233
-  citation: .nan
+  citation:  
   climate: BWh
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 31.5615
   lon: -110.1404
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Santa Fe Watershed-SF1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2482
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 35.6792
   lon: -105.8269
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Santa Fe Watershed-SF2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2427
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 35.683
   lon: -105.8225
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Santa Maria UFSM:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 88
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: BRZ
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: -29.7243
   lon: -53.76
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Santa Rita Creosote:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 989
-  citation: .nan
+  citation:  
   climate: BSh
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 31.9085
   lon: -110.8394
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Santa Rita Mesquite:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 0
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 31.82
   lon: -110.84
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Saskatoon:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 506
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: CAN
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.1326
   lon: -106.6168
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Savannah River:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 94
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 33.3828
   lon: -81.566
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Schaefertal1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 425
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.657
   lon: 11.043
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Schaefertal3:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 394
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.655
   lon: 11.052
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Schaefertal4:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 399
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.655
   lon: 11.049
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Schoeneseiffen:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 611
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.515
   lon: 6.376
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Scotts Peak:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 305
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_open
   lat: -43.042
   lon: 146.337
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Selhausen:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 101
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.866
   lon: 6.447
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Serrahn:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 96
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 53.339
   lon: 13.174
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Sevilleta New Grass:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1566
-  citation: .nan
+  citation:  
   climate: BWk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 34.3999
   lon: -106.6743
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Shale Hills:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 374
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 40.6646
   lon: -77.9067
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Sheepdrove:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 170
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.5303
   lon: -1.4819
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Sheepdrove1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 197
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.515
   lon: -1.458
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Sheepdrove2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 204
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.528
   lon: -1.468
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Sheepdrove3:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 182
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.523
   lon: -1.486
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Silver Sword:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2868
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 19.765
   lon: -155.4234
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Soaproot:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1160
-  citation: .nan
+  citation:  
   climate: Csa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 37.031
   lon: -119.2564
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Sourhope:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 487
-  citation: .nan
+  citation:  
   climate: Cwb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 55.4799
   lon: -2.23
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 SpenFarm:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 57
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 53.8689
   lon: -1.3189
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Sterling:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 95
-  citation: .nan
+  citation:  
   climate: Dfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed
   lat: 38.9739
   lon: -77.4852
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Stiperstones:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 432
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 52.5812
   lon: -2.9447
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Stoughton:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 130
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.6016
   lon: -1.047
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Sydling:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 249
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 50.8284
   lon: -2.5279
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 TadhamMoor:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 7
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 51.2075
   lon: -2.8288
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Temora:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 294
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: -34.4046
   lon: 147.5326
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Tenderfoot Creek:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2255
-  citation: .nan
+  citation:  
   climate: Dfc
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 46.9514
   lon: -110.8871
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 TheLizard:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 85
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_herbaceous
   lat: 50.0328
   lon: -5.1999
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Tonzi Ranch:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 177
-  citation: .nan
+  citation:  
   climate: Csa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 38.4316
   lon: -120.9659
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Toulouse:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 188
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: FRA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 43.385
   lon: 1.292
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Tower Ruin:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1565
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: shrubland
   lat: 38.116806
   lon: -109.718361
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Trail Valley Forest:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 125
-  citation: .nan
+  citation:  
   climate: Dfc
-  contact: .nan
+  contact:  
   country: CAN
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: lichens_and_mosses
   lat: 68.7227
   lon: -133.4955
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Trail Valley Main Met:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 125
-  citation: .nan
+  citation:  
   climate: Dfc
-  contact: .nan
+  contact:  
   country: CAN
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: sparse_vegetation
   lat: 68.7455
   lon: -133.5
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Trail Valley Upper Plateau:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 150
-  citation: .nan
+  citation:  
   climate: Dfc
-  contact: .nan
+  contact:  
   country: CAN
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: lichens_and_mosses
   lat: 68.6936
   lon: -133.6974
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Tullochgorum:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 285
-  citation: .nan
+  citation:  
   climate: Cwb
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_cropland
   lat: -41.6694
   lon: 147.9117
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Tumbarumba:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1200
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_evergreen_closed_to_open
   lat: -35.656
   lon: 148.152
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Two Streams:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 1062
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: SA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: -29.2058
   lon: 30.6508
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 UMBS:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 220
-  citation: .nan
+  citation:  
   climate: Dfb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 45.5598
   lon: -84.7138
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 UVA:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 120
-  citation: .nan
+  citation:  
   climate: Cfa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_mixed
   lat: 37.9229
   lon: -78.2739
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 VCNP CZO:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 3037
-  citation: .nan
+  citation:  
   climate: Dwb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 35.8896
   lon: -106.5328
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Voulund:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 67
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DNK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 56.036
   lon: 9.156
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 W2-W3:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 204
-  citation: .nan
+  citation:  
   climate: Cfb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.528472
   lon: -1.467528
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Waddesdon:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 98
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: 51.8395
   lon: -0.9484
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Weany Creek:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 287
-  citation: .nan
+  citation:  
   climate: BSh
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: grassland
   lat: -19.882
   lon: 146.536
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Weisssee:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 2464
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: AUT
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 46.873
   lon: 10.714
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Wildacker:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 96
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 53.33
   lon: 13.199
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Wildenrath:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 72
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.133
   lon: 6.169
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Wimpole:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 30
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.1322
   lon: -0.0444
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Wind River:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 371
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 45.8205
   lon: -121.9519
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Writtle:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 44
-  citation: .nan
+  citation:  
   climate: Csb
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.734
   lon: 0.4179
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Wuestebach1:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 605
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.503
   lon: 6.333
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Wuestebach2:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 607
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.505
   lon: 6.331
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Wuestebach3:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 605
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.503
   lon: 6.336
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 WythamWoods:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 109
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: UK
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.7773
   lon: -1.3385
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Yanco:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 124
-  citation: .nan
+  citation:  
   climate: BSk
-  contact: .nan
+  contact:  
   country: AUS
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: mosaic_cropland
   lat: -35.005
   lon: 146.2992
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 York Irrigated Maize:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 497
-  citation: .nan
+  citation:  
   climate: Dwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.94822
   lon: -97.48745
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 York Irrigated Soybean:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 494
-  citation: .nan
+  citation:  
   climate: Dwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.93379
   lon: -97.4587
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 York Rainfed:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 491
-  citation: .nan
+  citation:  
   climate: Dwa
-  contact: .nan
+  contact:  
   country: USA
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.8899
   lon: -97.4586
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Zerbst:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 74
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 51.993
   lon: 12.126
-  network: .nan
-  period: .nan
+  network:  
+  period:  
 Zuelpich:
-  active: .nan
-  affiliation: .nan
+  active:  
+  affiliation:  
   alt: 158
-  citation: .nan
-  climate: .nan
-  contact: .nan
+  citation:  
+  climate:  
+  contact:  
   country: DEU
-  data: .nan
-  has_EC: .nan
-  has_TDT: .nan
-  has_gw: .nan
-  has_precip: .nan
-  landuse: .nan
+  data:  
+  has_EC:  
+  has_TDT:  
+  has_gw:  
+  has_precip:  
+  landuse:  
   lat: 50.692
   lon: 6.717
-  network: .nan
-  period: .nan
+  network:  
+  period:  
