@@ -1,4032 +1,4194 @@
 ARM-1:
-  active:  
-  affiliation:  
-  alt: 322
-  citation:  
+  active: null
+  affiliation: null
+  alt: 322.0
+  citation: null
   climate: Cwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 36.6054
   lon: -97.4878
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Aachen:
-  active:  
-  affiliation:  
-  alt: 232
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 232.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.799
   lon: 6.025
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Aas:
-  active:  
-  affiliation:  
-  alt: 72
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 72.0
+  citation: null
+  climate: BSk
+  contact: null
   country: NOR
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 59.664
   lon: 10.762
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Acheleschwaig:
-  active:  
-  affiliation:  
-  alt: 867
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 867.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 47.666
   lon: 10.994
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Agia:
-  active:  
-  affiliation:  
-  alt: 1032
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 1032.0
+  citation: null
+  climate: BSk
+  contact: null
   country: GRC
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 39.755
   lon: 22.717
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Alento1:
-  active:  
-  affiliation:  
-  alt: 671
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 671.0
+  citation: null
+  climate: BSk
+  contact: null
   country: ITA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 40.311
   lon: 15.229
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Alento2:
-  active:  
-  affiliation:  
-  alt: 453
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 453.0
+  citation: null
+  climate: BSk
+  contact: null
   country: ITA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 40.365
   lon: 15.184
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 AliceHolt:
-  active:  
-  affiliation:  
-  alt: 80
-  citation:  
+  active: null
+  affiliation: null
+  alt: 80.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.1536
   lon: -0.8582
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Austin Cary:
-  active:  
-  affiliation:  
-  alt: 44
-  citation:  
+  active: null
+  affiliation: null
+  alt: 44.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 29.7381
   lon: -82.2188
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Baldry:
-  active:  
-  affiliation:  
-  alt: 438
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 438.0
+  citation: null
+  climate: Csa
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: -32.871
   lon: 148.526
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Balruddery:
-  active:  
-  affiliation:  
-  alt: 130
-  citation:  
+  active: null
+  affiliation: null
+  alt: 130.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 56.4823
   lon: -3.1115
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Barrow-ARM:
-  active:  
-  affiliation:  
-  alt: 4
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 4.0
+  citation: null
+  climate: Dwa
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: grassland
   lat: 71.3298
   lon: -156.6287
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Baynesfield Probe 1:
-  active:  
-  affiliation:  
-  alt: 0
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 0.0
+  citation: null
+  climate: Dwa
+  contact: null
   country: SA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_irrigated
   lat: -29.7594
   lon: 30.3375
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Beltsville:
-  active:  
-  affiliation:  
-  alt: 42
-  citation:  
+  active: null
+  affiliation: null
+  alt: 42.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 39.0295
   lon: -76.8462
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Bennets:
-  active:  
-  affiliation:  
-  alt: 98
-  citation:  
+  active: null
+  affiliation: null
+  alt: 98.0
+  citation: null
   climate: BWh
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: -35.826
   lon: 143.004
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 BickleyHall:
-  active:  
-  affiliation:  
-  alt: 78
-  citation:  
+  active: null
+  affiliation: null
+  alt: 78.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 53.0264
   lon: -2.7005
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Binley:
-  active:  
-  affiliation:  
-  alt: 644
-  citation:  
+  active: null
+  affiliation: null
+  alt: 644.0
+  citation: null
   climate: Dwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrub_or_herbaceous_cover_flooded
   lat: 40.75913
   lon: -98.5382
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Biosphere 2:
-  active:  
-  affiliation:  
-  alt: 1180
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1180.0
+  citation: null
   climate: BSh
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 32.5795
   lon: -110.851
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Bishes:
-  active:  
-  affiliation:  
-  alt: 94
-  citation:  
+  active: null
+  affiliation: null
+  alt: 94.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: -35.769
   lon: 142.973
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Boernchen:
-  active:  
-  affiliation:  
-  alt: 571
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 571.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.819
   lon: 13.8
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Bondville:
-  active:  
-  affiliation:  
-  alt: 219
-  citation:  
+  active: null
+  affiliation: null
+  alt: 219.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.0062
   lon: -88.2904
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Bornheim:
-  active:  
-  affiliation:  
-  alt: 67
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 67.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.785
   lon: 6.956
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Brigalow C3:
-  active:  
-  affiliation:  
-  alt: 165
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 165.0
+  citation: null
+  climate: Cfb
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland_deciduous
   lat: -24.812
   lon: 149.801
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Brookings:
-  active:  
-  affiliation:  
-  alt: 510
-  citation:  
+  active: null
+  affiliation: null
+  alt: 510.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 44.3453
   lon: -96.8362
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Bullawarrie:
-  active:  
-  affiliation:  
-  alt: 166
-  citation:  
+  active: null
+  affiliation: null
+  alt: 166.0
+  citation: null
   climate: BWh
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: -28.809
   lon: 148.765
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 BunnyPark:
-  active:  
-  affiliation:  
-  alt: 39
-  citation:  
+  active: null
+  affiliation: null
+  alt: 39.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.8607
   lon: -1.1268
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Bushland:
-  active:  
-  affiliation:  
-  alt: 1172
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1172.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 35.1882
   lon: -102.0955
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 CC Pasture:
-  active:  
-  affiliation:  
-  alt: 505
-  citation:  
+  active: null
+  affiliation: null
+  alt: 505.0
+  citation: null
   climate: Dwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 41.2688
   lon: -97.947
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 CPTEC INPE:
-  active:  
-  affiliation:  
-  alt: 563
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 563.0
+  citation: null
+  climate: Dwa
+  contact: null
   country: BRZ
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_natural_vegetation
   lat: -22.6798
   lon: -44.99813
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Cakit Basin:
-  active:  
-  affiliation:  
-  alt: 1459
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 1459.0
+  citation: null
+  climate: BSk
+  contact: null
   country: TUR
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 37.515
   lon: 34.498
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Calderona1:
-  active:  
-  affiliation:  
-  alt: 785
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 785.0
+  citation: null
+  climate: BSk
+  contact: null
   country: ESP
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 39.708
   lon: -0.457
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Calderona2:
-  active:  
-  affiliation:  
-  alt: 789
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 789.0
+  citation: null
+  climate: BSk
+  contact: null
   country: ESP
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 39.708
   lon: -0.457
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Cardington:
-  active:  
-  affiliation:  
-  alt: 29
-  citation:  
+  active: null
+  affiliation: null
+  alt: 29.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.1056
   lon: -0.4246
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Caribou Bog:
-  active:  
-  affiliation:  
-  alt: 39
-  citation:  
+  active: null
+  affiliation: null
+  alt: 39.0
+  citation: null
   climate: Dfb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_cover_flooded_fresh_or_brakish_water
   lat: 44.9167
   lon: -68.7359
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Cathedral Peak C6:
-  active:  
-  affiliation:  
-  alt: 1900
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 1900.0
+  citation: null
+  climate: Dwa
+  contact: null
   country: SA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: -28.9932
   lon: 29.2517
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Chestnut Ridge NOAA:
-  active:  
-  affiliation:  
-  alt: 370
-  citation:  
+  active: null
+  affiliation: null
+  alt: 370.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 35.9311
   lon: -84.3324
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Chimney Meadows:
-  active:  
-  affiliation:  
-  alt: 65
-  citation:  
+  active: null
+  affiliation: null
+  alt: 65.0
+  citation: null
   climate: Dfc
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 51.71
   lon: -1.48
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 ChimneyMeadows:
-  active:  
-  affiliation:  
-  alt: 65
-  citation:  
+  active: null
+  affiliation: null
+  alt: 65.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 51.708
   lon: -1.4788
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 ChobhamCommon:
-  active:  
-  affiliation:  
-  alt: 47
-  citation:  
+  active: null
+  affiliation: null
+  alt: 47.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 51.368
   lon: -0.5975
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Coastal Sage UCI:
-  active:  
-  affiliation:  
-  alt: 320
-  citation:  
+  active: null
+  affiliation: null
+  alt: 320.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 33.7342
   lon: -117.6961
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Cochno:
-  active:  
-  affiliation:  
-  alt: 168
-  citation:  
+  active: null
+  affiliation: null
+  alt: 168.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 55.9414
   lon: -4.4035
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 CocklePark:
-  active:  
-  affiliation:  
-  alt: 87
-  citation:  
+  active: null
+  affiliation: null
+  alt: 87.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 55.216
   lon: -1.6944
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Coweeta:
-  active:  
-  affiliation:  
-  alt: 797
-  citation:  
+  active: null
+  affiliation: null
+  alt: 797.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 35.0662
   lon: -83.437
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Crichton:
-  active:  
-  affiliation:  
-  alt: 42
-  citation:  
+  active: null
+  affiliation: null
+  alt: 42.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 55.0431
   lon: -3.5834
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Crolles:
-  active:  
-  affiliation:  
-  alt: 230
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 230.0
+  citation: null
+  climate: BSk
+  contact: null
   country: FRA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 45.281
   lon: 5.901
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Cunnersdorf:
-  active:  
-  affiliation:  
-  alt: 140
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 140.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.37
   lon: 12.557
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 CwmGarw:
-  active:  
-  affiliation:  
-  alt: 299
-  citation:  
+  active: null
+  affiliation: null
+  alt: 299.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 51.9514
   lon: -4.7466
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Daly:
-  active:  
-  affiliation:  
-  alt: 75
-  citation:  
+  active: null
+  affiliation: null
+  alt: 75.0
+  citation: null
   climate: Dsa
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland_deciduous
   lat: -14.1592
   lon: 131.3881
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Daniel Forest:
-  active:  
-  affiliation:  
-  alt: 2600
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2600.0
+  citation: null
   climate: Dfb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 41.8651
   lon: -111.5087
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Derlo:
-  active:  
-  affiliation:  
-  alt: 129
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 129.0
+  citation: null
+  climate: BSk
+  contact: null
   country: POL
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 52.17
   lon: 23.369
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Desert Chaparral UCI:
-  active:  
-  affiliation:  
-  alt: 1292
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1292.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 33.6094
   lon: -116.4506
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 EasterBush:
-  active:  
-  affiliation:  
-  alt: 208
-  citation:  
+  active: null
+  affiliation: null
+  alt: 208.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 55.8674
   lon: -3.2071
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Elmsett:
-  active:  
-  affiliation:  
-  alt: 76
-  citation:  
+  active: null
+  affiliation: null
+  alt: 76.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.0946
   lon: 0.9931
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Elsick:
-  active:  
-  affiliation:  
-  alt: 95
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 95.0
+  citation: null
+  climate: BSk
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 57.039
   lon: -2.186
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Esterberg:
-  active:  
-  affiliation:  
-  alt: 1267
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 1267.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 47.516
   lon: 11.158
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Euston:
-  active:  
-  affiliation:  
-  alt: 18
-  citation:  
+  active: null
+  affiliation: null
+  alt: 18.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.3364
   lon: 0.7959
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
+Euston_CoEu:
+  active: null
+  affiliation: null
+  alt: 18.0
+  citation: null
+  climate: BSk
+  contact: null
+  country: UK
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: 52.383
+  lon: 0.785
+  network: COSMOS-EUROPE
+  period: null
 Fendt:
-  active:  
-  affiliation:  
-  alt: 595
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 595.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 47.832
   lon: 11.06
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Fincham:
-  active:  
-  affiliation:  
-  alt: 15
-  citation:  
+  active: null
+  affiliation: null
+  alt: 15.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.6178
   lon: 0.5107
-  network:  
-  period:  
-Fivemiletown:
-  active:  
-  affiliation:  
-  alt: 174
-  citation:  
-  climate:  
-  contact:  
+  network: COSMOS-UK
+  period: null
+Fincham_CoEu:
+  active: null
+  affiliation: null
+  alt: 15.0
+  citation: null
+  climate: BSk
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: 52.618
+  lon: 0.511
+  network: COSMOS-EUROPE
+  period: null
+Fivemiletown:
+  active: null
+  affiliation: null
+  alt: 174.0
+  citation: null
+  climate: Csb
+  contact: null
+  country: UK
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 54.2985
   lon: -7.2919
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Flag Ponderosa Pine:
-  active:  
-  affiliation:  
-  alt: 2381
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2381.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 35.4386
   lon: -111.8036
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Flag Wildfire:
-  active:  
-  affiliation:  
-  alt: 2313
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2313.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 35.4455
   lon: -111.7719
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Fort Peck:
-  active:  
-  affiliation:  
-  alt: 634
-  citation:  
+  active: null
+  affiliation: null
+  alt: 634.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 48.3077
   lon: -105.1019
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Fox:
-  active:  
-  affiliation:  
-  alt: 642
-  citation:  
+  active: null
+  affiliation: null
+  alt: 642.0
+  citation: null
   climate: Dwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.6703
   lon: -98.9823
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Freeman Ranch:
-  active:  
-  affiliation:  
-  alt: 265
-  citation:  
+  active: null
+  affiliation: null
+  alt: 265.0
+  citation: null
   climate: Cwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 29.94915
   lon: -97.9966
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Fuerstensee:
-  active:  
-  affiliation:  
-  alt: 66
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 66.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 53.319
   lon: 13.122
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 GLEES:
-  active:  
-  affiliation:  
-  alt: 3190
-  citation:  
+  active: null
+  affiliation: null
+  alt: 3190.0
+  citation: null
   climate: Dfc
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 41.3644
   lon: -106.2394
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Gevenich:
-  active:  
-  affiliation:  
-  alt: 107
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 107.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.989
   lon: 6.324
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 GisburnForest:
-  active:  
-  affiliation:  
-  alt: 246
-  citation:  
+  active: null
+  affiliation: null
+  alt: 246.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_tree_and_shrub
   lat: 54.0238
   lon: -2.3846
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Glensaugh:
-  active:  
-  affiliation:  
-  alt: 399
-  citation:  
+  active: null
+  affiliation: null
+  alt: 399.0
+  citation: null
   climate: Cfc
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_herbaceous
   lat: 56.9144
   lon: -2.5622
-  network:  
-  period:  
-Glenwherry:
-  active:  
-  affiliation:  
-  alt: 274
-  citation:  
-  climate: Cfb
-  contact:  
+  network: COSMOS-UK
+  period: null
+Glensaugh_CoEu:
+  active: null
+  affiliation: null
+  alt: 399.0
+  citation: null
+  climate: BSk
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: 56.914
+  lon: -2.562
+  network: COSMOS-EUROPE
+  period: null
+Glenwherry:
+  active: null
+  affiliation: null
+  alt: 274.0
+  citation: null
+  climate: Cfb
+  contact: null
+  country: UK
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 54.8381
   lon: -6.0046
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Gludsted:
-  active:  
-  affiliation:  
-  alt: 86
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 86.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DNK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 56.071
   lon: 9.334
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Gnangara:
-  active:  
-  affiliation:  
-  alt: 50
-  citation:  
+  active: null
+  affiliation: null
+  alt: 50.0
+  citation: null
   climate: Csa
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_open
   lat: -31.3767
   lon: 115.7132
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Gobabeb:
-  active:  
-  affiliation:  
-  alt: 425
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 425.0
+  citation: null
+  climate: Dwb
+  contact: null
   country: NAM
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: bare_areas
   lat: -23.5509
   lon: 15.05139
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Goodwin Creek:
-  active:  
-  affiliation:  
-  alt: 98
-  citation:  
+  active: null
+  affiliation: null
+  alt: 98.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_natural_vegetation
   lat: 34.255
   lon: -89.8735
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Graswang:
-  active:  
-  affiliation:  
-  alt: 863
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 863.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 47.571
   lon: 11.033
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Griffith:
-  active:  
-  affiliation:  
-  alt: 127
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 127.0
+  citation: null
+  climate: Csa
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_irrigated
   lat: -34.2527
   lon: 146.1202
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Grosses Bruch:
-  active:  
-  affiliation:  
-  alt: 80
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 80.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 52.03
   lon: 11.105
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Hadlow:
-  active:  
-  affiliation:  
-  alt: 33
-  citation:  
+  active: null
+  affiliation: null
+  alt: 33.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_cropland
   lat: 51.2286
   lon: 0.3202
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Hamilton:
-  active:  
-  affiliation:  
-  alt: 119
-  citation:  
+  active: null
+  affiliation: null
+  alt: 119.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: -37.829
   lon: 142.089
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Harrild:
-  active:  
-  affiliation:  
-  alt: 66
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 66.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DNK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 56.022
   lon: 9.155
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 HartwoodHome:
-  active:  
-  affiliation:  
-  alt: 225
-  citation:  
+  active: null
+  affiliation: null
+  alt: 225.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 55.8103
   lon: -3.829
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Harvard Forest:
-  active:  
-  affiliation:  
-  alt: 350
-  citation:  
+  active: null
+  affiliation: null
+  alt: 350.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_mixed
   lat: 42.5378
   lon: -72.1715
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 HarwoodForest:
-  active:  
-  affiliation:  
-  alt: 300
-  citation:  
+  active: null
+  affiliation: null
+  alt: 300.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 55.2159
   lon: -2.0235
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Harzgerode:
-  active:  
-  affiliation:  
-  alt: 405
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 405.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.652
   lon: 11.137
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Hauser Farm North:
-  active:  
-  affiliation:  
-  alt: 942
-  citation:  
+  active: null
+  affiliation: null
+  alt: 942.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 34.5798
   lon: -111.8627
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Hauser Farm South:
-  active:  
-  affiliation:  
-  alt: 942
-  citation:  
+  active: null
+  affiliation: null
+  alt: 942.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 34.5766
   lon: -111.8585
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Havikpak Main Met:
-  active:  
-  affiliation:  
-  alt: 125
-  citation:  
+  active: null
+  affiliation: null
+  alt: 125.0
+  citation: null
   climate: Dfc
-  contact:  
+  contact: null
   country: CAN
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_tree_and_shrub
   lat: 68.3199
   lon: -133.5198
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Heinsberg:
-  active:  
-  affiliation:  
-  alt: 58
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 58.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.041
   lon: 6.104
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 HenfaesFarm:
-  active:  
-  affiliation:  
-  alt: 287
-  citation:  
+  active: null
+  affiliation: null
+  alt: 287.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_herbaceous
   lat: 53.2254
   lon: -4.0124
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Heytesbury:
-  active:  
-  affiliation:  
-  alt: 166
-  citation:  
+  active: null
+  affiliation: null
+  alt: 166.0
+  citation: null
   climate: Cwb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 51.2029
   lon: -2.0796
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Hillsborough:
-  active:  
-  affiliation:  
-  alt: 146
-  citation:  
+  active: null
+  affiliation: null
+  alt: 146.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 54.447
   lon: -6.0684
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Hohes Holz:
-  active:  
-  affiliation:  
-  alt: 217
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 217.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 52.09
   lon: 11.226
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 HollinHill:
-  active:  
-  affiliation:  
-  alt: 82
-  citation:  
+  active: null
+  affiliation: null
+  alt: 82.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 54.1107
   lon: -0.9595
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 HolmeLacy:
-  active:  
-  affiliation:  
-  alt: 76
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 76.0
+  citation: null
+  climate: Cfb
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.0209
   lon: -2.6621
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Hordorf:
-  active:  
-  affiliation:  
-  alt: 82
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 82.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.997
   lon: 11.179
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Howland:
-  active:  
-  affiliation:  
-  alt: 124
-  citation:  
+  active: null
+  affiliation: null
+  alt: 124.0
+  citation: null
   climate: Dfb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_cover_flooded_fresh_or_brakish_water
   lat: 45.2041
   lon: -68.7402
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
+IAEA Bolivia:
+  active: null
+  affiliation: null
+  alt: 158.0
+  citation: null
+  climate: BSk
+  contact: null
+  country: BOL
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: -16.4897
+  lon: -68.119
+  network: IAEA
+  period: null
+IAEA Kuwait:
+  active: null
+  affiliation: null
+  alt: 158.0
+  citation: null
+  climate: BSk
+  contact: null
+  country: KWT
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: 29.3759
+  lon: 47.9774
+  network: IAEA
+  period: null
+IAEA Madigascar:
+  active: null
+  affiliation: null
+  alt: 158.0
+  citation: null
+  climate: BSk
+  contact: null
+  country: MDG
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: -18.8792
+  lon: 47.5079
+  network: IAEA
+  period: null
+IAEA Malaysia:
+  active: null
+  affiliation: null
+  alt: 158.0
+  citation: null
+  climate: BSk
+  contact: null
+  country: MYS
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: 3.139
+  lon: 101.6869
+  network: IAEA
+  period: null
+IAEA Marchfield:
+  active: null
+  affiliation: null
+  alt: 158.0
+  citation: null
+  climate: BSk
+  contact: null
+  country: AUT
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: 48.14115
+  lon: 15.17028
+  network: IAEA
+  period: null
+IAEA Oman:
+  active: null
+  affiliation: null
+  alt: 158.0
+  citation: null
+  climate: BSk
+  contact: null
+  country: OMN
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
+  lat: 23.588
+  lon: 58.3829
+  network: IAEA
+  period: null
 IK:
-  active:  
-  affiliation:  
-  alt: 16
-  citation:  
+  active: null
+  affiliation: null
+  alt: 16.0
+  citation: null
   climate: Csa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 38.6
   lon: -121.7
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Iowa Validation Site:
-  active:  
-  affiliation:  
-  alt: 316
-  citation:  
+  active: null
+  affiliation: null
+  alt: 316.0
+  citation: null
   climate: Dwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 41.9832
   lon: -93.6837
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Island Dairy:
-  active:  
-  affiliation:  
-  alt: 381
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 381.0
+  citation: null
+  climate: BSh
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 19.998
   lon: -155.2859
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 JERC:
-  active:  
-  affiliation:  
-  alt: 40
-  citation:  
+  active: null
+  affiliation: null
+  alt: 40.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 31.2364
   lon: -84.4617
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Jena:
-  active:  
-  affiliation:  
-  alt: 140
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 140.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.951
   lon: 11.625
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Jonesboro:
-  active:  
-  affiliation:  
-  alt: 76
-  citation:  
+  active: null
+  affiliation: null
+  alt: 76.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 35.75969
   lon: -90.762023
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Jornada Mixed Shrubland:
-  active:  
-  affiliation:  
-  alt: 0
-  citation:  
+  active: null
+  affiliation: null
+  alt: 0.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 32.58
   lon: -106.6
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 KLEE:
-  active:  
-  affiliation:  
-  alt: 1824
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1824.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: KEN
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 0.2825
   lon: 36.8669
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Kall:
-  active:  
-  affiliation:  
-  alt: 505
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 505.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.501
   lon: 6.526
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Kendall:
-  active:  
-  affiliation:  
-  alt: 1548
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1548.0
+  citation: null
   climate: BWk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 31.7368
   lon: -109.9418
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Kleinhau:
-  active:  
-  affiliation:  
-  alt: 374
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 374.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.722
   lon: 6.372
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Leutasch:
-  active:  
-  affiliation:  
-  alt: 1111
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 1111.0
+  citation: null
+  climate: BSk
+  contact: null
   country: AUT
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 47.376
   lon: 11.162
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Lichtenburg potato:
-  active:  
-  affiliation:  
-  alt: 1460
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 1460.0
+  citation: null
+  climate: Dwa
+  contact: null
   country: SA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_irrigated
   lat: -26.02517
   lon: 26.5704
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Lindenberg:
-  active:  
-  affiliation:  
-  alt: 72
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 72.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 52.165
   lon: 14.121
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Loddington:
-  active:  
-  affiliation:  
-  alt: 186
-  citation:  
+  active: null
+  affiliation: null
+  alt: 186.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.6102
   lon: -0.8264
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Lower Salt Creek:
-  active:  
-  affiliation:  
-  alt: 1535
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1535.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 38.129427
   lon: -109.734501
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Lucky Hills:
-  active:  
-  affiliation:  
-  alt: 1367
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1367.0
+  citation: null
   climate: BWh
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 31.7442
   lon: -110.0518
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Lullington:
-  active:  
-  affiliation:  
-  alt: 199
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 199.0
+  citation: null
+  climate: BSk
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.794
   lon: 0.189
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 LullingtonHeath:
-  active:  
-  affiliation:  
-  alt: 119
-  citation:  
+  active: null
+  affiliation: null
+  alt: 119.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 50.7937
   lon: 0.1889
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Manitou Forest Ground:
-  active:  
-  affiliation:  
-  alt: 2391
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2391.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 39.1006
   lon: -105.1025
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Manitou Forest Tower:
-  active:  
-  affiliation:  
-  alt: 2411
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2411.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 39.101
   lon: -105.102
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Mapungubwe:
-  active:  
-  affiliation:  
-  alt: 515
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 515.0
+  citation: null
+  climate: Dfa
+  contact: null
   country: SA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: -22.1917
   lon: 29.3926
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Marshall Colorado:
-  active:  
-  affiliation:  
-  alt: 1756
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1756.0
+  citation: null
   climate: Dfb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_cropland
   lat: 39.9495
   lon: -105.1955
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Melvilles Woodland:
-  active:  
-  affiliation:  
-  alt: 182
-  citation:  
+  active: null
+  affiliation: null
+  alt: 182.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.523361
   lon: -1.486111
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Merzenhausen:
-  active:  
-  affiliation:  
-  alt: 91
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 91.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.93
   lon: 6.297
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Metolius:
-  active:  
-  affiliation:  
-  alt: 1253
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1253.0
+  citation: null
   climate: Dsb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 44.4523
   lon: -121.5574
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Mineral Banks:
-  active:  
-  affiliation:  
-  alt: 284
-  citation:  
+  active: null
+  affiliation: null
+  alt: 284.0
+  citation: null
   climate: BSh
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_irrigated
   lat: -41.2597
   lon: 147.7894
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 MoorHouse:
-  active:  
-  affiliation:  
-  alt: 565
-  citation:  
+  active: null
+  affiliation: null
+  alt: 565.0
+  citation: null
   climate: Cfc
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 54.6594
   lon: -2.4678
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 MoretonMorrell:
-  active:  
-  affiliation:  
-  alt: 53
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 53.0
+  citation: null
+  climate: Cfc
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 52.1994
   lon: -1.5631
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Morgan Monroe:
-  active:  
-  affiliation:  
-  alt: 275
-  citation:  
+  active: null
+  affiliation: null
+  alt: 275.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 39.3232
   lon: -86.4131
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Morley:
-  active:  
-  affiliation:  
-  alt: 55
-  citation:  
+  active: null
+  affiliation: null
+  alt: 55.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.5481
   lon: 1.0342
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Mount Lemmon:
-  active:  
-  affiliation:  
-  alt: 2747
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2747.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 32.4418
   lon: -110.7822
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Mozark:
-  active:  
-  affiliation:  
-  alt: 219
-  citation:  
+  active: null
+  affiliation: null
+  alt: 219.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 38.7441
   lon: -92.2
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Mpala North:
-  active:  
-  affiliation:  
-  alt: 1619
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 1619.0
+  citation: null
+  climate: Dfc
+  contact: null
   country: KEN
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_herbaceous
   lat: 0.4856
   lon: 36.8701
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 NJ Meadowlands:
-  active:  
-  affiliation:  
-  alt: 3
-  citation:  
+  active: null
+  affiliation: null
+  alt: 3.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 40.7691
   lon: -74.0853
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Neb Field 3:
-  active:  
-  affiliation:  
-  alt: 363
-  citation:  
+  active: null
+  affiliation: null
+  alt: 363.0
+  citation: null
   climate: Dwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 41.179859
   lon: -96.441235
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Noervenich:
-  active:  
-  affiliation:  
-  alt: 140
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 140.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.781
   lon: 6.537
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 NorthWyke:
-  active:  
-  affiliation:  
-  alt: 181
-  citation:  
+  active: null
+  affiliation: null
+  alt: 181.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 50.7735
   lon: -3.906
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Norwin:
-  active:  
-  affiliation:  
-  alt: 361
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 361.0
+  citation: null
+  climate: Csa
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_evergreen_closed_to_open
   lat: -27.5736
   lon: 151.3092
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Olocau:
-  active:  
-  affiliation:  
-  alt: 415
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 415.0
+  citation: null
+  climate: BSk
+  contact: null
   country: ESP
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 39.707
   lon: -0.517
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 P301:
-  active:  
-  affiliation:  
-  alt: 2014
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2014.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 37.0678
   lon: -119.1944
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Park Falls:
-  active:  
-  affiliation:  
-  alt: 470
-  citation:  
+  active: null
+  affiliation: null
+  alt: 470.0
+  citation: null
   climate: Dfb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 45.9459
   lon: -90.2723
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Pe-de-Gigante:
-  active:  
-  affiliation:  
-  alt: 673
-  citation:  
+  active: null
+  affiliation: null
+  alt: 673.0
+  citation: null
   climate: Cwa
-  contact:  
+  contact: null
   country: BRZ
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_evergreen_closed_to_open
   lat: -21.6176
   lon: -47.6325
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Petzenkirchen:
-  active:  
-  affiliation:  
-  alt: 278
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 278.0
+  citation: null
+  climate: BSk
+  contact: null
   country: AUT
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 48.155
   lon: 15.148
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Plynlimon:
-  active:  
-  affiliation:  
-  alt: 542
-  citation:  
+  active: null
+  affiliation: null
+  alt: 542.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 52.4534
   lon: -3.7626
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 PortonDown:
-  active:  
-  affiliation:  
-  alt: 146
-  citation:  
+  active: null
+  affiliation: null
+  alt: 146.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 51.1199
   lon: -1.6812
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Pounds 2B:
-  active:  
-  affiliation:  
-  alt: 197
-  citation:  
+  active: null
+  affiliation: null
+  alt: 197.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.515333
   lon: -1.458083
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Rancho No Tengo:
-  active:  
-  affiliation:  
-  alt: 1401
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1401.0
+  citation: null
   climate: BWk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 31.7438
   lon: -110.0219
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Redhill:
-  active:  
-  affiliation:  
-  alt: 91
-  citation:  
+  active: null
+  affiliation: null
+  alt: 91.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 51.2629
   lon: 0.4291
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Redmere:
-  active:  
-  affiliation:  
-  alt: 3
-  citation:  
+  active: null
+  affiliation: null
+  alt: 3.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_herbaceous
   lat: 52.4458
   lon: 0.421
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Reynolds Creek:
-  active:  
-  affiliation:  
-  alt: 1880
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1880.0
+  citation: null
   climate: Dsa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 43.1208
   lon: -116.7226
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Rietholzbach:
-  active:  
-  affiliation:  
-  alt: 755
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 755.0
+  citation: null
+  climate: BSk
+  contact: null
   country: CHE
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 47.381
   lon: 8.993
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Rio San Miguel Buffel Grass:
-  active:  
-  affiliation:  
-  alt: 10
-  citation:  
+  active: null
+  affiliation: null
+  alt: 10.0
+  citation: null
   climate: BSh
-  contact:  
+  contact: null
   country: MEX
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 29.7385
   lon: -110.5042
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Riseholme:
-  active:  
-  affiliation:  
-  alt: 53
-  citation:  
+  active: null
+  affiliation: null
+  alt: 53.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 53.2616
   lon: -0.5259
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Robson:
-  active:  
-  affiliation:  
-  alt: 715
-  citation:  
+  active: null
+  affiliation: null
+  alt: 715.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_evergreen_closed_to_open
   lat: -17.12
   lon: 145.63
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Rollesbroich1:
-  active:  
-  affiliation:  
-  alt: 515
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 515.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.622
   lon: 6.304
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Rollesbroich2:
-  active:  
-  affiliation:  
-  alt: 506
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 506.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.624
   lon: 6.305
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Rosemount:
-  active:  
-  affiliation:  
-  alt: 260
-  citation:  
+  active: null
+  affiliation: null
+  alt: 260.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 44.7143
   lon: -93.0898
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Rosemount-2:
-  active:  
-  affiliation:  
-  alt: 283
-  citation:  
+  active: null
+  affiliation: null
+  alt: 283.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 44.6909
   lon: -93.0576
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Rothamsted:
-  active:  
-  affiliation:  
-  alt: 131
-  citation:  
+  active: null
+  affiliation: null
+  alt: 131.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.8139
   lon: -0.3783
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Ruraue:
-  active:  
-  affiliation:  
-  alt: 100
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 100.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.862
   lon: 6.427
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 SMAP-OK:
-  active:  
-  affiliation:  
-  alt: 326
-  citation:  
+  active: null
+  affiliation: null
+  alt: 326.0
+  citation: null
   climate: Cwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 36.0635
   lon: -97.217
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Saerheim:
-  active:  
-  affiliation:  
-  alt: 91
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 91.0
+  citation: null
+  climate: BSk
+  contact: null
   country: NOR
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 58.761
   lon: 5.651
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 San Pedro 2:
-  active:  
-  affiliation:  
-  alt: 1233
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1233.0
+  citation: null
   climate: BWh
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 31.5615
   lon: -110.1404
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Santa Fe Watershed-SF1:
-  active:  
-  affiliation:  
-  alt: 2482
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2482.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 35.6792
   lon: -105.8269
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Santa Fe Watershed-SF2:
-  active:  
-  affiliation:  
-  alt: 2427
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2427.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 35.683
   lon: -105.8225
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Santa Maria UFSM:
-  active:  
-  affiliation:  
-  alt: 88
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 88.0
+  citation: null
+  climate: Dwa
+  contact: null
   country: BRZ
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: -29.7243
   lon: -53.76
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Santa Rita Creosote:
-  active:  
-  affiliation:  
-  alt: 989
-  citation:  
+  active: null
+  affiliation: null
+  alt: 989.0
+  citation: null
   climate: BSh
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 31.9085
   lon: -110.8394
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Santa Rita Mesquite:
-  active:  
-  affiliation:  
-  alt: 0
-  citation:  
+  active: null
+  affiliation: null
+  alt: 0.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 31.82
   lon: -110.84
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Saskatoon:
-  active:  
-  affiliation:  
-  alt: 506
-  citation:  
+  active: null
+  affiliation: null
+  alt: 506.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: CAN
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.1326
   lon: -106.6168
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Savannah River:
-  active:  
-  affiliation:  
-  alt: 94
-  citation:  
+  active: null
+  affiliation: null
+  alt: 94.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 33.3828
   lon: -81.566
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Schaefertal1:
-  active:  
-  affiliation:  
-  alt: 425
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 425.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.657
   lon: 11.043
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Schaefertal3:
-  active:  
-  affiliation:  
-  alt: 394
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 394.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.655
   lon: 11.052
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Schaefertal4:
-  active:  
-  affiliation:  
-  alt: 399
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 399.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.655
   lon: 11.049
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Schoeneseiffen:
-  active:  
-  affiliation:  
-  alt: 611
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 611.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.515
   lon: 6.376
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Scotts Peak:
-  active:  
-  affiliation:  
-  alt: 305
-  citation:  
+  active: null
+  affiliation: null
+  alt: 305.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_open
   lat: -43.042
   lon: 146.337
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Selhausen:
-  active:  
-  affiliation:  
-  alt: 101
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 101.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.866
   lon: 6.447
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Serrahn:
-  active:  
-  affiliation:  
-  alt: 96
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 96.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 53.339
   lon: 13.174
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Sevilleta New Grass:
-  active:  
-  affiliation:  
-  alt: 1566
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1566.0
+  citation: null
   climate: BWk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 34.3999
   lon: -106.6743
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Shale Hills:
-  active:  
-  affiliation:  
-  alt: 374
-  citation:  
+  active: null
+  affiliation: null
+  alt: 374.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 40.6646
   lon: -77.9067
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Sheepdrove:
-  active:  
-  affiliation:  
-  alt: 170
-  citation:  
+  active: null
+  affiliation: null
+  alt: 170.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.5303
   lon: -1.4819
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Sheepdrove1:
-  active:  
-  affiliation:  
-  alt: 197
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 197.0
+  citation: null
+  climate: BSk
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.515
   lon: -1.458
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Sheepdrove2:
-  active:  
-  affiliation:  
-  alt: 204
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 204.0
+  citation: null
+  climate: BSk
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.528
   lon: -1.468
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Sheepdrove3:
-  active:  
-  affiliation:  
-  alt: 182
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 182.0
+  citation: null
+  climate: BSk
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.523
   lon: -1.486
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Silver Sword:
-  active:  
-  affiliation:  
-  alt: 2868
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 2868.0
+  citation: null
+  climate: BSh
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 19.765
   lon: -155.4234
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Soaproot:
-  active:  
-  affiliation:  
-  alt: 1160
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1160.0
+  citation: null
   climate: Csa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 37.031
   lon: -119.2564
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Sourhope:
-  active:  
-  affiliation:  
-  alt: 487
-  citation:  
+  active: null
+  affiliation: null
+  alt: 487.0
+  citation: null
   climate: Cwb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 55.4799
   lon: -2.23
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 SpenFarm:
-  active:  
-  affiliation:  
-  alt: 57
-  citation:  
+  active: null
+  affiliation: null
+  alt: 57.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 53.8689
   lon: -1.3189
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Sterling:
-  active:  
-  affiliation:  
-  alt: 95
-  citation:  
+  active: null
+  affiliation: null
+  alt: 95.0
+  citation: null
   climate: Dfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed
   lat: 38.9739
   lon: -77.4852
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Stiperstones:
-  active:  
-  affiliation:  
-  alt: 432
-  citation:  
+  active: null
+  affiliation: null
+  alt: 432.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 52.5812
   lon: -2.9447
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Stoughton:
-  active:  
-  affiliation:  
-  alt: 130
-  citation:  
+  active: null
+  affiliation: null
+  alt: 130.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.6016
   lon: -1.047
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Sydling:
-  active:  
-  affiliation:  
-  alt: 249
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 249.0
+  citation: null
+  climate: Cfb
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 50.8284
   lon: -2.5279
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 TadhamMoor:
-  active:  
-  affiliation:  
-  alt: 7
-  citation:  
+  active: null
+  affiliation: null
+  alt: 7.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 51.2075
   lon: -2.8288
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Temora:
-  active:  
-  affiliation:  
-  alt: 294
-  citation:  
+  active: null
+  affiliation: null
+  alt: 294.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: -34.4046
   lon: 147.5326
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Tenderfoot Creek:
-  active:  
-  affiliation:  
-  alt: 2255
-  citation:  
+  active: null
+  affiliation: null
+  alt: 2255.0
+  citation: null
   climate: Dfc
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 46.9514
   lon: -110.8871
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 TheLizard:
-  active:  
-  affiliation:  
-  alt: 85
-  citation:  
+  active: null
+  affiliation: null
+  alt: 85.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_herbaceous
   lat: 50.0328
   lon: -5.1999
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Tonzi Ranch:
-  active:  
-  affiliation:  
-  alt: 177
-  citation:  
+  active: null
+  affiliation: null
+  alt: 177.0
+  citation: null
   climate: Csa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 38.4316
   lon: -120.9659
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Toulouse:
-  active:  
-  affiliation:  
-  alt: 188
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 188.0
+  citation: null
+  climate: BSk
+  contact: null
   country: FRA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 43.385
   lon: 1.292
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Tower Ruin:
-  active:  
-  affiliation:  
-  alt: 1565
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1565.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: shrubland
   lat: 38.116806
   lon: -109.718361
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Trail Valley Forest:
-  active:  
-  affiliation:  
-  alt: 125
-  citation:  
+  active: null
+  affiliation: null
+  alt: 125.0
+  citation: null
   climate: Dfc
-  contact:  
+  contact: null
   country: CAN
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: lichens_and_mosses
   lat: 68.7227
   lon: -133.4955
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Trail Valley Main Met:
-  active:  
-  affiliation:  
-  alt: 125
-  citation:  
+  active: null
+  affiliation: null
+  alt: 125.0
+  citation: null
   climate: Dfc
-  contact:  
+  contact: null
   country: CAN
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: sparse_vegetation
   lat: 68.7455
   lon: -133.5
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Trail Valley Upper Plateau:
-  active:  
-  affiliation:  
-  alt: 150
-  citation:  
+  active: null
+  affiliation: null
+  alt: 150.0
+  citation: null
   climate: Dfc
-  contact:  
+  contact: null
   country: CAN
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: lichens_and_mosses
   lat: 68.6936
   lon: -133.6974
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Tullochgorum:
-  active:  
-  affiliation:  
-  alt: 285
-  citation:  
+  active: null
+  affiliation: null
+  alt: 285.0
+  citation: null
   climate: Cwb
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_cropland
   lat: -41.6694
   lon: 147.9117
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Tumbarumba:
-  active:  
-  affiliation:  
-  alt: 1200
-  citation:  
+  active: null
+  affiliation: null
+  alt: 1200.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_evergreen_closed_to_open
   lat: -35.656
   lon: 148.152
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Two Streams:
-  active:  
-  affiliation:  
-  alt: 1062
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 1062.0
+  citation: null
+  climate: Dfa
+  contact: null
   country: SA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: -29.2058
   lon: 30.6508
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 UMBS:
-  active:  
-  affiliation:  
-  alt: 220
-  citation:  
+  active: null
+  affiliation: null
+  alt: 220.0
+  citation: null
   climate: Dfb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 45.5598
   lon: -84.7138
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 UVA:
-  active:  
-  affiliation:  
-  alt: 120
-  citation:  
+  active: null
+  affiliation: null
+  alt: 120.0
+  citation: null
   climate: Cfa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_mixed
   lat: 37.9229
   lon: -78.2739
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 VCNP CZO:
-  active:  
-  affiliation:  
-  alt: 3037
-  citation:  
+  active: null
+  affiliation: null
+  alt: 3037.0
+  citation: null
   climate: Dwb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 35.8896
   lon: -106.5328
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Voulund:
-  active:  
-  affiliation:  
-  alt: 67
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 67.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DNK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 56.036
   lon: 9.156
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 W2-W3:
-  active:  
-  affiliation:  
-  alt: 204
-  citation:  
+  active: null
+  affiliation: null
+  alt: 204.0
+  citation: null
   climate: Cfb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.528472
   lon: -1.467528
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Waddesdon:
-  active:  
-  affiliation:  
-  alt: 98
-  citation:  
+  active: null
+  affiliation: null
+  alt: 98.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: 51.8395
   lon: -0.9484
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Weany Creek:
-  active:  
-  affiliation:  
-  alt: 287
-  citation:  
+  active: null
+  affiliation: null
+  alt: 287.0
+  citation: null
   climate: BSh
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: grassland
   lat: -19.882
   lon: 146.536
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 Weisssee:
-  active:  
-  affiliation:  
-  alt: 2464
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 2464.0
+  citation: null
+  climate: BSk
+  contact: null
   country: AUT
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 46.873
   lon: 10.714
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Wildacker:
-  active:  
-  affiliation:  
-  alt: 96
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 96.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 53.33
   lon: 13.199
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Wildenrath:
-  active:  
-  affiliation:  
-  alt: 72
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 72.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.133
   lon: 6.169
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Wimpole:
-  active:  
-  affiliation:  
-  alt: 30
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 30.0
+  citation: null
+  climate: Csb
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 52.1322
   lon: -0.0444
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Wind River:
-  active:  
-  affiliation:  
-  alt: 371
-  citation:  
+  active: null
+  affiliation: null
+  alt: 371.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_needleleaved_evergreen_closed_to_open
   lat: 45.8205
   lon: -121.9519
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Writtle:
-  active:  
-  affiliation:  
-  alt: 44
-  citation:  
+  active: null
+  affiliation: null
+  alt: 44.0
+  citation: null
   climate: Csb
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 51.734
   lon: 0.4179
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Wuestebach1:
-  active:  
-  affiliation:  
-  alt: 605
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 605.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.503
   lon: 6.333
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Wuestebach2:
-  active:  
-  affiliation:  
-  alt: 607
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 607.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.505
   lon: 6.331
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Wuestebach3:
-  active:  
-  affiliation:  
-  alt: 605
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 605.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.503
   lon: 6.336
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 WythamWoods:
-  active:  
-  affiliation:  
-  alt: 109
-  citation:  
+  active: null
+  affiliation: null
+  alt: 109.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: UK
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.7773
   lon: -1.3385
-  network:  
-  period:  
+  network: COSMOS-UK
+  period: null
 Yanco:
-  active:  
-  affiliation:  
-  alt: 124
-  citation:  
+  active: null
+  affiliation: null
+  alt: 124.0
+  citation: null
   climate: BSk
-  contact:  
+  contact: null
   country: AUS
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: mosaic_cropland
   lat: -35.005
   lon: 146.2992
-  network:  
-  period:  
+  network: CosmOz
+  period: null
 York Irrigated Maize:
-  active:  
-  affiliation:  
-  alt: 497
-  citation:  
+  active: null
+  affiliation: null
+  alt: 497.0
+  citation: null
   climate: Dwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.94822
   lon: -97.48745
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 York Irrigated Soybean:
-  active:  
-  affiliation:  
-  alt: 494
-  citation:  
+  active: null
+  affiliation: null
+  alt: 494.0
+  citation: null
   climate: Dwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.93379
   lon: -97.4587
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 York Rainfed:
-  active:  
-  affiliation:  
-  alt: 491
-  citation:  
+  active: null
+  affiliation: null
+  alt: 491.0
+  citation: null
   climate: Dwa
-  contact:  
+  contact: null
   country: USA
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
   landuse: cropland_rainfed_herbaceous_cover
   lat: 40.8899
   lon: -97.4586
-  network:  
-  period:  
+  network: COSMOS-USA
+  period: null
 Zerbst:
-  active:  
-  affiliation:  
-  alt: 74
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 74.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 51.993
   lon: 12.126
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
 Zuelpich:
-  active:  
-  affiliation:  
-  alt: 158
-  citation:  
-  climate:  
-  contact:  
+  active: null
+  affiliation: null
+  alt: 158.0
+  citation: null
+  climate: BSk
+  contact: null
   country: DEU
-  data:  
-  has_EC:  
-  has_TDT:  
-  has_gw:  
-  has_precip:  
-  landuse:  
+  data: null
+  has_EC: null
+  has_TDT: null
+  has_gw: null
+  has_precip: null
+  landuse: tree_broadleaved_deciduous_closed_to_open
   lat: 50.692
   lon: 6.717
-  network:  
-  period:  
+  network: COSMOS-EUROPE
+  period: null
